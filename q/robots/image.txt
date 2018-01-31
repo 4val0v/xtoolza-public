@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /applications/modules/admin
+Disallow: /rss
+Disallow: /captcha
+Disallow: /js
+Sitemap: http://site.ru/sitemap.xml
+Host: site.ru

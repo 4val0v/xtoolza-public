@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /?
+Disallow: /install/
+Disallow: /links/
+Disallow: /js/
+Disallow: /netcat/
+Disallow: /netcat_files/
+Disallow: /*.swf
+Disallow: /eng/
+Sitemap: http://site.ru/sitemap.xml
+Host: site.ru

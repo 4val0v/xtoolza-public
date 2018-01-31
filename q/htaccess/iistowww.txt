@@ -1,0 +1,13 @@
+<system.webServer>
+	<rewrite>
+		<rules>
+			<rule name="Redirect to WWW" stopProcessing="true">
+				<match url=".*" />
+				<conditions>
+				<add input="{HTTP_HOST}" pattern="^domain.ru$" />
+				</conditions>
+				<action type="Redirect" url="http://www.domain.ru/{R:0}" redirectType="Permanent" />
+			</rule>
+		</rules>
+	</rewrite>
+<system.webServer>

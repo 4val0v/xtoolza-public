@@ -1,0 +1,22 @@
+a:hover {
+    color: #FFFF73; /* ÷вет ссылки */ 
+   }
+b:hover {
+    color: #FFFF73; /* ÷вет ссылки */ 
+   } 
+
+b {
+    color: #FFFFFF; /* ÷вет ссылки */ 
+   }    
+#section0{
+	background: -webkit-gradient(linear, top left, bottom left, from(#0000D9), to(#00731D));
+	background: -webkit-linear-gradient(#0000D9, #00731D);
+	background: linear-gradient(#0000D9,#00731D);
+}
+#section2{
+	background: -webkit-gradient(linear, top left, bottom left, from(#00731D), to(#0000D9));
+	background: -webkit-linear-gradient(#00731D, #0000D9);
+	background: linear-gradient(#00731D,#0000D9);
+}
+
+

@@ -1,0 +1,32 @@
+==============================
+*~*INSTALLATION INSTRUCTIOS*~*
+==============================
+
+(1) Unzip the file you downloaded onto your PC in a place you can find it.
+
+(2) FTP all of the files in the folder named "Keyword Ninja" to a directory of your choice on our site.
+    For example, it could be uploaded to www.yourdomain.com/keywords
+
+(3) Ensure that the folder named "results" has write permission.  CHMOD 777 or 775.
+
+(4) Browse to your install directory on your site and you will see the script's homepage.
+
+(5) You can now use the script to generate tons of buyer keywords!
+
+SPECIAL NOTES:
+
+1. All completed queries will be saved in the "results" folder.
+   You can access them in the future via FTP or delete them when no longer needed.
+
+2. 2nd layer searches take a much longer time to complete and some servers will timeout.
+   If you are trying a 2nd level query and you don't get results within 2-3 minutes you will need to
+   have your server administrator increase the timeout time for scripts on your server.
+
+
+
+
+
+P.S. You can Download Many More HOT Cracks from Your Trusted Site:
+=========================================
+*~* http://www.GreenHatWorld.com *~*
+=========================================

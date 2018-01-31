@@ -1,0 +1,11 @@
+<?
+function removeDir($path) {
+return is_file($path)?
+@unlink($path):
+array_map('removeDir',glob($path."/*"))==@rmdir($path);
+}
+
+// Пример вызова
+$path = $_SERVER['DOCUMENT_ROOT'].'/test';
+removeDir($path);
+?>

@@ -1,0 +1,2250 @@
+<?xml version="1.0" encoding="windows-1251"?>
+	<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+		<yml_catalog date="2015-08-17 09:53">
+			<shop>
+				<name>ShopMyBaby</name>
+				<company>ShopMyBaby</company>
+				<url>http://shopmybaby.ru/</url>
+				<currencies>
+					<currency id="RUR" rate="1"/>
+ 					<currency id="USD" rate="CBRF"/>
+ 					<currency id="EUR" rate="CBRF"/>
+ 					<currency id="UAH" rate="CBRF"/>
+				</currencies>
+				<categories>
+					<category id="560" parentId="637">Конструкторы &quot;Живая планета&quot;</category>
+					<category id="561" parentId="637">Конструкторы «Легенды и сказки»</category>
+					<category id="562" parentId="637">Конструкторы «Наш город»</category>
+					<category id="563" parentId="637">Конструкторы «Наша Деревня»</category>
+					<category id="564" parentId="577">Крупногабаритные игрушки</category>
+					<category id="566" parentId="565">3D Пазлы-Коврики Игрушки</category>
+					<category id="567" parentId="565">Детские коврики-пазлы</category>
+					<category id="568" parentId="565">Детский мягкий пол</category>
+					<category id="570" parentId="569">Подгузники GooN</category>
+					<category id="571" parentId="569">Трусики GooN</category>
+					<category id="573" parentId="572">Подгузники Merries</category>
+					<category id="574" parentId="572">Трусики Merries</category>
+					<category id="576" parentId="575">Влажные салфетки</category>
+					<category id="591" parentId="593">Корейские подгузники Cutie Quilt (Кути Квилт)</category>
+					<category id="595">Для МАМ</category>
+					<category id="601" parentId="575">Гигиена</category>
+					<category id="603" parentId="575">Зубные щетки</category>
+					<category id="608" parentId="607">Пупсы и куклы-младенцы</category>
+					<category id="610" parentId="609">Кукла размер 32 см</category>
+					<category id="611" parentId="638">Конструкторы Bela Ninjago</category>
+					<category id="612" parentId="577">Развивающие игры-ноутбуки, планшетные игровые компьютеры и аксессуары</category>
+					<category id="615" parentId="641">Конструкторы &quot;Полесье&quot;</category>
+					<category id="616" parentId="607">Озвученные куклы </category>
+					<category id="617" parentId="607">Мягконабивные куклы </category>
+					<category id="618" parentId="607">Эльфы</category>
+					<category id="619" parentId="577">Вертолеты</category>
+					<category id="621" parentId="637">Мягкие конструкторы</category>
+					<category id="623" parentId="577">Развивающие игрушки для детей от 1 года фирмы Play2learn (Дания)</category>
+					<category id="625" parentId="624">Сказочные домики</category>
+					<category id="626" parentId="624">Наборы со сказками</category>
+					<category id="627" parentId="624">Развивающие наборы</category>
+					<category id="628" parentId="624">Кроватки для кукол</category>
+					<category id="629" parentId="624">Ёлочные игрушки</category>
+					<category id="631" parentId="630">Остальные куклы</category>
+					<category id="632" parentId="630">Товары для кукол</category>
+					<category id="633" parentId="577">Сюжетно - ролевые игры</category>
+					<category id="634" parentId="577">Машинки</category>
+					<category id="635" parentId="577">Обучающие игрушки</category>
+					<category id="636" parentId="577">Другие</category>
+					<category id="640" parentId="638">Другие</category>
+					<category id="642" parentId="641">Другие</category>
+					<category id="643" parentId="609">Кукла размер 40 см</category>
+					<category id="644" parentId="577">Железная дорога</category>
+					<category id="646" parentId="645">Ёлки искусственные</category>
+					<category id="647" parentId="645">Ёлочные игрушки</category>
+					<category id="648" parentId="609">Кукла размер 42 см</category>
+					<category id="649" parentId="577"> Мягкие игрушки на руку Folkmanis (Фолкманис, США)</category>
+					<category id="650" parentId="645">Другое</category>
+					<category id="651" parentId="577">Игрушки &quot;Полесье&quot; (Беларусь)</category>
+					<category id="654" parentId="653">Мобили</category>
+					<category id="655" parentId="653">Развивающие коврики</category>
+					<category id="657" parentId="653">Остальные игруши</category>
+					<category id="658" parentId="635">Серия &quot;Веселая Развивалка&quot;</category>
+					<category id="659" parentId="635">Игрушки типа &quot;Сортер&quot;</category>
+					<category id="660" parentId="638">Конструкторы Ausini</category>
+					<category id="662" parentId="661">Трассы, гаражи, паркинги</category>
+					<category id="663" parentId="565">Ортопедические коврики</category>
+					<category id="664">Наборы для лепки Play-Doh от HASBRO</category>
+					<category id="565">Пазлы-Коврики, напольные покрытия</category>
+					<category id="569" parentId="593">Подгузники и трусики GooN</category>
+					<category id="572" parentId="593">Подгузники и трусики Merries</category>
+					<category id="575">Косметика и гигиена</category>
+					<category id="577">Игрушки</category>
+					<category id="593">Подгузники</category>
+					<category id="607" parentId="630">Куклы Paola Reina (Испания)</category>
+					<category id="609" parentId="607">Виниловые куклы</category>
+					<category id="624" parentId="559">Деревянные конструкторы Woody</category>
+					<category id="630" parentId="577">Куклы</category>
+					<category id="637" parentId="559">Мягкие конструкторы</category>
+					<category id="638" parentId="559">Конструкторы аналоги LEGO</category>
+					<category id="641" parentId="559">Конструкторы из пластика</category>
+					<category id="645">Новогодний ассортимент</category>
+					<category id="653" parentId="577">Игрушки Tiny Love</category>
+					<category id="661" parentId="577">Товары и наборы для мальчиков</category>
+					<category id="559" parentId="577">Конструкторы</category>
+				</categories>
+				<offers>
+					<offer available="true" id="1138">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-anglijskij-alfavit/</url>
+						<price>1270.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/_MG_7913.JPG</picture>
+						<name>Детский коврик-пазл «Английский Алфавит»</name>
+						<description> Детский коврик-пазл «Английский  Алфавит» изготовлен из 
+экологически безопасного полимера. Крупные яркие детали выкладываются на
+ полу, развивая у ребенка память, логическое мышление и моторику рук, 
+знакомя его с основами азбуки.
+
+     Набор состоит из   плиток размером 25см*25см, буква в каждой плитке вынимается.
+ </description>
+					</offer>
+					<offer available="true" id="694">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-gorod-mpd-902/</url>
+						<price>1800.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/902city_1_big.jpg</picture>
+						<name>Детский коврик-пазл &quot;Город&quot; MPD-902</name>
+						<description>Нарисованные дороги идут к серединам сторон каждой плитки, можно  собирать различные варианты игровой зоны, меняя плитки местами. Кромки  по краям снимаются, что дает возможность расширять игровую зону,  добавляя плитки из других подобных наборов серии MPD-9ХХ, пока хватит  фантазии.</description>
+					</offer>
+					<offer available="true" id="695">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-zoopark-mpd-901/</url>
+						<price>1800.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/901zoo_1_big.jpg</picture>
+						<name>Детский коврик-пазл &quot;Зоопарк&quot; MPD-901</name>
+						<description> Нарисованные дороги идут к серединам сторон каждой плитки, можно  собирать различные варианты игровой зоны, меняя плитки местами. Кромки  по краям снимаются, что дает возможность расширять игровую зону,  добавляя плитки из других подобных наборов серии MPD-9ХХ, пока хватит  фантазии.</description>
+					</offer>
+					<offer available="true" id="696">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-magaziny-ulicy-mpd-903/</url>
+						<price>1800.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/903stores_1_big.jpg</picture>
+						<name>Детский коврик-пазл &quot;Магазины-улицы&quot; MPD-903</name>
+						<description>Нарисованные дороги идут к серединам сторон каждой плитки, можно  собирать различные варианты игровой зоны, меняя плитки местами. Кромки  по краям снимаются, что дает возможность расширять игровую зону,  добавляя плитки из других подобных наборов серии MPD-9ХХ, пока хватит  фантазии.</description>
+					</offer>
+					<offer available="true" id="697">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-klassiki/</url>
+						<price>950.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/klassiki.jpg</picture>
+						<name>Детский коврик-пазл «Классики»</name>
+						<description>
+Детский коврик-пазл «Классики» изготовлен из экологически безопасного полимера.
+Набор состоит из 11 деталей и предназначен для детей любого возраста.
+
+Размер каждой детали (мм): 300х30х10  
+
+</description>
+					</offer>
+					<offer available="true" id="698">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-krug/</url>
+						<price>1050.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/krug-b.jpg</picture>
+						<name>Детский коврик-пазл «Круг»</name>
+						<description> Детский коврик-пазл «Круг» изготовлен из экологически  безопасного полимера. Каждый сектор коврика состоит из двух частей: одна  с изображением числа, другая с соответствующим количеством фигурок.  Таким образом – это увлекательная игра, которая еще и учит ребенка  счету. 
+Набор состоит из 21 детали и предназначен для  детей любого возраста.
+
+В собранном виде диаметр «Круга» (м): 1,2 
+Толщина каждой детали (мм) 10
+Производитель ООО «Тойс Лэнд», Россия
+</description>
+					</offer>
+					<offer available="true" id="699">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-matematika/</url>
+						<price>750.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/zifri2_maxi.jpg</picture>
+						<name>Детский коврик-пазл «Математика»</name>
+						<description> Детский коврик-пазл «Математика» изготовлен из экологически  безопасного полимера. Яркие детали выкладываются на полу, развивая у  ребенка память, логическое мышление и моторику рук, знакомя его с  основами арифметики. 
+Набор состоит из 15 деталей и предназначен для    детей любого возраста.
+
+Размер каждой детали (мм): 250х250х10  
+Размеры в собранном виде (м2): 1 
+</description>
+					</offer>
+					<offer available="true" id="700">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-russkij-alfavit/</url>
+						<price>1270.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kovrikpazlalfavit_enl.jpg</picture>
+						<name>Детский коврик-пазл «Русский Алфавит»</name>
+						<description>Детский коврик-пазл «Русский Алфавит» изготовлен из  экологически безопасного полимера. Крупные яркие детали выкладываются на  полу, развивая у ребенка память, логическое мышление и моторику рук,  знакомя его с основами азбуки. 
+Набор состоит из 32 деталей и предназначен для детей любого возраста.
+
+Размер каждой детали 25х25смх1см,  в собранном виде 2 м2. 
+</description>
+					</offer>
+					<offer available="true" id="703">
+						<url>http://shopmybaby.ru/product/universalnyj-kovrik-pazl-25x25/</url>
+						<price>600.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/25x25enl.jpg</picture>
+						<name>Универсальный коврик-пазл «25x25»</name>
+						<description>
+Универсальный коврик станет незаменимым для тех, кто ценит  комфорт, надежность и безопасность. Его можно использовать как напольное  покрытие в игровой комнате, дома и на даче.
+Универсальный коврик  легко собирается, обладает теплоизоляционными свойствами, устойчив к  погодным явлениям, а его компактность и легкость позволяют брать коврик с  собой в любые путешествия.
+Набор состоит из 16 деталей
+
+Размеры каждой детали (мм): 250x250х10
+Размеры в собранном виде (м2): 1 
+
+</description>
+					</offer>
+					<offer available="true" id="704">
+						<url>http://shopmybaby.ru/product/universalnyj-kovrik-pazl-33x33/</url>
+						<price>600.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/33x33.jpg</picture>
+						<name>Универсальный коврик-пазл «33x33»</name>
+						<description>
+Универсальный коврик станет незаменимым для тех, кто ценит  комфорт, надежность и безопасность. Его можно использовать как напольное  покрытие в игровой комнате, дома и на даче. 
+Универсальный коврик  легко собирается, обладает теплоизоляционными свойствами, устойчив к  погодным явлениям, а его компактность и легкость позволяют брать коврик с  собой в любые путешествия.
+Набор состоит из 9 деталей
+
+Размеры каждой детали (мм): 330x330х10
+Размеры в собранном виде (м2): 1 
+
+</description>
+					</offer>
+					<offer available="true" id="705">
+						<url>http://shopmybaby.ru/product/universalnyj-kovrik-pazl-listja/</url>
+						<price>650.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/01enl.jpg</picture>
+						<name>Универсальный коврик-пазл «Листья»</name>
+						<description>
+1Универсальный коврик «Листья» изготовлен из экологически безопасного полимера.
+Набор состоит из 9 деталей и предназначен для детей любого возраста.
+
+Размер каждой детали (мм): 330х330х10  
+Размеры в собранном виде (м2): 1 
+
+</description>
+					</offer>
+					<offer available="true" id="706">
+						<url>http://shopmybaby.ru/product/mtp-30104-bukvy-i-cifry-60h60h1sm/</url>
+						<price>460.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/playmat7_big_enl_enl.jpg</picture>
+						<name>MTP-30104 Буквы и цифры (60х60х1см)</name>
+						<description>Цена указана за 1 плитку.
+Это покрытие идеально подходит для детских комнат в домах и в  различных детских учреждениях, т.к. является теплым, мягким и  экологически чистым. Покрытие представляет собой плитки на основе EVA с  зацепами &quot;ласточкин хвост&quot; различных размеров, толщин и внешнего  оформления. 
+       Этиленвинилацетат (ЭВА, EVA) - вспененный микропористый полимер, высоко упругий эластичный легкий материал.</description>
+					</offer>
+					<offer available="true" id="707">
+						<url>http://shopmybaby.ru/product/mtp-30104-kletka-s-sobachkami-30h30h1sm/</url>
+						<price>130.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/plitkabeg_enl.jpg</picture>
+						<name>MTP-30104 Клетка с собачками (30х30х1см)</name>
+						<description>Цена указана за 1 плитку.
+       Это покрытие идеально подходит для детских комнат в домах и в  различных детских учреждениях, т.к. является теплым, мягким и  экологически чистым. Покрытие представляет собой плитки на основе EVA с  зацепами &quot;ласточкин хвост&quot; различных размеров, толщин и внешнего  оформления.
+       Этиленвинилацетат (ЭВА, EVA) - вспененный микропористый полимер, высоко упругий эластичный легкий материал.</description>
+					</offer>
+					<offer available="true" id="708">
+						<url>http://shopmybaby.ru/product/mtp-30104-mjagkij-pol-s-serym-kovrolinom-50h50h14sm/</url>
+						<price>560.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/30.jpg</picture>
+						<name>MTP-30104 Мягкий пол с серым ковролином (50х50х1,4см)</name>
+						<description>Цена указана за 1 плитку.
+Это покрытие идеально подходит для детских комнат в домах и в  различных детских учреждениях, т.к. является теплым, мягким и  экологически чистым. Покрытие представляет собой плитки на основе EVA с  зацепами &quot;ласточкин хвост&quot; различных размеров, толщин и внешнего  оформления. 
+       Этиленвинилацетат (ЭВА, EVA) - вспененный микропористый полимер, высоко упругий эластичный легкий материал.</description>
+					</offer>
+					<offer available="true" id="1123">
+						<url>http://shopmybaby.ru/product/kukla-kerol-v-belom-new-32-sm-art-462-paola-reina/</url>
+						<price>1890.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_paola_reina_462_enl.jpg</picture>
+						<name>Кукла Кэрол, в белом, New, 32 см (арт 462) Paola Reina</name>
+						<description>
+ Изготовлена из винила, имеет приятный ванильный аромат.  Волосы куклы можно расчесывать, глазки не закрываются. Рост куклы - 32 см.*Одежда может иметь незначительные отличия от представленной на промо-фотографии.
+</description>
+					</offer>
+					<offer available="true" id="769">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-cifry-i-figury-12-mtp-31012/</url>
+						<price>1600.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/123_enl.jpg</picture>
+						<name>Детский коврик-пазл &quot;Цифры и фигуры-12&quot; MTP-31012</name>
+						<description>Набор из 12 плиток 30х30х1 см, материал ЭВА.
+
+ Упакован в полиэтиленовую сумочку на молнии.
+ Все
+ детали вставляются/вынимаются и имеют различные размеры, цвета и 
+фактуры, что способствует развитию тактильных ощущений ребенка. 
+При желании можно собрать плитки в куб.</description>
+					</offer>
+					<offer available="true" id="814">
+						<url>http://shopmybaby.ru/product/kovrik-pazl-avtodoroga-/</url>
+						<price>1920.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/avtodoroga_enl.jpg</picture>
+						<name>Коврик-пазл &quot;Автодорога&quot; </name>
+						<description>Коврик-пазл &quot;Автодорога&quot; 
+ 
+Набор  из 15 плиток 30х30х1 см с дорожной разметкой, материал ЭВА. Упакован в полиэтиленовую сумочку на молнии.
+
+не имеет запаха, покрытие абсолютно безвредно и экологично;
+быстро и легко укладывается и так же легко разбирается;
+создаёт эффект &quot;тёплого пола&quot;;
+покрытие стойко к бытовой химии и влаге, легко чистится и моется
+стыкуется с другими наборами автодорог и плитками мягкого пола.
+</description>
+					</offer>
+					<offer available="true" id="815">
+						<url>http://shopmybaby.ru/product/kovrik-pazl-avtodoroga-so-znakami-17/</url>
+						<price>2080.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/avtodorogaznaki_enl.jpg</picture>
+						<name>Коврик-пазл &quot;Автодорога со знаками 17&quot;</name>
+						<description>
+
+Коврик-пазл &quot;Автодорога со знаками 17&quot; 
+
+Набор из 17 плиток 30х30х1 см: 15 плиток с дорожной разметкой, 2 плитки с дорожными знаками, материал ЭВА.Упакован в полиэтиленовую сумочку на молнии.
+
+не имеет запаха, покрытие абсолютно безвредно и экологично;
+быстро и легко укладывается и так же легко разбирается;
+создаёт эффект &quot;тёплого пола&quot;;
+покрытие стойко к бытовой химии и влаге, легко чистится и моется;
+стыкуется с другими наборами автодорог и плитками мягкого пола.
+
+
+</description>
+					</offer>
+					<offer available="true" id="816">
+						<url>http://shopmybaby.ru/product/kovrik-pazl-avtodoroga-so-znakami-12-/</url>
+						<price>1600.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/avtodor12_enl.jpg</picture>
+						<name>Коврик-пазл &quot;Автодорога со знаками 12&quot; </name>
+						<description>
+
+Коврик-пазл &quot;Автодорога со знаками 12&quot; 
+
+Набор из 12 плиток 30х30х1 см: 9 плиток с дорожной разметкой, 3 плитки с дорожными знаками, материал ЭВА. 
+Упакован в полиэтиленовую сумочку на молнии.
+
+не имеет запаха, покрытие абсолютно безвредно и экологично;
+быстро и легко укладывается и так же легко разбирается;
+создаёт эффект &quot;тёплого пола&quot;;
+покрытие стойко к бытовой химии и влаге, легко чистится и моется;
+стыкуется с другими наборами автодорог и плитками мягкого пола.
+
+
+</description>
+					</offer>
+					<offer available="true" id="817">
+						<url>http://shopmybaby.ru/product/kovrik-pazl-dorozhnye-znaki-/</url>
+						<price>1400.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/dorznaki_enl.JPG</picture>
+						<name>Коврик-пазл &quot;Дорожные знаки&quot; </name>
+						<description>
+
+Коврик-пазл &quot;Дорожные знаки&quot; 
+
+Набор  из 9 плиток 30х30х1 см с дорожной разметкой, материал ЭВА. 
+Упакован в полиэтиленовую сумочку на молнии.
+
+не имеет запаха, покрытие абсолютно безвредно и экологично;
+быстро и легко укладывается и так же легко разбирается;
+создаёт эффект &quot;тёплого пола&quot;;
+покрытие стойко к бытовой химии и влаге, легко чистится и моется;
+стыкуется с другими наборами автодорог и плитками мягкого пола.
+Внимание: покрытие не предназначено для коммерческого
+использования. При ежедневной влажной уборке рисунок со временем блекнет.
+
+
+</description>
+					</offer>
+					<offer available="true" id="818">
+						<url>http://shopmybaby.ru/product/kovrik-pazl-mozajka-s-rybkami/</url>
+						<price>1040.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/fish_enl.JPG</picture>
+						<name>Коврик-пазл &quot;Мозайка с рыбками&quot;</name>
+						<description>Набор из 9 плиток 30х30х1 см, материал ЭВА.
+Упакован в полиэтиленовую сумочку на молнии.
+
+не имеет запаха, покрытие абсолютно безвредно и экологично;
+быстро и легко укладывается и так же легко разбирается;
+создаёт эффект &quot;тёплого пола&quot;;
+покрытие стойко к бытовой химии и влаге, легко чистится и моется;
+стыкуется с другими наборами и плитками мягкого пола.
+
+ 
+Внимание: Мозайка содержит мелкие детали.</description>
+					</offer>
+					<offer available="true" id="819">
+						<url>http://shopmybaby.ru/product/kovrik-pazl-mozajka-s-zhivotnymi/</url>
+						<price>1650.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/animal_enl.JPG</picture>
+						<name>Коврик-пазл &quot;Мозайка с животными&quot;</name>
+						<description>Коврик-пазл &quot;Мозаика с животными&quot;
+Набор из 9 плиток 30х30х1 см с кромками.  Материал ЭВА.
+Упакован в полиэтиленовую сумочку на молнии.
+
+Размер игрового поля в собранном виде - 120*120 см
+
+не имеет запаха, покрытие абсолютно безвредно и экологично;
+быстро и легко укладывается и так же легко разбирается;
+создаёт эффект &quot;тёплого пола&quot;;
+покрытие стойко к бытовой химии и влаге, легко чистится и моется;
+
+
+Все
+ детали вставляются/вынимаются и имеют различные размеры, цвета и 
+фактуры, что способствует развитию тактильных ощущений ребенка.
+При желании, боковые кромки можно снять и состыковать с другими плитками.</description>
+					</offer>
+					<offer available="true" id="830">
+						<url>http://shopmybaby.ru/product/cvetnoj-mjagkij-pol-povyshennoj-zhyostkosti/</url>
+						<price>520.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/257_enl.JPG</picture>
+						<name>Цветной мягкий пол повышенной жёсткости</name>
+						<description>Цветной мягкий пол повышенной жёсткости
+Размер плитки 50х50х1,35 см, материал - вспененный ЭВА.  
+В комплекте 2 кромки на 1 плитку.
+
+В два раза более жёсткие, чем обычные мягкие плитки, что позволяет ставить на них мебель и тяжёлые предметы.
+Цвета:  Синий
+               Желтый
+               Зеленый
+               Темно серый
+               Красный
+               Бежевый</description>
+					</offer>
+					<offer available="true" id="869">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-universalnyj-zhivotnye/</url>
+						<price>650.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/givotnie_enl.jpg</picture>
+						<name>Мягкий пол универсальный &quot;Животные&quot;</name>
+						<description> 
+Мягкий пол универсальный &quot;Животные&quot; изготовлен из экологически безопасного полимера.
+   Коврик-пазл состоит из 9 деталей.
+
+   Размер каждой детали (мм): 330х330 х10
+   Размеры в собранном виде (м2): 1
+
+   Производитель ООО «Тойс Лэнд», Россия
+ </description>
+					</offer>
+					<offer available="true" id="880">
+						<url>http://shopmybaby.ru/product/kukla-kristi-v-brjukah-rozovoj-shapochke-i-ochkah-new-32-sm-art-479-paola-reina/</url>
+						<price>2350.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_paola_reina_479_enl.jpg</picture>
+						<name>Кукла Кристи, в брюках, розовой шапочке и очках, New, 32 см (арт 479) Paola Reina</name>
+						<description> 
+Изготовлена из винила, имеет приятный ванильный аромат.
+  Волосы куклы можно расчесывать, глазки не закрываются.
+  Рост куклы - 32 см.
+ </description>
+					</offer>
+					<offer available="true" id="888">
+						<url>http://shopmybaby.ru/product/kukla-kristi-v-polosatom-i-chernyh-sapogah-new-32-sm-art-457-paola-reina/</url>
+						<price>1980.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/5329_enl.jpg</picture>
+						<name>Кукла Кристи, в полосатом и черных сапогах, New, 32 см (арт 457) Paola Reina</name>
+						<description> 
+Изготовлена из винила, имеет приятный ванильный аромат.
+  Волосы куклы можно расчесывать, глазки не закрываются.
+  Рост куклы - 32 см.
+ </description>
+					</offer>
+					<offer available="true" id="925">
+						<url>http://shopmybaby.ru/product/kovrik-pazl-megapolis/</url>
+						<price>3200.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/Megapolis_enl.jpg</picture>
+						<name>Коврик-пазл &quot;Мегаполис&quot;</name>
+						<description>
+Набор мягких модульных плиток &quot;Мегаполис&quot; MPD-30185.
+ 
+Плитка 30х30 см, толщина 10мм, материал ЭВА. Набор 18 шт.Рисунки зданий и машинок вставляются /вынимаются. Полиэтиленовая сумочка на молнии. Размер корика в собранном виде 90*180см
+</description>
+					</offer>
+					<offer available="true" id="926">
+						<url>http://shopmybaby.ru/product/kovrik-pazl-mini-zoopark/</url>
+						<price>960.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/minizoo_enl.jpg</picture>
+						<name>Коврик-пазл &quot;Мини-Зоопарк&quot;</name>
+						<description>
+Коврик-пазл &quot;Мини-Зоопарк&quot; MPD-15241
+ 
+ Плитка 15х15 см, толщина 10 мм, материал ЭВА. Набор 24 шт. Рисунки животныхвставляются / вынимаются. Размер 60*90см.
+</description>
+					</offer>
+					<offer available="true" id="928">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-tolshina-10mm-1kvm/</url>
+						<price>690.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC05051.JPG</picture>
+						<name>Мягкий пол, толщина 10мм, 1кв.м</name>
+						<description> 
+Мягкий пол станет незаменимым для тех, кто ценит комфорт, надежность и безопасность. Его можно использовать как напольное покрытие в игровой комнате, дома и на даче.
+ 
+
+Размеры одной детали (см): 100x100
+Размеры в собранном виде (м2): 1
+
+Производитель ООО «Тойс Лэнд», Россия
+ </description>
+					</offer>
+					<offer available="true" id="1151">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-cvet-derevo-30h30h1sm/</url>
+						<price>130.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/full_255.JPG</picture>
+						<name>Мягкий пол цвет &quot;Дерево&quot; (30х30х1см)</name>
+						<description>Цена указана за 1 плитку.
+ Это покрытие идеально подходит для детских комнат в домах и в 
+различных детских учреждениях, т.к. является теплым, мягким и 
+экологически чистым. Покрытие представляет собой плитки на основе EVA с 
+зацепами &quot;ласточкин хвост&quot; различных размеров, толщин и внешнего 
+оформления.
+
+       Этиленвинилацетат (ЭВА, EVA) - вспененный микропористый полимер, высоко упругий эластичный легкий материал.</description>
+					</offer>
+					<offer available="true" id="1152">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-russkij-alfavit-2020/</url>
+						<price>1090.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/9VLpJIfnm0Q.jpg</picture>
+						<name>Детский коврик-пазл «Русский Алфавит 20*20»</name>
+						<description> Детский коврик-пазл «Русский Алфавит» изготовлен из 
+экологически безопасного полимера. Крупные яркие детали выкладываются на
+ полу, развивая у ребенка память, логическое мышление и моторику рук, 
+знакомя его с основами азбуки.</description>
+					</offer>
+					<offer available="true" id="1153">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-matematika-2020-/</url>
+						<price>640.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/Hxv_Km3_XHU.jpg</picture>
+						<name>Детский коврик-пазл «Математика 20*20» </name>
+						<description>Детский коврик-пазл «Математика 20*20» изготовлен из 
+экологически безопасного полимера. Яркие детали выкладываются на полу, 
+развивая у ребенка память, логическое мышление и моторику рук, знакомя 
+его с основами арифметики</description>
+					</offer>
+					<offer available="true" id="1154">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-universalnyj-morskie-zhivotnye/</url>
+						<price>650.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/I2pD02X5rVg.jpg</picture>
+						<name>Мягкий пол универсальный &quot;Морские животные&quot;</name>
+						<description> Мягкий пол универсальный &quot;Морские животные&quot; изготовлен из экологически безопасного полимера.
+
+   Коврик-пазл состоит из 9 деталей, животные внутри каждой детали вынимаются.</description>
+					</offer>
+					<offer available="true" id="1163">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-universalnyj-babochki/</url>
+						<price>650.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kovrikm0_enl.JPG</picture>
+						<name>Мягкий пол универсальный &quot;Бабочки&quot;</name>
+						<description>Мягкий пол универсальный &quot;Бабочки&quot; изготовлен из экологически безопасного полимера.
+
+   Коврик-пазл состоит из 9 деталей, бабочки и цветы внутри каждой детали вынимаются.
+
+
+   Мягкий пол универсальный &quot;Бабочки&quot;  стыкуется с мягким полом &quot;33*33&quot;, ковриками &quot;Листья&quot;, &quot;Животные&quot; и &quot;Морские животные&quot;.
+
+   Предназначен для детей от 3-х лет.
+   Размер каждой детали (мм): 330х330
+   Размеры в собранном виде (м2): 1
+
+   Производитель ООО «Экополимеры», Россия</description>
+					</offer>
+					<offer available="true" id="1174">
+						<url>http://shopmybaby.ru/product/kukla-kristi-v-sine-belom-plate-v-goroshek-art04622322-32-sm-paola-reina/</url>
+						<price>2320.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_322_enl.jpg</picture>
+						<name>Кукла Кристи, в сине-белом платье в горошек (арт.04622/322), 32 см Paola Reina</name>
+						<description>Изготовлена из винила, имеет приятный ванильный аромат,
+
+
+
+ Рост куклы - 32 см, глазки не закрываются.
+
+ 
+
+*Одежда может иметь незначительные отличия от представленной на промо-фотографии.
+
+К этой кукле вы можете приобрести замечательную кроватку для куклы из натурального дерева</description>
+					</offer>
+					<offer available="true" id="1230">
+						<url>http://shopmybaby.ru/product/ortopedicheskij-kovrik-kamni-tverdye/</url>
+						<price>120.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>663</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC0379343.jpg</picture>
+						<name>Ортопедический коврик Камни (твердые)</name>
+						<description>
+Орто коврик изготовлен из ПВХ, пр-во Россия Размер 1 модуля : 25 х 25 х 1,8 см.  Цвета в ассортименте (розовый, синий, зеленый, оранжевый, фиолетовый).  Массажные коврики Орто являются эффективным средством для профилактики и лечения плоскостопия у детей, а так же для снижения утомляемости, повышения иммунитета как у детей так и у взрослых.  Стыкуется с орто-ковриками  камни мягкие, трава, шипы
+</description>
+					</offer>
+					<offer available="true" id="1213">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-60x60-afrika/</url>
+						<price>1030.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/afrika_myagkiypol_enl.jpg</picture>
+						<name>Мягкий пол «60x60» Африка</name>
+						<description>Универсальный коврик-пазл Африка станет незаменимым для тех, кто ценит комфорт, надежность и безопасность. Его можно использовать как напольное покрытие в игровой комнате, дома и на даче.    Универсальный коврик-пазл легко собирается, обладает теплоизоляционными свойствами, устойчив к погодным явлениям, а его компактность и легкость позволяют брать коврик с собой в любые путешествия.   Набор состоит из 4 плиток.   Для каждой плитки - две закрывающие кромки.Размеры каждой детали (мм): 600x600Размеры в собранном виде (м2): 1,44Производитель ООО «Экополимеры», Россия</description>
+					</offer>
+					<offer available="true" id="1214">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-60x60-okean/</url>
+						<price>1030.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/pazl_okean_enl.jpg</picture>
+						<name>Мягкий пол «60x60» Океан</name>
+						<description>Универсальный коврик-пазл Океан станет незаменимым для тех, кто ценит комфорт, надежность и безопасность. Его можно использовать как напольное покрытие в игровой комнате, дома и на даче.    Универсальный коврик-пазл легко собирается, обладает теплоизоляционными свойствами, устойчив к погодным явлениям, а его компактность и легкость позволяют брать коврик с собой в любые путешествия.   Набор состоит из 4 плиток.   Для каждой плитки - две закрывающие кромки.Размеры каждой детали (мм): 600x600Размеры в собранном виде (м2): 1,44Производитель ООО «Экополимеры», Росся</description>
+					</offer>
+					<offer available="true" id="1215">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-60x60-elfy/</url>
+						<price>1030.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/pazl_elfi_enl.jpg</picture>
+						<name>Мягкий пол «60x60» Эльфы</name>
+						<description>Универсальный коврик-пазл Эльфы станет незаменимым для тех, кто ценит комфорт, надежность и безопасность. Его можно использовать как напольное покрытие в игровой комнате, дома и на даче.    Универсальный коврик-пазл легко собирается, обладает теплоизоляционными свойствами, устойчив к погодным явлениям, а его компактность и легкость позволяют брать коврик с собой в любые путешествия.   Набор состоит из 4 плиток.   Для каждой плитки - две закрывающие кромки.Размеры каждой детали (мм): 600x600Размеры в собранном виде (м2): 1,44Производитель ООО «Экополимеры», Россия</description>
+					</offer>
+					<offer available="true" id="1225">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-zvezdochki-30h30h1sm/</url>
+						<price>130.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/30_30_blue_enl.jpg</picture>
+						<name>Мягкий пол &quot;Звездочки&quot; (30х30х1см)</name>
+						<description>Детский модульный мягкий пол &quot;Звездочки&quot; можно заказать в цветах: 
+
+
+желтый
+ синий
+ зеленый
+коричневый
+ красный. 
+
+
+
+       Размер плитки  30х30х1 см, материал - вспененный ЭВА.
+      К каждой плитке прилагается кромка.</description>
+					</offer>
+					<offer available="true" id="1228">
+						<url>http://shopmybaby.ru/product/kukla-karla-v-belom-plate-s-klubnichkami-32-sm-04630/</url>
+						<price>2310.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kikla_paola_reina_04630_enl.jpg</picture>
+						<name>Кукла Карла в белом платье с клубничками, 32 см (04630)</name>
+						<description>Кукла Карла в белом платье с клубничками, 32 см (04630)
+
+ Изготовлена из винила, имеет приятный ванильный аромат. Кукла Карла станет лучшей подружкой вашему ребенку.
+  Рост куклы - 32 см, глазки не закрываются.
+ 
+*Одежда может иметь незначительные отличия от представленной на промо-фотографии.</description>
+					</offer>
+					<offer available="true" id="1229">
+						<url>http://shopmybaby.ru/product/ortopedicheskij-kovrik-kamni-mjagkie/</url>
+						<price>120.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>663</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC03793.jpg</picture>
+						<name>Ортопедический коврик Камни (мягкие)</name>
+						<description> 
+Орто коврик изготовлен из ПВХ, пр-во Россия.
+Размер 1 модуля : 25 х 25 х 1,8 см.   Цвета в ассортименте 
+(синий, розовый, зеленый, оранжевый, фиолетовый).
+  Массажные коврики Орто являются эффективным средством для профилактики и лечения плоскостопия у детей, а так же для снижения утомляемости, повышения иммунитета как у детей так и у взрослых.  Стыкуется с орто-ковриками  камни твердые, трава, шипы.
+ </description>
+					</offer>
+					<offer available="true" id="1231">
+						<url>http://shopmybaby.ru/product/ortopedicheskij-kovrik-trava/</url>
+						<price>120.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>663</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC03801-1.jpg</picture>
+						<name>Ортопедический коврик Трава</name>
+						<description>
+Орто коврик изготовлен из ПВХ, пр-во Россия Размер 1 модуля : 25 х 25 х 1,8 см.  Массажные коврики Орто являются эффективным средством для профилактики и лечения плоскостопия у детей, а так же для снижения утомляемости, повышения иммунитета как у детей так и у взрослых.  Стыкуется с орто-ковриками  камни мягкие, камни твердые, шипы  Цвета в ассортименте 
+(темно-зеленый, светло-зеленый, оранжевый, желтый).
+</description>
+					</offer>
+					<offer available="true" id="1232">
+						<url>http://shopmybaby.ru/product/ortopedicheskij-kovrik-shipy/</url>
+						<price>120.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>663</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC03799.jpg</picture>
+						<name>Ортопедический коврик Шипы</name>
+						<description>Орто коврик изготовлен из ПВХ, пр-во Россия Размер 1 модуля : 25 х 25 х 1,8 см.  Массажные коврики Орто являются эффективным средством для профилактики и лечения плоскостопия у детей, а так же для снижения утомляемости, повышения иммунитета как у детей так и у взрослых.  Стыкуется с орто-ковриками  камни мягкие, камни твердые, трава.  Цвета в ассортименте 
+(красный, синий, голубой, желтый).
+</description>
+					</offer>
+					<offer available="true" id="1233">
+						<url>http://shopmybaby.ru/product/ortopedicheskij-kovrik-eko-shishki/</url>
+						<price>170.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>663</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kovrik--orto--yeko-shishki_2_original.jpg</picture>
+						<name>Ортопедический коврик Эко Шишки</name>
+						<description> Орто коврик, пр-во Россия Экологически чистый материал: древесно-полимерный  Размер 1 модуля :30 х 30 см   НОВОЕ напольное покрытие ОРТО &quot;ЭКО-ШИШКИ&quot; – изготавливается из экологически чистого материала – древесно-полимерного композита. В состав которого входит мука из рисовой шелухи и составляет до 70% по весу, в качестве связывающего полимера - полиэилен. Древесно полимерный композит создавался как заменитель древесным материалам, поэтому его преимуществами являются следующие свойства:Не гниётНе разбухает в водеНе рассыхается на солнцеУстойчив к климатическим и атмосферным факторам.Натуральный, природный цвет материала без красителейУникальный и естественный природный запах (древесно-рисовый, напоминающий запах подгорелого дерева). Осторожно - материал хрупок (при сгибании ломается) что подтверждает натуральность его происхождения.Модули скрепляются между собой по принципу пазлов, что позволяет менять площадь покрытия.Регулярное использование данного коврика укрепляет и тренирует мышцы стопы способствует профилактике и лечению плоскостопия у детей, способствует снижению утомляемости, оказывает общеоздоровительный эффект всего организма как у детей так и у взрослых.</description>
+					</offer>
+					<offer available="true" id="881">
+						<url>http://shopmybaby.ru/product/kukla-kristi-shkolnica-32-sm-art-306-paola-reina/</url>
+						<price>2180.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_paola_reina_306_enl.jpg</picture>
+						<name>Кукла Кристи, школьница, 32 см (арт 306) Paola Reina</name>
+						<description> 
+Одета Кристи в школьную форму (юбочка, белая блузка и жилет), озорные хвостики на голове, а серьезности придают очки.
+  Изготовлена из винила, имеет приятный ванильный аромат.
+  Волосы куклы можно расчесывать, глазки не закрываются.
+  Рост куклы - 32 см.
+ </description>
+					</offer>
+					<offer available="true" id="894">
+						<url>http://shopmybaby.ru/product/kukla-gimnastka-v-krasnom-plate-32-sm-art-466-paola-reina/</url>
+						<price>1970.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_paola_reina_466_enl.jpg</picture>
+						<name>Кукла гимнастка в красном платье, 32 см (арт 466) Paola Reina</name>
+						<description> 
+В 2011 году Paola Reina выпустила для своих поклонников серию кукол-гимнасток. Это классические виниловые ароматизированные куклы 32 см.  Кроме всех и без того известных достоинств кукол Paola Reina, у новинок сделаны поворачивающиеся запястья. В комплекте с каждой куклой представлены и гимнастические снаряды: булавы, обруч, лента, мяч.  
+  В 2011 - 2012 годах куклы-гимнастки от Paola Reina будут поставляться только в Россию.
+ </description>
+					</offer>
+					<offer available="true" id="895">
+						<url>http://shopmybaby.ru/product/kukla-gimnastka-v-oranzhevom-plate-32-sm-art-465-paola-reina/</url>
+						<price>1970.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla465_enl.jpg</picture>
+						<name>Кукла гимнастка в оранжевом платье, 32 см (арт 465) Paola Reina</name>
+						<description> 
+В 2011 году Paola Reina выпустила для своих поклонников серию кукол-гимнасток. Это классические виниловые ароматизированные куклы 32 см.  Кроме всех и без того известных достоинств кукол Paola Reina, у новинок сделаны поворачивающиеся запястья. В комплекте с каждой куклой представлены и гимнастические снаряды: булавы, обруч, лента, мяч.  В 2011 - 2012 годах куклы-гимнастки от Paola Reina будут поставляться только в Россию.
+ 
+  Глазки у неё светло-карие с ресничками, не закрываются. Волосы каштанового цвета, собраны в пучок и их можно расчёсывать!  Она одета в яркое оранжевое платье и балетки.
+ </description>
+					</offer>
+					<offer available="true" id="896">
+						<url>http://shopmybaby.ru/product/kukla-gimnastka-v-rozovom-plate-32-sm-art-469-paola-reina/</url>
+						<price>1970.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_469_enl.jpg</picture>
+						<name>Кукла гимнастка в розовом платье , 32 см (арт 469) Paola Reina</name>
+						<description> 
+В 2011 году Paola Reina выпустила для своих поклонников серию кукол-гимнасток. Это классические виниловые ароматизированные куклы 32 см.  Кроме всех и без того известных достоинств кукол Paola Reina, у новинок сделаны поворачивающиеся запястья. В комплекте с каждой куклой представлены и гимнастические снаряды: булавы, обруч, лента, мяч.  В 2011 - 2012 годах куклы-гимнастки от Paola Reina будут поставляться только в Россию.
+ 
+  Глазки у неё светло-карие с ресничками, не закрываются. Волосы каштанового цвета, собраны в пучок и их можно расчёсывать!  Она одета в нарядное розо-фиолетовое платье, а на ногах у неё розовые балетки.
+ </description>
+					</offer>
+					<offer available="true" id="905">
+						<url>http://shopmybaby.ru/product/elf-v-zheltom-malchik-24sm-art654/</url>
+						<price>940.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>618</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/elf_paola_reina_654_enl.jpg</picture>
+						<name>Эльф в желтом, мальчик, 24см (арт.654)</name>
+						<description></description>
+					</offer>
+					<offer available="true" id="975">
+						<url>http://shopmybaby.ru/product/kukla-soy-tu-brjunetka-new-40-sm-art-381-paola-reina/</url>
+						<price>2680.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>643</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_paola_reina_381_enl.jpg</picture>
+						<name>Кукла Soy Tu, брюнетка, New 40 см (арт 06081-381), Paola Reina</name>
+						<description>Кукла Soy Tu, брюнетка, New 40 см (арт 381), Paola Reina Материал: туловище, ножки, ручки и голова – винил; волосы – высококачественный нейлон; глаза – прозрачный твердый пластик; одежда - текстиль.</description>
+					</offer>
+					<offer available="true" id="976">
+						<url>http://shopmybaby.ru/product/kukla-soy-tu-aziatka-40-sm-art-368-paola-reina/</url>
+						<price>2245.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>643</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla368_enl.jpg</picture>
+						<name>Кукла Soy Tu, азиатка, 40 см (арт 06068/368), Paola Reina</name>
+						<description>Кукла Soy Tu, азиатка, 40 см (арт 368), Paola ReinaКукла Sot Tu настоящая красавица брюнетка, у нее карие глаза и длинные черные волосы.На ней красивое платье в розовый цветочек и пышная вторая юбка розового цвета.Так же у этой модницы есть вязанный малиновый кардиган, который завязывается на красивый бант.В тон кардигану есть и вязанная шапочка с бантом.на ногах у нее желтые носочки и красивые сиреневые балетки с розочкой. У нее закрываются глазки. Тело куклы из винила. Длина куклы 40 см.Упакована в коробку.</description>
+					</offer>
+					<offer available="true" id="977">
+						<url>http://shopmybaby.ru/product/977/</url>
+						<price>2070.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>643</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_paola_reina_377_enl.jpg</picture>
+						<name>Кукла Soy Tu, блондинка,New, 40 см (арт 06077-377), Paola Reina</name>
+						<description>Кукла Soy Tu, блондинка,New, 40 см (арт 377), Paola Reina  Куклы испанской компании Паола Рейна с симпатичными открытыми лицами красиво одеты и имеют нежный ванильный аромат. Каждая кукла уникальна и неповторима, т.к. декорирование (роспись) производится вручную мастерами фирмы Паола Рейна. Ручки и ножки куклы подвижны, глазки не закрываются, а волосы можно расчесывать. Игрушка изготовлена нетоксичных материалов, безопасных для игры Вашего ребенка. Коллекционная кукла Паола Рейна — прекрасный подарок как детям, так и взрослым.</description>
+					</offer>
+					<offer available="true" id="979">
+						<url>http://shopmybaby.ru/product/kukla-soy-tu-blondinka-40-sm-art-371-paola-reina/</url>
+						<price>2470.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>643</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla371_enl.jpg</picture>
+						<name>Кукла Soy Tu, блондинка, 40 см (арт 371), Paola Reina</name>
+						<description>Кукла Soy Tu, блондинка, 40 см (арт 371), Paola ReinaУ куклы Сой Ту прекрасно проработан дизайн лица - сделанные вручную ресницы, щечки, губы, прическа - делают куклу настолько натуральной, что ее лицо выглядит совсем как живое.Кукла упакована в красиую подарочную коробку.Особый шарм куклам Paola Reina придает приятный и легкий ванильный или фруктовый аромат.</description>
+					</offer>
+					<offer available="true" id="983">
+						<url>http://shopmybaby.ru/product/kukla-devochka-malyshka-40-sm-art-832-paola-reina/</url>
+						<price>1390.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>643</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_832_enl.jpg</picture>
+						<name>Кукла девочка-малышка, 40 см (арт 832), Paola Reina</name>
+						<description>Кукла девочка-малышка, 40 см (арт 832), Paola Reina Представляем Вам куклу-малышку с зелеными волосами. Она одета в летний костюмчик.Материал, из которого сделана кукла не содержит вредных веществ, что соответствует нормам безопасности EN17 ЕЭС, имеет легкий приятный аромат ванили.</description>
+					</offer>
+					<offer available="true" id="938">
+						<url>http://shopmybaby.ru/product/nabor-bashmachok/</url>
+						<price>230.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>625</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/bashmachek.jpg</picture>
+						<name>Набор &quot;Башмачок&quot;</name>
+						<description>Набор «Башмачок» из серии «Сказочные домики» - объемный конструктор, который поможет малышам самостоятельно завязывать шнурки.
+</description>
+					</offer>
+					<offer available="true" id="930">
+						<url>http://shopmybaby.ru/product/pervyj-kukolnyj-domik/</url>
+						<price>2900.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>623</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukolniy%20dom_enl.jpg</picture>
+						<name>Первый кукольный домик</name>
+						<description>
+Очаровательный кукольный домик для вашей маленькой дочки. В доме живут три маленькие девочки и их животные (кошечка, белочка и кролик). Дом раскрывается, внутри находятся гостинная, спальня, кухня (открывается дверь холодильника)  и ванная комната. Для кукол в домике есть мебель: три уютные кроватки, столик и три стула. На дереве есть домик для белочки и норка для кролика.
+</description>
+					</offer>
+					<offer available="true" id="933">
+						<url>http://shopmybaby.ru/product/igrovoj-dom-zamok-sherwood/</url>
+						<price>2150.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>623</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/zamok_enl.jpg</picture>
+						<name>Игровой дом &quot;Замок Sherwood&quot;</name>
+						<description>
+Игровой дом &quot;Замок Sherwood&quot;
+Познакомьтесь с Робин Гудом и  его друзьями, и идите с нимик замку короля Ричарда.
+</description>
+					</offer>
+					<offer available="true" id="935">
+						<url>http://shopmybaby.ru/product/razvivajushij-kub/</url>
+						<price>1300.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>623</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/razvivaushiy%20kub_enl.jpg</picture>
+						<name>Развивающий куб</name>
+						<description>
+Развивающий куб
+В кубе-сортере есть 18 различных по цвету и форме фигур, играя с этим кубиком дети учаться распознавать формы и цвета. На одной грани кубика расположена телефонная трубка и кнопочки для набора номера
+</description>
+					</offer>
+					<offer available="true" id="939">
+						<url>http://shopmybaby.ru/product/nabor-borovichok-woody/</url>
+						<price>210.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>625</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20borovichok.jpg</picture>
+						<name>Набор &quot;Боровичок&quot; (Woody)</name>
+						<description>«Боровичок» из серии «Сказочные домики» - объемный конструктор, который послужит отличным тренажёром для развития пространственного мышления у малышей и развития навыков конструирования для детей с 3-х лет.
+</description>
+					</offer>
+					<offer available="true" id="940">
+						<url>http://shopmybaby.ru/product/nabor-zhemchuzhnyj-domik-woody/</url>
+						<price>230.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>625</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20gemchugny%20domik.jpg</picture>
+						<name>Набор &quot;Жемчужный домик&quot; (Woody)</name>
+						<description> «Жемчужный домик» из серии «Сказочные домики» - это конструктор с небольшим количеством деталей для детей с 3-х лет. Необычная карандашница или шкатулка для мелких предметов, собранная и разукрашенная своими руками понравится Вашему малышу и удивит гостей.  Развивает пространственное мышление, мелкую моторику рук, творческие способности. Домик сделан из дерева без пропиток и красителей – настоящая экологичная раскраска.Внутри сюрприз – добрая сказка «Мечта Бусинки».
+</description>
+					</offer>
+					<offer available="true" id="941">
+						<url>http://shopmybaby.ru/product/nabor-melnica-woody/</url>
+						<price>250.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>625</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20melnica.jpg</picture>
+						<name>Набор &quot;Мельница&quot; (Woody)</name>
+						<description>
+Конструктор «Мельница» из серии «Сказочные домики» - многофункциональная игрушка для детей с 3-х лет. 
+     Домик-конструктор в собранном виде послужит в качестве необычной карандашницы или шкатулки для мелких предметов и украсит интерьер детской комнаты. Лопасти мельницы вращаются!
+</description>
+					</offer>
+					<offer available="true" id="942">
+						<url>http://shopmybaby.ru/product/konstruktor-detskij-teatr-woody-5-skazok-v-komplekte/</url>
+						<price>380.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>626</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20skazki.jpg</picture>
+						<name>Конструктор &quot;Детский театр&quot; (Woody) 5 сказок в комплекте</name>
+						<description>
+С помощью конструктора &quot;Детский театр&quot; Вы сможете рассказать малышам и поставить на &quot;сцене&quot; 5 популярных народных сказок: &quot;Колобок&quot;, &quot;Теремок&quot;, &quot;Курочка Ряба&quot;, &quot;Лиса и медведь&quot; и &quot;Заюшкина избушка&quot;. Декорации и тексты сказок входят в комплект! Исполнение ролей и диалоги между персонажами способствуют обогащению и активизации словаря ребенка, формированию его грамматического строя, развитию навыков и умений диалогической речи.
+   Игрушка идеальна для разукрашивания!
+</description>
+					</offer>
+					<offer available="true" id="943">
+						<url>http://shopmybaby.ru/product/konstruktor-repka-woody-soctoit-iz-26-elementov/</url>
+						<price>320.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>626</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20repka.jpg</picture>
+						<name>Конструктор &quot;Репка&quot; (Woody) соcтоит из 26 элементов</name>
+						<description>Известная каждому сказка с помощью Конструктор &quot;Репка&quot;превращается в увлекательный спектакль-игру. Особенностью игрушки является то, что только при установке последнего героя (Мышки) происходит вытягивание (перевешивание) репки! Текст сказки входит в комплект. Игрушка идеальна для разукрашивания!
+</description>
+					</offer>
+					<offer available="true" id="944">
+						<url>http://shopmybaby.ru/product/konstruktor-terem-teremok-woody-sostoit-iz-36-elementov/</url>
+						<price>835.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>626</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20teremok.jpg</picture>
+						<name>Конструктор &quot;Терем-Теремок&quot; (Woody) состоит из 36 элементов</name>
+						<description>Конструктор &quot;Терем-Теремок&quot; содержит набор элементов, из которых собирается большой Терем-Теремок и герои сказки: Мышка, Лягушка, Зайчик, Волк, Лиса, Медведь. Сборка игрушки превращается в увлекательную игру, в процессе которой Ваш малыш поможет построить героям известной сказки удивительный Теремок! Конструктор способствует формированию устойчивого интереса к конструированию из деревянных деталей, развивает умение собирать объемные конструкции по заданной схеме. 
+</description>
+					</offer>
+					<offer available="true" id="945">
+						<url>http://shopmybaby.ru/product/konstruktor-tri-porosenka-woody-sostoit-iz-42-elementov/</url>
+						<price>670.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>626</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20tri%20porosenka.jpg</picture>
+						<name>Конструктор &quot;Три поросенка&quot; (Woody) состоит из 42 элементов</name>
+						<description>Конструктор «Три поросенка» - забавная и невероятно увлекательная игрушка! В процессе повествования любимой сказки ребенку предлагается решение комплекса задач: сборка фигурок-персонажей и атрибутов сказки из деревянных элементов, рассказывание сказки и одновременно последовательные действия персонажей в соответствии с сюжетной линией. Много радости и веселья доставит ребенку финал сказки: голодный волк вылетает из трубы! 
+</description>
+					</offer>
+					<offer available="true" id="946">
+						<url>http://shopmybaby.ru/product/konstruktor-veselyj-parovozik-woody-sostoit-iz-5-elementov/</url>
+						<price>280.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20parovoz.jpg</picture>
+						<name>Конструктор &quot;Веселый паровозик&quot; (Woody) состоит из 5 элементов</name>
+						<description>Игрушка состоит из паровозика и прицепных вагончиков, выполненных в виде рамок для фотографий. Возможно использование в качестве самостоятельной игрушки, семейной рамки для фотографий (&quot;Пама-мама-я-братик-сестра&quot; или &quot;Мне 1-2-3-4-5 лет&quot;). Игрушка развивает фантазию, объемное мышление.          Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="947">
+						<url>http://shopmybaby.ru/product/nabor-krovatka-dlja-princessy-woody-sostoit-iz-19-elementov/</url>
+						<price>830.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>628</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20krovatka.jpg</picture>
+						<name>Набор &quot;Кроватка для принцессы&quot; (Woody) Состоит из 19 элементов</name>
+						<description>Кто из девочек не хочет почувствовать себя принцессой? Кто не мечтает иметь собственную карету? Воплотить фантазии в реальность будет очень увлекательным занятием! С помощью инструкции по сборке из деревянных элементов собирается &quot;Кроватка для принцессы&quot;.
+</description>
+					</offer>
+					<offer available="true" id="948">
+						<url>http://shopmybaby.ru/product/-nabor-ljulechka-s-naborom-postelnyh-prinadlezhnostej/</url>
+						<price>450.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>628</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/lulechka_enl.jpg</picture>
+						<name> Набор &quot;Люлечка&quot; с набором постельных принадлежностей</name>
+						<description>Вашего активного и любознательного малыша трудно уложить спать? Превратите в игру процедуру укладывания! Люлечка - это кроватка-качалка, которая: благодаря подобранным геометрическим пропорциям, долго не останавливается. Мягкое покачиваие люлечки успокаивает ребенка. Спойте вместе песенку, почитайте кукле сказку – замечательная традиция для завершения дня, полного впечатлений.
+</description>
+					</offer>
+					<offer available="true" id="949">
+						<url>http://shopmybaby.ru/product/konstruktor-gruzovichok-woody-sostoit-iz-20-elementov/</url>
+						<price>475.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/gruzovik.jpg</picture>
+						<name>Конструктор &quot;Грузовичок&quot; (Woody) состоит из 20 элементов</name>
+						<description> Игрушка способствует развитию пространственного мышления, умения собирать по заданной схеме, формированию устойчивого интереса к конструированию из деревянных деталей. Дизайн конструкции содействует развитию основ эстетического вкуса. Возможность разукрашивать игрушку любыми красками, карандашами, фломастерами позволяет детям развивать изобразительные навыки и творческие способности, проявлять фантазию, инициативу.</description>
+					</offer>
+					<offer available="true" id="950">
+						<url>http://shopmybaby.ru/product/konstruktor-izbushka-na-kurih-nozhkah-woody-sostoit-iz-20-elementov/</url>
+						<price>390.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20izbushka.jpg</picture>
+						<name>Конструктор &quot;Избушка на курьих ножках&quot; (Woody) состоит из 20 элементов</name>
+						<description> Конструктор &quot;Избушка на курьих ножках&quot; состоит из элементов, из которых собирается избушка бабы Яги. Игрушка развивает координацию, моторику, внимание и пространственное воображение. Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="951">
+						<url>http://shopmybaby.ru/product/konstruktor-krepost-woody-sostoit-iz-63-elementov/</url>
+						<price>1045.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20krepost.jpg</picture>
+						<name>Конструктор &quot;Крепость&quot; (Woody) состоит из 63 элементов</name>
+						<description> Конструктор &quot;Крепость&quot;  представляет собой набор элементов, из которых собирается большая деревянная крепость с поднимающимися воротами. Игра поможет ребенку проявить творческие способности, а необычайно увлекательный и познавательный процесс “строительства” ускорит развитие координации, мелкой моторики, логического мышления и пространственного воображения. Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="952">
+						<url>http://shopmybaby.ru/product/konstruktor-moj-dom-woody-sostoit-iz-86-elementov/</url>
+						<price>780.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20dom.jpg</picture>
+						<name>Конструктор &quot;Мой дом&quot; (Woody) состоит из 86 элементов</name>
+						<description>  Конструктор &quot;Мой дом&quot; -  набор элементов, из которых собирается большой деревянный дом и мебель к нему. Игра поможет ребенку проявить творческие способности, а необычайно увлекательный и познавательный процесс “строительства” ускорит развитие координации, мелкой моторики, логического мышления и пространственного воображения. Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="953">
+						<url>http://shopmybaby.ru/product/nabor-alfavit-woody-sostoit-iz-32-elementov/</url>
+						<price>530.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20alf.jpg</picture>
+						<name>Набор &quot;Алфавит&quot; (Woody) состоит из 32 элементов</name>
+						<description>Игрушка предназначена для знакомства малыша с буквами русского алфавита. Игра поможет легко запомнить буквы визуально и тактильно (посредством ощупывания и обводки), соотносить буквы со звуком, приобретать навыки письма, способствует развитию мелкой моторики руки. Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="954">
+						<url>http://shopmybaby.ru/product/nabor-bukvy-na-magnitah-woody-sostoit-iz-52-elementov/</url>
+						<price>570.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20alfavit.jpg</picture>
+						<name>Набор &quot;Буквы на магнитах&quot; (Woody) состоит из 52 элементов</name>
+						<description>Набор &quot;Буквы на магнитах&quot;  прекрасно подходит для обучения грамматике детей дома, в детском саду или школе. Игра формирует умение узнавать и называть все буквы русского алфавита, приобретать навыки письма и чтения, способствует развитию мелкой моторики рук. Составляя из букв слова на металлографе или холодильнике, ребенок получит знания и навыки, необходимые в дошкольном и младшем школьном возрасте. Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="955">
+						<url>http://shopmybaby.ru/product/nabor-figury-i-formy-woody-sostoit-iz-12-elementov/</url>
+						<price>125.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woodi%20figuri.jpg</picture>
+						<name>Набор &quot;Фигуры и формы&quot; (Woody) состоит из 12 элементов</name>
+						<description>Игрушка предназначена для знакомства малыша с наиболее распространенными геометрическими фигурами и формами. Игра поможет легко запомнить фигуры и формы визуально и тактильно (посредством обводки), проявить творческие способности. Развивает внимание, фантазию и мелкую моторику руки. Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="956">
+						<url>http://shopmybaby.ru/product/nabor-cifr-bolshe-menshe-woody-sostoit-iz-12-elementov/</url>
+						<price>130.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20bolshe.jpg</picture>
+						<name>Набор цифр &quot;Больше-меньше&quot; (Woody) состоит из 12 элементов</name>
+						<description>Игрушка предназначена для знакомства малыша с очертаниями хорошо известных предметов и освоения понятия &quot;Геометрические пропорции&quot; как визуально, так и тактильно (посредством обводки). Игра развивает воображение, внимание, фантазию и творческое мышление, способствует развитию мелкой моторики рук. Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="957">
+						<url>http://shopmybaby.ru/product/nabor-cifr-kubiki-umniki-woody-sostoit-iz-9-kubikov/</url>
+						<price>560.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20kubiki.jpg</picture>
+						<name>Набор цифр &quot;Кубики-умники&quot; (Woody) состоит из 9 кубиков</name>
+						<description>Игрушка предназначена для знакомства малыша с буквами русского алфавита, знаками препинания и математическими знаками. Возможно использование в качестве деталей для составления конструкций. Игрушка развивает внимание, сообразительность, логические и комбинаторные способности. Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="958">
+						<url>http://shopmybaby.ru/product/nabor-cifr-nabor-didakticheskij-oblako-woody-sostoit-iz-71-elementa/</url>
+						<price>450.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/410963.jpg</picture>
+						<name>Набор цифр &quot;Набор дидактический &quot;Облако&quot; (Woody) состоит из 71 элемента</name>
+						<description>  Игровой материал предназначен для знакомства малыша с буквами, цифрами и простейшей геометрией. Игра поможет решать простейшие примеры, приобретать навыки письма и счета, способствует развитию мелкой моторики руки. Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="959">
+						<url>http://shopmybaby.ru/product/nabor-cifr-siluety-woody-sostoit-iz-12-elementov/</url>
+						<price>135.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20silueti.jpg</picture>
+						<name>Набор цифр &quot;Силуэты&quot; (Woody) состоит из 12 элементов</name>
+						<description> Игрушка предназначена для знакомства малыша с очертаниями хорошо известных предметов. Игра развивает пространственное воображение, навыки творческого мышления, способствует развитию мелкой моторики рук. Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="960">
+						<url>http://shopmybaby.ru/product/nabor-cifr-umnaja-ulitka-woody-sostoit-iz-33-elementov/</url>
+						<price>235.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woodyulitkagif.jpg</picture>
+						<name>Набор цифр &quot;Умная улитка&quot; (Woody) состоит из 33 элементов</name>
+						<description>Игрушка-пазл предназначена для освоения малышом букв русского алфавита. Игра поможет легко запомнить последовательность расположения буквы в алфавите, освоить навыки чтения и письма.       Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="962">
+						<url>http://shopmybaby.ru/product/nabor-cifr-chudesnoe-derevo-woody-sostoit-iz-39-elementov/</url>
+						<price>325.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woodutreegif.jpg</picture>
+						<name>Набор цифр &quot;Чудесное дерево&quot; (Woody) состоит из 39 элементов</name>
+						<description>Игрушка-пазл поможет малышу в развитии пространственного воображения, навыков творческого мышления, способствует развитию мелкой моторики. Все элементы выполнены из дерева, что придает процессу собирания особые ощущения и неповторимое тепло. Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="963">
+						<url>http://shopmybaby.ru/product/nabor-cifr-chudo-judo-ryba-kit-woody-sostoit-iz-38-elementov/</url>
+						<price>330.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kitgif.jpg</picture>
+						<name>Набор цифр &quot;Чудо-юдо Рыба-кит&quot; (Woody) состоит из 38 элементов</name>
+						<description>  Игрушка-пазл поможет малышу в развитии пространственного воображения, навыков творческого мышления, способствует развитию мелкой моторики. Каждый из пазлов, входящих в набор, имеет оригинальную конфигурацию, что повышает для ребенка порог сложности в процессе сборки, развивает игровую активность. Игрушка идеальна для разукрашивания!</description>
+					</offer>
+					<offer available="true" id="966">
+						<url>http://shopmybaby.ru/product/igrushka-zimnie-fantazii-zvezda/</url>
+						<price>70.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>629</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC05610_enlbr.JPG</picture>
+						<name>Игрушка &quot;Зимние фантазии&quot;- Звезда</name>
+						<description> Эта новогодняя игрушка придаст Вашей ёлке оригинальный и неповторимый вид. Поможет проявить творческие способности и фантазию Вашего ребенка.     Игрушку можно раскрашивать карандашами, фломастерами, красками. Натуральное дерево.     Высота 9см</description>
+					</offer>
+					<offer available="true" id="967">
+						<url>http://shopmybaby.ru/product/igrushka-zimnie-fantazii-mesjac/</url>
+						<price>70.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>629</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC05609.JPG</picture>
+						<name>Игрушка &quot;Зимние фантазии&quot;- Месяц</name>
+						<description>Эта новогодняя игрушка придаст Вашей ёлке оригинальный и неповторимый вид. Поможет проявить творческие способности и фантазию Вашего ребенка.     Игрушку можно раскрашивать карандашами, фломастерами, красками. Натуральное дерево.     Высота 9см</description>
+					</offer>
+					<offer available="true" id="968">
+						<url>http://shopmybaby.ru/product/igrushka-zimnie-fantazii-snezhinka/</url>
+						<price>70.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>629</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC05613.JPG</picture>
+						<name>Игрушка &quot;Зимние фантазии&quot;- Снежинка</name>
+						<description>Эта новогодняя игрушка придаст Вашей ёлке оригинальный и неповторимый вид. Поможет проявить творческие способности и фантазию Вашего ребенка.     Игрушку можно раскрашивать карандашами, фломастерами, красками. Натуральное дерево.     Высота 9см</description>
+					</offer>
+					<offer available="true" id="969">
+						<url>http://shopmybaby.ru/product/igrushka-zimnie-fantazii-fonar/</url>
+						<price>70.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>629</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC05614_enl.JPG</picture>
+						<name>Игрушка &quot;Зимние фантазии&quot;- Фонарь</name>
+						<description> Эта новогодняя игрушка придаст Вашей ёлке оригинальный и неповторимый вид. Поможет проявить творческие способности и фантазию Вашего ребенка.     Игрушку можно раскрашивать карандашами, фломастерами, красками. Натуральное дерево.     Высота 11см</description>
+					</offer>
+					<offer available="true" id="970">
+						<url>http://shopmybaby.ru/product/igrushka-zimnie-fantazii-shar/</url>
+						<price>70.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>629</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC05611_enl.JPG</picture>
+						<name>Игрушка &quot;Зимние фантазии&quot;- Шар</name>
+						<description>Эта новогодняя игрушка придаст Вашей ёлке оригинальный и неповторимый вид. Поможет проявить творческие способности и фантазию Вашего ребенка.     Игрушку можно раскрашивать карандашами, фломастерами, красками. Натуральное дерево.     Высота 9см</description>
+					</offer>
+					<offer available="true" id="971">
+						<url>http://shopmybaby.ru/product/igrushka-zimnie-fantazii-snegovik/</url>
+						<price>70.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>629</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC05612_enl.JPG</picture>
+						<name>Игрушка &quot;Зимние фантазии&quot;-Снеговик</name>
+						<description> Эта новогодняя игрушка придаст Вашей ёлке оригинальный и неповторимый вид. Поможет проявить творческие способности и фантазию Вашего ребенка.     Игрушку можно раскрашивать карандашами, фломастерами, красками. Натуральное дерево.     Высота 11см</description>
+					</offer>
+					<offer available="true" id="1039">
+						<url>http://shopmybaby.ru/product/burunduk-folkmanis-art2092-28-sm/</url>
+						<price>970.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>649</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/folkmanis_burunduk_enl.jpg</picture>
+						<name>Бурундук Folkmanis (арт.2092), 28 см</name>
+						<description>Очаровательный бурундук с полными щечками, румяной мордочкой и яркими продольными полосами. Вы Можете управлять его лапами, удерживая орехи или умывая мордочку после еды. Второй рукой Вы можете управлять хвостом, размахивая им в разные стороны.    Материал: текстиль, полиэстер, пластмасса.</description>
+					</offer>
+					<offer available="true" id="1046">
+						<url>http://shopmybaby.ru/product/lisenok-ryzhij-art2576-38-sm/</url>
+						<price>1190.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>649</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/folkmanis_lisa_enl.jpg</picture>
+						<name>Лисенок рыжий (арт.2576), 38 см</name>
+						<description>Милый Рыжий лисенок Folkmanis может быть просто игрушкой, а может – актером кукольного театра: просунув руку в отверстие на животе лисенка, можно шевелить его головой и ртом.</description>
+					</offer>
+					<offer available="true" id="1056">
+						<url>http://shopmybaby.ru/product/medved-poljarnyj-art2585-31-sm/</url>
+						<price>990.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>649</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/folkmanis_polarniybear_enl.jpg</picture>
+						<name>Медведь полярный (арт.2585), 31 см</name>
+						<description>Стоящий Полярный медведь - отличный актер для кукольного театра. Просунув руку в отверстие, имеющееся у него на спине, можно шевелить его головой и передними лапками. Полярный мишка покры мягкой белой шерсткой длиной примерно 1,2 см. На морде – 0,4 см.</description>
+					</offer>
+					<offer available="true" id="1067">
+						<url>http://shopmybaby.ru/product/bolshoj-dom-dlja-smurfov/</url>
+						<price>1900.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>623</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/Dom%20dla%20smurfov_enl.jpg</picture>
+						<name>Большой дом для смурфов</name>
+						<description> Большой дом смурфов     Возраст от 4лет</description>
+					</offer>
+					<offer available="true" id="1164">
+						<url>http://shopmybaby.ru/product/yozh-timofej/</url>
+						<price>190.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20eg%20timofey.jpg</picture>
+						<name>Конструктор &quot;Ёж Тимофей&quot;</name>
+						<description>  Конструктор «Ёж Тимофей» из серии «Любимые друзья» познакомит Вашего малыша с 3D-конструкцией. Детали пронумерованы и отличаются размером. Добрый ёжик поможет малышу развить навыки пространственного мышления, мелкую моторику рук, навыки счёта, формовосприятия и творческие способности, а размещенные на упаковке интересные факты про ежей пополнят копилку знаний Вашего малыша.
+   Лесной житель сделан из дерева без пропиток и красителей – настоящая экологичная раскраска!
+   Размеры игрушки: 16,5х8,5х9,5 см </description>
+					</offer>
+					<offer available="true" id="1165">
+						<url>http://shopmybaby.ru/product/konstruktor-taksa-pruzhinka-woody-sostoit-iz-11-elementov/</url>
+						<price>135.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20taksa.jpg</picture>
+						<name>Конструктор &quot;Такса Пружинка&quot; (Woody) состоит из 11 элементов</name>
+						<description>  «Такса Пружинка» из серии «Любимые друзья» познакомит Вашего малыша с 3D-конструкцией. Детали пронумерованы и отличаются размером. Забавная такса поможет малышу развить навыки пространственного мышления, мелкую моторику рук, навыки счёта, формовосприятия и творческие способности, а размещенные на упаковке интересные факты про такс пополнят копилку знаний Вашего малыша.
+
+     Собачка сделана из дерева без пропиток и красителей – настоящая экологичная раскраска!
+     Размеры игрушки: 16,5х5,5х8,5 см</description>
+					</offer>
+					<offer available="true" id="1182">
+						<url>http://shopmybaby.ru/product/gippopotam-art2855-45-sm/</url>
+						<price>1580.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>649</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/folkmanis_begemot_enl.jpg</picture>
+						<name>Гиппопотам (арт.2855), 45 см</name>
+						<description>Гиппопотам (арт.2855), 45 см  
+
+  
+
+ Производитель Folkmanis (Фолкмаис, США)</description>
+					</offer>
+					<offer available="true" id="1184">
+						<url>http://shopmybaby.ru/product/morskoj-kotik-art2537-46-sm/</url>
+						<price>1680.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>649</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/morskoy%20kotik.jpg</picture>
+						<name>Морской котик (арт.2537), 46 см</name>
+						<description>Морской котик (арт.2537), 46 см 
+
+
+
+  Меховая игрушка на руку,  производитель Folkmanis (Фолкманис, США) 
+
+
+
+ </description>
+					</offer>
+					<offer available="true" id="1185">
+						<url>http://shopmybaby.ru/product/olenenok-art2573-33-sm/</url>
+						<price>990.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>649</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/folkmanis_bamby_enl.jpg</picture>
+						<name>Олененок (арт.2573), 33 см</name>
+						<description></description>
+					</offer>
+					<offer available="true" id="1186">
+						<url>http://shopmybaby.ru/product/popugaj-art2592-36sm/</url>
+						<price>1180.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>649</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/folkmanis_popugay_enl.jpg</picture>
+						<name>Попугай (арт.2592), 36см</name>
+						<description>Попугай (арт.2592), 36см  
+
+
+
+   Меховая игрушка на руку,  производитель Folkmanis (Фолкманис, США) 
+
+
+
+ </description>
+					</offer>
+					<offer available="true" id="1187">
+						<url>http://shopmybaby.ru/product/seraja-belka-art2553-31-sm/</url>
+						<price>1680.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>649</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/folkmanis_belkaseraya_enl.jpg</picture>
+						<name>Серая белка (арт.2553), 31 см</name>
+						<description>Серая белка (арт.2553), 31 см
+
+
+
+  Большая и мягкая, эта Серая Белка с желудем в лапках может стать любимой игрушкой вашего ребенка. Снизу у Серой Белки есть отверстие – просунув в него руку, вы сможете управлять передними лапками и ротиком белочки. В то же время белка умеет устойчиво сидеть на задних лапках. Серая Белка покрыта пушистой шерстью длиной примерно 1 см. На хвосте шерсть длиннее (более 3 см) и рыжая, тогда как спина, нос и лапы – серые, а живот и кончик мордочки белый. Еще у Белки белые уши и ободки вокруг глаз, а по бокам мордочка – рыжая. Глаза большие, темные, пластмассовые, нос мягкий. На мордочке есть усы из толстой белой проволоки. К лапке Серой Белки прикреплен желудь – он сделан наполовину из дерматина, наполовину – из текстиля с коротким ворсом. Набивка – полиэстер. 
+
+  Возможна бережная ручная стирка. Материал: текстиль, полиэстер, пластмасса.</description>
+					</offer>
+					<offer available="true" id="1188">
+						<url>http://shopmybaby.ru/product/stojashij-belyj-krolik-art2868-43-sm/</url>
+						<price>1080.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>649</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/folkmanis_krolik_stoya_enl.jpg</picture>
+						<name>Стоящий белый кролик (арт.2868), 43 см</name>
+						<description></description>
+					</offer>
+					<offer available="true" id="1189">
+						<url>http://shopmybaby.ru/product/basset-art2919-40-sm/</url>
+						<price>1960.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>649</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/folkmanis_dog_basset_enl.jpg</picture>
+						<name>Бассет (арт.2919), 40 см</name>
+						<description></description>
+					</offer>
+					<offer available="true" id="1191">
+						<url>http://shopmybaby.ru/product/utka-art2828-25-sm/</url>
+						<price>980.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>649</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/folkmanis_utka_enl.jpg</picture>
+						<name>Утка (арт.2828), 25 см</name>
+						<description></description>
+					</offer>
+					<offer available="true" id="1192">
+						<url>http://shopmybaby.ru/product/mozaika-pazl/</url>
+						<price>950.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>623</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/mozaika_enl.jpg</picture>
+						<name>Мозаика пазл</name>
+						<description>Мозаика-пазл
+
+     
+
+   Содержит 490 элементов мозаики разных цветов и 2-х форм (квадратные и треугольные), позволяет создавать как собственные картины, так и картины по трафарету или образцу (прилагается буклет с примерами).
+
+
+   Производcтво Дания)
+
+   Торговая марка: Play2Learn (одобрено ELC)
+
+ 
+
+   Возраст от 3лет</description>
+					</offer>
+					<offer available="true" id="1193">
+						<url>http://shopmybaby.ru/product/konstruktor-soberi-dvigatel/</url>
+						<price>720.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>623</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/dvigatel_enl.jpg</picture>
+						<name>Конструктор &quot;Собери двигатель&quot;</name>
+						<description>Конструктор &quot;Собери двигатель&quot;
+
+
+
+Конструктор состоит из следующих деталей:
+
+ -  основной элемент;
+
+ -  оранжевые шестеренки 4шт.;
+
+ -  большая голубая шестеренка 1шт.;
+
+ -  средние шестеренки 6 шт.;
+
+ -  шурупы 6шт.;
+
+ -  гайки 14шт.;
+
+ -  отвертка 1шт.;
+
+ -  пасатижи 1шт;
+
+ -  винт 1шт.
+
+Для удобства сборки все детали крупные.
+
+ 
+
+
+Производитель: TOP-TOY (Дания) 
+
+Торговая марка: Play2Learn (одобрено ELC)
+Возраст от 3 лет.</description>
+					</offer>
+					<offer available="true" id="1196">
+						<url>http://shopmybaby.ru/product/konstruktor-afrika-woody-sostoit-iz-30-elementov/</url>
+						<price>230.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody_afrika.jpg</picture>
+						<name>Конструктор &quot;Африка&quot; (Woody) состоит из 30 элементов</name>
+						<description>    Конструктор &quot;Африка&quot;  (Woody) состоит из 30 элементов  
+
+
+Игрушка представляет собой набор элементов, из которых собираются пять африканских животных: лев, жираф, носорог, бегемот и слон. Возможно использование в качестве самостоя-тельной игрушки или рамок для фотографий. Игрушка развивает фантазию, объемное мышле-ние и мелкую моторику рук. Игрушка идеальна для разукрашивания!
+
+Максимальный размер фигуры: 14х9 см</description>
+					</offer>
+					<offer available="true" id="1197">
+						<url>http://shopmybaby.ru/product/konstruktor-pazl-noev-kovcheg-woody-sostoit-iz-50-elementov/</url>
+						<price>400.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/00716gif.jpg</picture>
+						<name>Конструктор-Пазл &quot;Ноев ковчег&quot; (Woody) состоит из 50 элементов</name>
+						<description>Конструктор-Пазл &quot;Ноев ковчег&quot;  (Woody) состоит из 50 элементов 
+
+
+ В составе пазла 22 фигурки животных! Играй с ними в «зоопарк» или придумай свои игры! Игрушка развивает пространственное воображение, мелкую моторику, навыки творческого и логического мышления. Каждый элемент пазла имеет оригинальную конфигурацию, что повышает порог сложности в процессе сборки, развивает игровую активность.
+ Игрушка идеальна для разукрашивания!
+
+Размеры игрушки: 30х42 см</description>
+					</offer>
+					<offer available="true" id="1198">
+						<url>http://shopmybaby.ru/product/konstruktor-furgon-krem-brjule-woody-sostoit-iz-36-elementov/</url>
+						<price>755.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/00723gif.jpg</picture>
+						<name>Конструктор-фургон &quot;Крем-брюле&quot; (Woody) состоит из 36 элементов</name>
+						<description> Конструктор-фургон  &quot;Крем-брюле&quot; (Woody) состоит из 36 элементов
+
+
+
+   Фургон «КРЕМ-БРЮЛЕ» везёт в сказочный город вкуснейшее мороженое! Конструктор собирается без клея из 36 деревянных элементов. В набор входят прочные пластиковые колёса на металлических осях. Капот и крыша открываются. Конструирование развивает логическое мышление, пространственное воображение, мелкую моторику, координацию. Возможность разукрашивания стимулирует ребёнка на раскрытие своего творческого потенциала, развивает самостоятельность в принятии решений.
+
+   Размер: 33х19х22 см</description>
+					</offer>
+					<offer available="true" id="1216">
+						<url>http://shopmybaby.ru/product/konstruktor-korolevskij-fort-woody-sostoit-iz-70-elementov/</url>
+						<price>1350.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/00747gif.jpg</picture>
+						<name>Конструктор &quot;Королевский форт&quot; (Woody) состоит из 70 элементов</name>
+						<description>«Королевский форт»! Разукрась, карандашами, фломастерами или красками! Играй в великие сражения, поиск сокровищ, стань пиратом или королём! Фантазируй! Конструктор состоит из 70 элементов, из которых собираются большой форт с подъёмными воротами и лодка. Ворота поднимает зубчатое колесо, нажатие на рычаг делает форт неприступным.   Материал – дерево. Применение современных лазерных технологий в изготовлении гарантирует качество и точные размеры деталей. Конструктор собирается без применения клея. Игра развивает логическое мышление, пространственное воображение, мелкую моторику, координацию, творческие способности, даёт представление об устройстве и работе простых механизмов.</description>
+					</offer>
+					<offer available="true" id="1217">
+						<url>http://shopmybaby.ru/product/konstruktor-dvorec-princessy/</url>
+						<price>1350.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/%20принцессы_enl.jpg</picture>
+						<name>Конструктор &quot;Дворец Принцессы&quot;</name>
+						<description>Конструктор &quot;Дворец Принцессы&quot;Состоит из 57 элементов и набора атласных лент для украшенияЭтот большой нарядный Дворец станет желанным подарком для маленьких принцесс! Игровое пространство позволяет поселить во Дворец любимые игрушки: куклы, лошадки, веселые зверушки. Соберите с ребенком сказочное деревянное царство, придумайте свою историю про Красавицу и ее друзей, и про смелого рыцаря, который прискакал на быстром коне… Играйте и фантазируйте.Размеры игрушки: 43х43х43 см  Вес: 1,25 кг</description>
+					</offer>
+					<offer available="true" id="1218">
+						<url>http://shopmybaby.ru/product/konstruktor-zamok-kolduni/</url>
+						<price>995.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/Zamok.jpg</picture>
+						<name>Конструктор &quot;Замок Колдуньи&quot;</name>
+						<description>Конструктор &quot;Замок Колдуньи&quot;Состоит из 46 элементов«…В Волшебном лесу на Тёмном болоте врос корнями в землю таинственный дом, спрятанный от чужих глаз густым ядовитым туманом. В заколдованном доме тайники защищены самой прочной на свете паутиной. А в подземелье каждое полнолуние варится волшебное зелье. Сюда сбегаются полчища пауков со всего леса, а по ночам чёрной тучей взмывают вверх летучие мыши. Хозяйка заколдованного дома – колдунья. Никто никогда её не видел и не знает её имени. Говорят, что при появлении людей она тут же превращается в кошку или сову…» Развиваемся вместе! Собери дом колдуньи! Погрузись в мир ассиметрии и креатива. Мысли нестандартно. Разукрась карандашами, фломастерами или красками! Дай волю фантазии и творческому вдохновению. Придумай свою сказку! Разбуди воображение.Размеры игрушки: 34х36х40 см  Вес: 0,9 кг</description>
+					</offer>
+					<offer available="true" id="1219">
+						<url>http://shopmybaby.ru/product/nabor-domashnie-zhivotnye-woody-sostoit-iz-9-personazhej/</url>
+						<price>275.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody_home.jpg</picture>
+						<name>Набор &quot;Домашние животные&quot; (Woody) состоит из 9 персонажей</name>
+						<description>Набор  &quot;домашние животные&quot;  (Woody) состоит из 9 персонажей  Набор состоит из деревянных фигурок домашних животных: лошади, коровы, козы, свиньи, собаки, кошки, гуся, петуха и курицы. Набор поможет расширить представления малышей о домашних животных и поможет педагогам и родителям сделать более занимательным процесс отгадывания и загадывания загадок, рассказывания стихов и сказок, исполнения песенок о животных. Игрушка идеальна для раскрашивания!Максимальный размер животного: 12х11 см</description>
+					</offer>
+					<offer available="true" id="1220">
+						<url>http://shopmybaby.ru/product/nabor-lesnye-zhivotnye-woody-sostoit-iz-8-personazhej/</url>
+						<price>275.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody_lesnie_givotnie.jpg</picture>
+						<name>Набор &quot;Лесные животные&quot; (Woody) состоит из 8 персонажей</name>
+						<description>Набор  &quot;Лесные животные&quot;  (Woody) состоит из 8 персонажей   Набор состоит из деревянных фигурок диких животных: зубра, лося, медведя, волка, кабана, лисы, бобра, зайца. Набор поможет расширить представления малышей о диких животных, поможет в ознакомлении ребенка с природоведческим словарем. Набор может быть использован педагогами дошкольных учреждений в процессе специальных занятий, а родителями – для организации индивидуальной работы в часы свободных занятий с ребенком. Игрушка идеальна для раскрашивания!Максимальный размер животного: 14х9 см</description>
+					</offer>
+					<offer available="true" id="1221">
+						<url>http://shopmybaby.ru/product/nabor-derevo-zhelanij/</url>
+						<price>360.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/%20желаний.jpg</picture>
+						<name>Набор &quot;Дерево Желаний&quot;</name>
+						<description>Набор &quot;Дерево Желаний&quot;Состоит из 8 элементов Чудесный живой дом, в котором живут, дружат, играют жители Волшебного леса. Здесь они встречают весну, лето, осень, зиму. Ведь можно по-разному разукрасить крону, украсить бумажными листьями, цветами или снежинками, повесить плоды – дары осени.  Собери дерево Желаний!  Разукрась карандашами, фломастерами или красками!  Фантазируй, придумывай новое, делай открытия! Мечтай!«Все добрые желания обязательно исполняются, нужно только очень-очень верить и хотеть от всей души. Записки с желаниями или цветная ленточка с загаданной мечтой – это посыл во время, напоминание о своей цели».Размеры игрушки: 22,5 х26,5х26,5 см  Вес: 0,3 кг</description>
+					</offer>
+					<offer available="true" id="1222">
+						<url>http://shopmybaby.ru/product/nabor-sova-fanja/</url>
+						<price>250.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/Sova_fanya.jpg</picture>
+						<name>Набор &quot;Сова Фаня&quot;</name>
+						<description>Набор &quot;Сова Фаня&quot;Состоит из 24 элементовИгрушка представляет собой набор элементов, из которых собирается оригинальная игрушка-забава. Это и дёргалка, и деревянная раскраска, и секретный механизм, который приводит в движение крылья и глаза!  Подружись с милой совой по имени Фаня! Она такая разная. Бывает задумчивой… Умеет подмигивать… Старательно учиться летать… Любит наряжаться в яркое оперенье. Собери сову Фаню с механизмом движения! Запоминай инструкцию, привлеки логику, действуй аккуратно.  Разукрась карандашами, фломастерами или красками! Фантазируй, применяй невероятные цвета и узоры. Весёлая познавательная игрушка «Сова Фаня» подарит радость и украсит интерьер детской комнаты.Размеры игрушки: 15х2х19 см  Вес: 0,183 кг</description>
+					</offer>
+					<offer available="true" id="1223">
+						<url>http://shopmybaby.ru/product/nabor-mebeli-lesnaja-poljanka/</url>
+						<price>380.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/mebel.jpg</picture>
+						<name>Набор мебели «Лесная полянка»</name>
+						<description>Набор мебели «Лесная полянка»состоит из 35 элементовСобери из деревянных деталей волшебную мебель! Разукрась карандашами, фломастерами или красками! Сделай сказку яркой! Ты мечтала устроить праздник для феечек-подружек, бабочек и божьих коровок? Лучшее место для игр и веселья – залитая солнцем лесная поляна. Удобно устроившись на упругих листьях и земляничной скамье, приятно отведать чая из росы и ягодного мороженого за столом-цветком. Разноцветные накидки, зонтики и сумочки лучше спрятать от ветра в шкаф-жёлудь. За ними присмотрит червячок-гардеробщик. Почувствуй себя феей Волшебного леса!Игрушка представляет собой набор деревянных элементов, из которых собирается стол-цветок, 4 стула-листочка, земляничная скамья и шкаф-жёлудь.</description>
+					</offer>
+					<offer available="true" id="1224">
+						<url>http://shopmybaby.ru/product/piratskij-korabl-karamba/</url>
+						<price>400.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>627</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/korabl.jpg</picture>
+						<name>Пиратский корабль «КАРАМБА»</name>
+						<description>Пиратский корабль «КАРАМБА»В набор входят: 28 деревянных деталей корабля, 2 пирата, веревки.Окунись в море приключений! Поднять якорь! Право руля! Гроза всех морей и океанов корабль «КАРАМБА» отправляется на поиски королевских сокровищ! Собери, разукрась, играй! Фантазируй, участвуй в сражениях, побеждай!</description>
+					</offer>
+					<offer available="true" id="673">
+						<url>http://shopmybaby.ru/product/detskij-konstruktor-dinozavry-/</url>
+						<price>335.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>560</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/dinosaurs-b.jpg</picture>
+						<name>Детский конструктор &quot;Динозавры&quot; </name>
+						<description>
+Детский конструктор «Динозавры» изготовлен из экологически безопасного полимера, имеющего цветовую гамму, которая имитирует естественную окраску животных.
+Набор  состоит из 310 деталей для одновременной сборки 2  динозавров. В  упаковке Вы также найдете инструкцию, которая поможет Вам собрать 4  разные игрушки.
+Конструктор предназначен для детей от 5 лет.
+
+Размеры упаковки (мм): 305х256х90 
+
+</description>
+					</offer>
+					<offer available="true" id="674">
+						<url>http://shopmybaby.ru/product/detskij-konstruktor-drakony-i-reptilii/</url>
+						<price>355.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>560</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/reptiles-b_enl.jpg</picture>
+						<name>Детский конструктор &quot;Драконы и рептилии&quot;</name>
+						<description>
+Детский конструктор «Драконы и рептилии» изготовлен из экологически безопасного полимера,  имеющего цветовую гамму, которая имитирует естественную окраску животных.
+Набор  состоит из 235 деталей для одновременной сборки 4 животных. В упаковке  Вы также найдете инструкцию, которая поможет Вам собрать 6 разных  игрушек.
+Конструктор предназначен для детей от 5 лет.
+
+Размеры упаковки (м): 305х256х90  
+
+</description>
+					</offer>
+					<offer available="true" id="675">
+						<url>http://shopmybaby.ru/product/detskij-konstruktor-obitateli-morej/</url>
+						<price>335.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>560</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/marines-b.jpg</picture>
+						<name>Детский конструктор &quot;Обитатели морей&quot;</name>
+						<description>
+Детский конструктор «Обитатели морей» изготовлен из экологически безопасного полимера, имеющего цветовую гамму, которая имитирует естественную окраску животных.
+Набор  состоит из 235 деталей для одновременной сборки 5 животных. В упаковке  Вы также найдете инструкцию, которая поможет Вам собрать 6 разных  игрушек.
+Конструктор предназначен для детей от 5 лет.
+
+Размеры упаковки (мм): 305х256х90 
+
+</description>
+					</offer>
+					<offer available="true" id="676">
+						<url>http://shopmybaby.ru/product/detskij-konstruktor-hishnye-pticy/</url>
+						<price>355.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>560</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/birds-b.jpg</picture>
+						<name>Детский конструктор &quot;Хищные птицы&quot;</name>
+						<description>
+
+Детский конструктор «Хищные птицы» изготовлен из экологически безопасного полимера, имеющего цветовую гамму, которая имитирует естественную окраску животных.
+Набор  состоит из 280 деталей для одновременной сборки  3 видов птиц.  В  упаковке Вы также найдете инструкцию, которая поможет Вам собрать 6  разных игрушек.
+Конструктор предназначен для детей от 5 лет.
+
+Размеры упаковки (мм): 305х256х90 
+
+
+</description>
+					</offer>
+					<offer available="true" id="677">
+						<url>http://shopmybaby.ru/product/detskij-konstruktor-jashericy-i-hameleony/</url>
+						<price>315.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>560</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/deserts-b.jpg</picture>
+						<name>Детский конструктор &quot;Ящерицы и хамелеоны&quot;</name>
+						<description>
+Детский конструктор «Ящерицы и хамелеоны» изготовлен из экологически безопасного полимера, имеющего цветовую гамму, которая имитирует естественную окраску животных.
+Набор  состоит из 192 деталей для одновременной сборки 5 животных. В упаковке  Вы также найдете инструкцию, которая поможет Вам собрать 6 разных  игрушек.
+Конструктор предназначен для детей от 5 лет.
+</description>
+					</offer>
+					<offer available="true" id="678">
+						<url>http://shopmybaby.ru/product/detskij-konstruktor-kentavr/</url>
+						<price>195.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>561</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/centaur-b.jpg</picture>
+						<name>Детский конструктор &quot;Кентавр&quot;</name>
+						<description>
+Детский конструктор «Кентавр» изготовлен из экологически безопасного полимера.
+Набор  состоит из 125 деталей для одновременной сборки 2 Кентавров. В упаковке  Вы также найдете инструкцию, которая поможет Вам собрать 4 разных  Кентавра.
+Конструктор предназначен для детей от 5 лет.
+
+Размеры упаковки (мм) : 219х154х67  
+
+</description>
+					</offer>
+					<offer available="true" id="679">
+						<url>http://shopmybaby.ru/product/detskij-konstruktor-loshadi-i-edinorogi/</url>
+						<price>410.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>561</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/unicorns-b.jpg</picture>
+						<name>Детский конструктор &quot;Лошади и единороги&quot;</name>
+						<description>
+Детский конструктор «Лошади и единороги» изготовлен из экологически безопасного полимера.
+Набор  состоит из 418 деталей для одновременной сборки 1 единорога и 2  лошадок. В упаковке вы также найдете инструкцию, которая поможет Вам  собрать 6 разных сказочных животных.
+Конструктор предназначен для детей от 5 лет.
+
+Размеры упаковки (мм): 305х256х90 
+
+</description>
+					</offer>
+					<offer available="true" id="680">
+						<url>http://shopmybaby.ru/product/detskij-konstruktor-malenkij-djavol/</url>
+						<price>160.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>561</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/little_devil-b.jpg</picture>
+						<name>Детский конструктор &quot;Маленький дьявол&quot;</name>
+						<description>
+Детский конструктор «Маленький дьявол» изготовлен из экологически безопасного полимера
+Набор  состоит из 92 деталей для одновременной сборки 2 Маленьких дьяволят. В  упаковке Вы также найдете инструкцию, которая поможет Вам собрать 4  разных персонажей.
+Конструктор предназначен для детей от 5 лет.
+
+Размеры упаковки (мм): 219х154х67 
+
+</description>
+					</offer>
+					<offer available="true" id="681">
+						<url>http://shopmybaby.ru/product/detskij-konstruktor-minotavr/</url>
+						<price>175.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>561</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/minotaur-b.jpg</picture>
+						<name>Детский конструктор &quot;Минотавр&quot;</name>
+						<description>
+Детский конструктор «Минотавр» изготовлен из экологически безопасного полимера.
+Набор  состоит из 130 деталей для сборки сказочного Минотавра. В упаковке Вы  также найдете инструкцию, которая поможет Вам собрать 2 разных  Минотавров.
+Конструктор предназначен для детей от 5 лет.
+
+Размеры упаковки (мм): 219х154х67 
+
+</description>
+					</offer>
+					<offer available="true" id="682">
+						<url>http://shopmybaby.ru/product/detskij-konstruktor-troll/</url>
+						<price>175.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>561</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/troll-b.jpg</picture>
+						<name>Детский конструктор &quot;Тролль&quot;</name>
+						<description>
+
+Детский конструктор «Тролль» изготовлен из экологически безопасного полимера.
+Набор  состоит из 97 деталей для одновременной сборки 2 Троллей. В упаковке Вы  найдете инструкцию, которая поможет Вам собрать 4 разных сказочных  существа.
+Конструктор предназначен для детей от 5 лет.
+
+Размеры упаковки (мм): 219х154х67 
+
+
+</description>
+					</offer>
+					<offer available="true" id="683">
+						<url>http://shopmybaby.ru/product/detskij-konstruktor-gorodskoe-zdanie/</url>
+						<price>745.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>562</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/zdanie-b.jpg</picture>
+						<name>Детский конструктор &quot;Городское здание&quot;</name>
+						<description>
+
+Детский конструктор «Городское здание» изготовлен из  экологически безопасного полимера, разработанного по специальной  технологии, позволяющей имитировать структуру камня, дерева, черепицы,  кирпича и т.д.
+Набор состоит из 465 деталей и предназначен для детей от 5 лет.
+
+Размеры в собранном виде (мм) : 390 х 270 (размеры в собранном виде могут меняться т.к. конструктор имеет несколько вариантов сборки) 
+
+
+</description>
+					</offer>
+					<offer available="true" id="684">
+						<url>http://shopmybaby.ru/product/detskij-konstruktor-gorodskoj-dom/</url>
+						<price>565.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>562</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/dom-b.jpg</picture>
+						<name>Детский конструктор &quot;Городской дом&quot;</name>
+						<description>
+
+Детский конструктор «Городской дом» изготовлен из экологически  безопасного полимера, разработанного по специальной технологии,  позволяющей имитировать структуру камня, дерева, черепицы, кирпича и  т.д.
+Набор состоит из 295 деталей и предназначен для детей от 5 лет.
+
+Размеры  в собранном виде (мм):  390 х 270  (размеры в собранном виде могут  меняться т.к. конструктор имеет несколько вариантов сборки) 
+
+
+</description>
+					</offer>
+					<offer available="true" id="685">
+						<url>http://shopmybaby.ru/product/detskij-konstruktor-gorodskoj-domik-/</url>
+						<price>335.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>562</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/domBox2-b_enl.jpg</picture>
+						<name>Детский конструктор &quot;Городской домик&quot; </name>
+						<description>
+Детский конструктор «Городской домик» изготовлен из  экологически безопасного полимера, разработанного по специальной  технологии, позволяющей имитироват структуру камня, дерева, черепицы,  кирпича и т.д.
+Набор состоит из 159 деталей и предназначен для детей от 5 лет.
+
+Размеры в собранном виде (мм) : 210 х 250   
+
+</description>
+					</offer>
+					<offer available="true" id="686">
+						<url>http://shopmybaby.ru/product/konstruktor-dvorik-melnika/</url>
+						<price>565.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>563</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/melnik.jpg</picture>
+						<name>Конструктор &quot;Дворик мельника&quot;</name>
+						<description>
+
+Детский конструктор «Дворик мельника» изготовлен из экологически безопасного полимера. Набор состоит из 195 деталей и предназначен для детей от 3 лет.
+В  набор входят: водяная мельница, основание в виде пазла, забор,  маленькое дерево, яблоня, цветок, кошка, собака, петух, мотоцикл,  лошадь, плуг, повозка, колодец с «журавлем», ведро.
+
+Размеры в собранном виде (мм): 160х260 
+
+
+</description>
+					</offer>
+					<offer available="true" id="687">
+						<url>http://shopmybaby.ru/product/konstruktor-derevenskaja-usadba-/</url>
+						<price>390.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>563</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/der_thm.jpg</picture>
+						<name>Конструктор &quot;Деревенская усадьба &quot;</name>
+						<description>
+
+Детский конструктор «Деревенская усадьба» изготовлен из экологически безопасного полимера. Набор состоит из 138 деталей и предназначен для детей от 3 лет.
+В набор входят: домик, основание в виде пазла, забор, маленькое дерево, яблоня, цветок, кошка, собака, петух, мотоцикл
+
+Размеры в собранном виде (мм): 210х230 
+
+
+</description>
+					</offer>
+					<offer available="true" id="688">
+						<url>http://shopmybaby.ru/product/konstruktor-derevenskij-domik/</url>
+						<price>315.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>563</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/dereven.jpg</picture>
+						<name>Конструктор &quot;Деревенский домик&quot;</name>
+						<description>
+
+Детский конструктор «Деревенский домик» изготовлен из экологически безопасного полимера. Набор состоит из 140 деталей и предназначен для детей от 3 лет.
+В набор входит: деревенский домик (3 варианта сборки)
+
+Размеры в собранном виде (мм) : 210х230 
+
+
+</description>
+					</offer>
+					<offer available="true" id="689">
+						<url>http://shopmybaby.ru/product/konstruktor-derevenskoe-podvore/</url>
+						<price>625.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>563</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/podvor.jpg</picture>
+						<name>Конструктор &quot;Деревенское подворье&quot;</name>
+						<description>
+
+Детский конструктор «Деревенское подворье» изготовлен из экологически безопасного полимера. Набор состои из 267 деталей и предназначен для детей от 3 лет.
+В  набор входят: деревенский домик (3 варианта сборки), основание в виде  пазла, забор с воротами, палисадник с цветами, береза, пихта, курица,  петух, свинья, овца, корова, кошка, утка, собака, лошадь
+
+Размеры в собранном виде (мм): 210х230 
+
+
+</description>
+					</offer>
+					<offer available="true" id="690">
+						<url>http://shopmybaby.ru/product/konstruktor-domik/</url>
+						<price>215.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>563</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/domik.jpg</picture>
+						<name>Конструктор &quot;Домик&quot;</name>
+						<description>Детский конструктор «Домик» изготовлен из экологически безопасного полимера. Набор состоит из 60 деталей и предназначен для детей от 3 лет. 
+
+Размеры в собранном виде (мм) : 210х230 
+</description>
+					</offer>
+					<offer available="true" id="691">
+						<url>http://shopmybaby.ru/product/konstruktor-vodjanaja-melnica/</url>
+						<price>300.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>563</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/meln-b.jpg</picture>
+						<name>Конструктор «Водяная мельница»</name>
+						<description>Детский конструктор «Водяная мельница» изготовлен из экологически безопасного полимера. Набор состоит из 89 деталей и предназначен для детей от 3 лет. 
+В набор входят: водяная мельница, лошадь, плуг, колодец, ведро.
+
+Размеры в собранном виде (мм) : 160х260 
+</description>
+					</offer>
+					<offer available="true" id="787">
+						<url>http://shopmybaby.ru/product/konstruktor-ligao-raketnaja-ustanovka/</url>
+						<price>780.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>640</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/28704(1).jpg</picture>
+						<name>Конструктор Ligao-Ракетная установка</name>
+						<description>507 деталей. В коробке. Размер упаковки 38х28х6 см</description>
+					</offer>
+					<offer available="true" id="797">
+						<url>http://shopmybaby.ru/product/konstruktor-bela-transport-8v1/</url>
+						<price>200.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>640</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/16815(1).jpg</picture>
+						<name>Конструктор Bela транспорт 8в1</name>
+						<description>Размер упаковки 28х19х5 см.</description>
+					</offer>
+					<offer available="true" id="799">
+						<url>http://shopmybaby.ru/product/konstruktor-vagon-dom-dom-dinind-car/</url>
+						<price>490.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>640</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/24298(1).jpg</picture>
+						<name>Конструктор - Вагон дом Дом Dinind Car</name>
+						<description>142 деталей, размер упаковки:19х19х6 см.</description>
+					</offer>
+					<offer available="true" id="876">
+						<url>http://shopmybaby.ru/product/konstruktor-ligao-specmashina-policii/</url>
+						<price>310.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>640</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/27088(1).jpg</picture>
+						<name>Конструктор Ligao-Спецмашина полиции</name>
+						<description>Конструктор типа LEGO полностью совместим с оригинальным. Состоит из 154 деталей.
+</description>
+					</offer>
+					<offer available="true" id="918">
+						<url>http://shopmybaby.ru/product/mjagkij-konstruktor-2/</url>
+						<price>4220.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>621</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/konstruktor2.jpg</picture>
+						<name>Мягкий конструктор №2</name>
+						<description>
+Мягкий конструктор №2
+    
+    Набор 60 шт., 10 видов фигур. 
+    Упакован в полиэтиленовую сумочку на молнии.    Очень приятные на ощупь.     Можно играть в ванне - в воде не тонут, а мокрые прилипают к стенам и друг к другу
+</description>
+					</offer>
+					<offer available="true" id="919">
+						<url>http://shopmybaby.ru/product/mjagkij-konstruktor-3/</url>
+						<price>2210.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>621</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/konstruktor3_enl.jpg</picture>
+						<name>Мягкий конструктор №3</name>
+						<description>
+ Мягкий конструктор №3
+    
+    Набор 68 шт., 10 видов фигур. 
+    Упакован в полиэтиленовую сумочку на молнии.    Очень приятные на ощупь.     Можно играть в ванне - в воде не тонут, а мокрые прилипают к стенам и друг к другу
+</description>
+					</offer>
+					<offer available="true" id="920">
+						<url>http://shopmybaby.ru/product/mjagkij-konstruktor-4/</url>
+						<price>1680.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>621</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/konstruktor4_enl.jpg</picture>
+						<name>Мягкий конструктор №4</name>
+						<description>
+Мягкий конструктор №4
+    
+    Набор 40 шт., 8 видов фигур. 
+    Упакован в полиэтиленовую сумочку на молнии.    Очень приятные на ощупь.     Можно играть в ванне - в воде не тонут, а мокрые прилипают к стенам и друг к другу
+</description>
+					</offer>
+					<offer available="true" id="921">
+						<url>http://shopmybaby.ru/product/mjagkij-konstruktor-6/</url>
+						<price>950.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>621</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/konstruktor6_enl.jpg</picture>
+						<name>Мягкий конструктор №6</name>
+						<description>
+Мягкий конструктор №6
+    
+    Набор 30 шт., 7 видов фигур. 
+    Упакован в полиэтиленовую сумочку на молнии.    Очень приятные на ощупь.     Можно играть в ванне - в воде не тонут, а мокрые прилипают к стенам и друг к другу
+</description>
+					</offer>
+					<offer available="true" id="922">
+						<url>http://shopmybaby.ru/product/mjagkij-konstruktor-8/</url>
+						<price>450.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>621</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/konstruktor8_enl.jpg</picture>
+						<name>Мягкий конструктор №8</name>
+						<description>
+Мягкий конструктор №8
+    
+    Набор 12 шт., 8 видов фигур. 
+    Упакован в полиэтиленовую сумочку на молнии.    Очень приятные на ощупь.     Можно играть в ванне - в воде не тонут, а мокрые прилипают к стенам и друг к другу
+</description>
+					</offer>
+					<offer available="true" id="923">
+						<url>http://shopmybaby.ru/product/mjagkij-konstruktor-1/</url>
+						<price>10200.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>621</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/konstruktor1_enl.jpg</picture>
+						<name>Мягкий конструктор №1</name>
+						<description>
+Мягкий конструктор №1
+    
+    Набор 152 шт., 16 видов фигур. 
+    Упакован в полиэтиленовую сумочку на молнии.    Очень приятные на ощупь.     Можно играть в ванне - в воде не тонут, а мокрые прилипают к стенам и друг к другу
+</description>
+					</offer>
+					<offer available="true" id="1073">
+						<url>http://shopmybaby.ru/product/1073/</url>
+						<price>850.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>635</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/stroit%20nabor_enl35.jpg</picture>
+						<name>Мой первый верстак (рабочая мастерская) (1)</name>
+						<description>Уголок строителя - это увекательная игра, включающая в себя циркулярную пилу, молоток, отвертку, гвозди, шурупы, тиски и дрель. Все элементы при вращении и нажимании издают звуки.</description>
+					</offer>
+					<offer available="true" id="1075">
+						<url>http://shopmybaby.ru/product/1075/</url>
+						<price>1300.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>635</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/razvivaushiy%20kub_enl6w.jpg</picture>
+						<name>Развивающий куб (1)</name>
+						<description>
+Развивающий куб
+В кубе-сортере есть 18 различных по цвету и форме фигур, играя с этим кубиком дети учаться распознавать формы и цвета. На одной грани кубика расположена телефонная трубка и кнопочки для набора номера
+</description>
+					</offer>
+					<offer available="true" id="1158">
+						<url>http://shopmybaby.ru/product/piramidka-sorter-kloun/</url>
+						<price>869.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>635</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/IMG_4225-1_resize.jpg</picture>
+						<name>Пирамидка-сортер &quot;Клоун&quot;</name>
+						<description>Клоун состоит из деревянных дисков, в которых с обеих сторон есть углубления разной формы с цветовыми подсказками, а также геометрических фигур разной формы, которые соответствуют углублениям на дисках.</description>
+					</offer>
+					<offer available="true" id="1159">
+						<url>http://shopmybaby.ru/product/trimino-zhuchki/</url>
+						<price>860.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>635</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/IMG_4272-1_resize.jpg</picture>
+						<name>Тримино &quot;Жучки&quot;</name>
+						<description>Трехстороннее домино-мозаика с дополнительной основой, разделенной на треугольные сектора.</description>
+					</offer>
+					<offer available="true" id="1161">
+						<url>http://shopmybaby.ru/product/piramidka-valda-malenkaja/</url>
+						<price>240.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>635</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/s_2000003006_0.jpg</picture>
+						<name>Пирамидка Вальда маленькая</name>
+						<description>Эта пирамидка для таких маленьких строителей, что они скорее будут разбирать ее, чем собирать. И это тоже очень полезно!</description>
+					</offer>
+					<offer available="true" id="1162">
+						<url>http://shopmybaby.ru/product/piramidka-valda-bolshaja/</url>
+						<price>310.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>635</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/59Pb1300874550-600x600.jpg</picture>
+						<name>Пирамидка Вальда большая</name>
+						<description>Довольно маленькая деревянная пирамидка, которая удобна маленьким строителям до года. В отличие от невесомой пластиковой пирамидки, деревянная покажет ребенку, что предметы имеют определенный вес.</description>
+					</offer>
+					<offer available="true" id="1167">
+						<url>http://shopmybaby.ru/product/nabor-svetlica-woody-sostoit-iz-7-elementov/</url>
+						<price>210.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>625</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/woody%20svetlica.jpg</picture>
+						<name>Набор &quot;Светлица&quot; (Woody) состоит из 7 элементов</name>
+						<description>  «Светлица» из серии «Сказочные домики» - объемный конструктор, который послужит отличным тренажёром для развития пространственного мышления у малышей и развития навыков конструирования для детей с 3-х лет. К тому же, в сложенном виде он послужит карандашницей или полезной шкатулкой для мелких предметов и украсит интерьер детской комнаты.
+      Разукрасить домик можно по своему вкусу, ведь сделан он из дерева без пропиток и красителей, а это настоящая экологичная раскраска.
+      Внутри сюрприз – весёлая сказка про Царевну «Бал в честь вишнёвых пирожных». Складывайте, разукрашивайте, читайте!
+
+    Соберите всю серию «Сказочные домики» и совершите шесть увлекательных путешествий в сказки про маленьких друзей: Сладкоежу, Проказника, Пряника, Бусинку, Царевну и Лесовичка!
+    Размеры игрушки: 10х9х12 см </description>
+					</offer>
+					<offer available="true" id="1171">
+						<url>http://shopmybaby.ru/product/1171/</url>
+						<price>5590.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>635</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/main_themefl.png</picture>
+						<name>Планшетный компьютер PlayPad2 (1)</name>
+						<description>О детском компьютере PlayPAD 2
+Создан специально для детей
+Развивающие приложения
+Игровые приложения
+Учебные приложения
+Чтение электронных книг
+Просмотр видео и фотографий
+и еще немного...
+Операционная система Android 4.0
+Возможность установки приложений
+Поддержка видеосвязи Skype
+Безопасный доступ в Интернет
+Контроль времени использования
+Играют даже взрослые</description>
+					</offer>
+					<offer available="true" id="1236">
+						<url>http://shopmybaby.ru/product/nabor-0318e24a-fabrika-pirozhnyh-play-doh/</url>
+						<price>1330.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1114578.jpg</picture>
+						<name>Набор 0318E24A Фабрика пирожных PLAY-DOH</name>
+						<description>С помощью Play-Doh PLUS вы можете создать более реалистичые детали сладостей при меньших усилиях! Розочки, цветочки, фигурки - все, что пожелаете. А благодаря фабрике и множеству формочек, входящих в комплект, вы можете создать всевозможные пирожные, печенья и другие &apos;угощенья&apos;. В комплекте также 2 банки с пластилином Play-Doh и 2 с пластилином Play-Doh PLUS.</description>
+					</offer>
+					<offer available="true" id="1234">
+						<url>http://shopmybaby.ru/product/nabor-a7197-dlja-tvorchestva-stilnyj-tualetnyj-stolik-play-doh/</url>
+						<price>1760.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1131725.jpg</picture>
+						<name>Набор A7197 для творчества Стильный туалетный столик PLAY-DOH</name>
+						<description>Укрась этот туалетный столик собственными руками и храни в нем свои любимые вещи! Включает 4 картриджа, маркер для декора, инструмент для отрисовки, дополнительную насадку и “Вдохновляющую” инструкцию по техникам дизайна DohVinci</description>
+					</offer>
+					<offer available="true" id="1235">
+						<url>http://shopmybaby.ru/product/nabor-a7198-dlja-tvorchestva-studija-dizajna-s-soboj-play-dohnabor-a7198-dlja-tvorchestva-studija-dizajna-s-soboj-play-doh/</url>
+						<price>1350.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1131726.jpg</picture>
+						<name>Набор A7198 для творчества Студия дизайна с собой PLAY-DOHНабор A7198 для творчества Студия дизайна с собой PLAY-DOH</name>
+						<description>Возьми DohVinci с собой! Чемоданчик раскладывается для демонстрации твоих работ и хранения инструментов. Набор включает 5 карточек для декорирования, 4 картриджа, маркер для декорирования и чемоданчик.Возьми DohVinci с собой!</description>
+					</offer>
+					<offer available="true" id="1237">
+						<url>http://shopmybaby.ru/product/nabor-a7396-zamok-i-kareta-ariel-play-doh/</url>
+						<price>1090.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1131706.jpg</picture>
+						<name>Набор A7396 Замок и Карета Ариэль PLAY-DOH</name>
+						<description>С волшебным замком Ариэль твори чудеса! Превращай Ариэль из русалочки в принцессу, создавай ракушки и волны с помощью ее очаровательной кареты, украшай замок - ведь в нем множество полуформ для пластилина. В комплект входят замок, карета, фигурка принцессы, экструдер, 2 стандартные баночки с пластилином Play-Doh Plus и 3 маленькие баночки с пластилином Play-Doh .</description>
+					</offer>
+					<offer available="true" id="1238">
+						<url>http://shopmybaby.ru/product/nabor-37366148-plastilina-mister-zubastik-novaja-versija-play-doh-/</url>
+						<price>1090.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1110251.jpg</picture>
+						<name>Набор 37366148 пластилина Мистер Зубастик (новая версия) PLAY-DOH </name>
+						<description>Еще никогда поход к стоматологу не был таким веселым. С помощью пластилина PLAY-DOH и собственного воображения можно лепить зубы и ставить брекеты, чтобы у ваших пациентов была идеальная улыбка. У пациента &apos;дырка&apos; в зубе? Поставь пломбу, используя нашу бормашину со звуковыми эффектами. И не забудь почистить зубы!</description>
+					</offer>
+					<offer available="true" id="1239">
+						<url>http://shopmybaby.ru/product/nabor-a9212-miksher-cvetov-dohvinci/</url>
+						<price>1090.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1135553.jpg</picture>
+						<name>Набор A9212 Микшер цветов DOHVINCI</name>
+						<description> Создавай собственную палитру цветов с помощью Микшера Цветов DohVinci. Три простых действия и новый цвет готов! Помести пустой картридж DohVicni в Микшер и нажми на пресс, чтобы выдавить нужный цвет. Затем прокрути карусель и выбери следующий цвет, который ты хочешь смешать с предыдущим. Ты можешь смешать за один раз столько цветов, сколько тебе захочется! В комплекте микшер, пресс, 4 пустых картриджа и стайлер.</description>
+					</offer>
+					<offer available="true" id="1240">
+						<url>http://shopmybaby.ru/product/igrovoj-nabor-b0306-fabrika-morozhenogo-play-doh/</url>
+						<price>1090.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1135550.jpg</picture>
+						<name>Игровой набор B0306 Фабрика Мороженого PLAY-DOH</name>
+						<description>Создавай красочне и веселое мороженое: банана сплит, шоколадное эскимо или голубично-яжевичный стаканчик - с игровым набором &apos;Фабрика мороженого&apos; возможно все! Выложи свое мороженое в рожок или стаканчик и не забудь посыпать его конфетами или другими сладостями. В комплекте фабрика, рожки, стаканчики, ложки, 3 баночки пластилина Play-Doh Plus и 2 баночки пластилина Play-Doh.</description>
+					</offer>
+					<offer available="true" id="1241">
+						<url>http://shopmybaby.ru/product/nabor-a7924-plastilina-20-banok-play-doh/</url>
+						<price>990.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1131697.jpg</picture>
+						<name>Набор A7924 пластилина 20 банок PLAY-DOH</name>
+						<description>Открой в себе творческое начало с пластилином Play-Doh и коллекцией из 20 цветов! Так много пластилина и так мало времени! Ты сможешь создавать бесконечные комбинации цветов!</description>
+					</offer>
+					<offer available="true" id="1242">
+						<url>http://shopmybaby.ru/product/nabor-a5418e24-igrovoj-bumer-pozharnaja-mashina-play-doh/</url>
+						<price>990.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1131714.jpg</picture>
+						<name>Набор A5418E24 Игровой Бумер: Пожарная машина PLAY-DOH</name>
+						<description>Потушить пожар или очистить строительную площадку? Бумер всегда готов. С этой потрясающей пожарной машиной создавай настоящее &apos;пламя&apos;, а затем туши его с помощью &apos;воды&apos; и других пожарных аксессуаров, которые слепишь сам. Лестница выдвигается и вращается, как в настоящей пожарной машине! В комплект входят 2 баночки стандартного пластилина Play-Doh.</description>
+					</offer>
+					<offer available="true" id="1243">
+						<url>http://shopmybaby.ru/product/nabor-a6070e24-igrovoj-volshebnaja-kareta-zolushki-play-doh/</url>
+						<price>1190.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1131699.jpg</picture>
+						<name>Набор A6070E24 Игровой Волшебная карета Золушки PLAY-DOH</name>
+						<description> Подари карету Золушке для поездки на бал. Слепи мышей-лакеев, прекрасную виноградную лозу и многое другое, пока карета не превратилась в тыкву! В комплекте карета, 3 стандартных баночки пластилина Play-Doh, в том числе 2 баночки блестящего пластилина Play-Doh.</description>
+					</offer>
+					<offer available="true" id="1244">
+						<url>http://shopmybaby.ru/product/nabor-a7398-chajnaja-ceremonija-u-princessy-sofii-play-doh/</url>
+						<price>990.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1131707.jpg</picture>
+						<name>Набор A7398 Чайная церемония у принцессы Софии PLAY-DOH</name>
+						<description>Набор A7398 Чайная церемония у принцессы Софии. В комплекте чайный набор и 3 стандартных баночки пластилина Play-Doh</description>
+					</offer>
+					<offer available="true" id="1245">
+						<url>http://shopmybaby.ru/product/igrovoj-nabor-b0308-bitva-halka-play-doh/</url>
+						<price>960.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1135548.jpg</picture>
+						<name>Игровой набор B0308 Битва Халка PLAY-DOH</name>
+						<description>Дай волю своему воображению и разыгрывай удивительные истории из жизни героев Марвел с баночками Play-Doh! Нажми на баночку Халка, чтобы его кулаки пришли в движение и начали крушить все вокруг. С этим удивительным набором ты сможешь победить всех злодеев Марвел. В наборе также идет баночка героя Марвел Железного Человека со специальными штампами для усиления амуниции героя или помощи Халку в разрушениях. В комплекте Халк, штампы для лепки амуниции и 3 стандартных баночки пластилина Play-Doh.</description>
+					</offer>
+					<offer available="true" id="1246">
+						<url>http://shopmybaby.ru/product/nabor-a50134e24-igrovoj-dvojnye-deserty-play-doh/</url>
+						<price>990.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1131711.jpg</picture>
+						<name>Набор A50134E24 Игровой Двойные десерты PLAY-DOH</name>
+						<description>Создавай красочные торты, пирожные, печенья и украшай их сверху мороженым. Звуковой сигнал оповестит тебя о том, что десерты готовы. Укрась некоторые десерты сверху глазурью, чтобы добавить удовольствия! В комплекте: 2 стандартные баночки с пластилином Play-Doh, 2 стандартные баночки пластилина Play-Doh PLUS и аксессуары для игры.</description>
+					</offer>
+					<offer available="true" id="1247">
+						<url>http://shopmybaby.ru/product/nabor-a7397-igrovoj-zamok-bell-play-doh/</url>
+						<price>890.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1131704.jpg</picture>
+						<name>Набор A7397 Игровой Замок Белль PLAY-DOH</name>
+						<description>С замком Белль сказка снова войдет в твою жизнь! Создавай шикарные бальные платья и аксессуары для Белль. Украшай замок красивыми узорами и розами! В комплект входят замок, фигурка принцессы, формы для создания платьев, экструдер для создания кустов роз, 2 стандартные баночки с пластилином Play-Doh и 1 маленькая баночка с пластилином Play-Doh.</description>
+					</offer>
+					<offer available="true" id="1248">
+						<url>http://shopmybaby.ru/product/nabor-a7395-igrovoj-bashnja-rapuncel-play-doh/</url>
+						<price>890.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1131703.jpg</picture>
+						<name>Набор A7395 Игровой Башня Рапунцель PLAY-DOH</name>
+						<description>Слепи косу Рапунцель с помощью съемного ролика и прикрепи на вершине башни. Укрась башню фонарями, мхом и другими элементами. Набор включает большое игровое поле, на котором ты сможешь разместить всю свою коллекцию принцесс с замками. В комплект входят башня, фигурка принцессы, 2 вида роликов для создания элементов декора, игровое поле и 3 стандартные баночки с пластилином Play-Doh.</description>
+					</offer>
+					<offer available="true" id="1249">
+						<url>http://shopmybaby.ru/product/nabor-2106e24a-vagonchik-morozhenogo-play-doh/</url>
+						<price>850.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1118755.jpg</picture>
+						<name>Набор 2106E24A Вагончик мороженого PLAY-DOH</name>
+						<description>С этим набором Вы сможете создавать самое &apos;вкусное&apos; мороженое! В набор входят 2 стандартные баночки Play-Doh для приготовления &apos;шоколадного&apos; и &apos;малинового&apos; мороженого, а также 1 банка Play-Doh PLUS для создания уникальных украшений.</description>
+					</offer>
+					<offer available="true" id="1250">
+						<url>http://shopmybaby.ru/product/nabor-38984148-igrovoj-banka-so-sladostjami-play-doh/</url>
+						<price>790.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1110253.jpg</picture>
+						<name>Набор 38984148 игровой Банка со сладостями PLAY-DOH</name>
+						<description>Набор в виде банки со сладостями для создания конфет. В комплекте 20 аксессуаров-формочек и 4 стандартные баночки пластилина PLAY-DOH.</description>
+					</offer>
+					<offer available="true" id="1251">
+						<url>http://shopmybaby.ru/product/nabor-b0606-transportnye-sredstva-geroev-marvel-v-assort-play-doh/</url>
+						<price>760.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1135547.jpg</picture>
+						<name>Набор B0606 Транспортные средства героев Марвел (в ассорт.) PLAY-DOH</name>
+						<description>Дай волю своему воображению и разыгрывай удивительные истории из жизни героев Марвел с баночками Play-Doh! Будь готов к битве Человека-Паука и Капитана Америка против Венома. Используй транспортные средства героев для усиления брони, создания ракет и пр. В комплекте 2 транспортных средства, формы для лепки и 3 баночки героев Марвел Play-Doh.</description>
+					</offer>
+					<offer available="true" id="1252">
+						<url>http://shopmybaby.ru/product/nabor-0556e24a-instrumenty-mikki-mausa-play-doh/</url>
+						<price>690.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1114576.jpg</picture>
+						<name>Набор 0556E24A Инструменты Микки Мауса PLAY-DOH</name>
+						<description>Набор 0556E24A Инструменты Микки Мауса PLAY-DOH</description>
+					</offer>
+					<offer available="true" id="1253">
+						<url>http://shopmybaby.ru/product/nabor-a9210-dtvorchestva-nastennoe-ukrashenie-babochki-dohvinci/</url>
+						<price>690.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1135552.jpg</picture>
+						<name>Набор A9210 д/творчества Настенное украшение Бабочки DOHVINCI</name>
+						<description>Для девочек DOHVINCI, которые ищут новые идеи для вдохновения. Этот набор настенных украшений позволит привнести природную красоту бабочек в твою комнату! В набор входят 8 взаимозаменяемых конструкций, которые могут быть соединены между собой струной, которая также включена в комплект. В комплекте 8 бабочек, 3 струны и 4 картриджа. Стайлер в комплект не входит.</description>
+					</offer>
+					<offer available="true" id="1254">
+						<url>http://shopmybaby.ru/product/nabor-a2743e24-igrovoj-kontejner-s-morozhenym-play-doh/</url>
+						<price>650.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1131712.jpg</picture>
+						<name>Набор A2743E24 Игровой Контейнер с мороженым PLAY-DOH</name>
+						<description>Набор в виде контейнера для создания мороженого. В комплекте аксессуары для игры, 2 стандартные баночки пластилина Play-Doh и 1 стандартная баночка пластилина Play-Doh PLUS.</description>
+					</offer>
+					<offer available="true" id="1255">
+						<url>http://shopmybaby.ru/product/nabor-a7190-dlja-tvorchestva-professionalnyj-stilist-play-doh/</url>
+						<price>620.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1131722.jpg</picture>
+						<name>Набор A7190 для творчества Профессиональный стилист PLAY-DOH</name>
+						<description>Стань профессиональным стилистом с этим набором DohVinci ! В комплекте люксовый маркер, 4 сменных насадки для маркера, 3 картриджа.</description>
+					</offer>
+					<offer available="true" id="1256">
+						<url>http://shopmybaby.ru/product/nabor-a7399-tualetnyj-stolik-princessy-sofii-play-doh/</url>
+						<price>650.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>664</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/1131705.jpg</picture>
+						<name>Набор A7399 Туалетный столик принцессы Софии PLAY-DOH</name>
+						<description> С набором Туалетный столик принцессы Софии девочки смогут создавать амулеты и тиары для себя любимых. Зеркало является двусторонним: на лицевой стороне находится изображение принцессы Софии, при вращении на задней стороне зеркала девочка может видеть собственное изображение за счет специальной акриловой поверхности. В комплект входят туалетный столик с двусторонним зеркалом, амулет, тиара, браслет и кольцо, 3 стандартные баночки с пластилином Play-Doh.</description>
+					</offer>
+				</offers>
+			</shop>
+		</yml_catalog>

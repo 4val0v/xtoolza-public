@@ -1,0 +1,69 @@
+#imagecolorchange
+
+.image.UP,
+.image.Down {
+ 
+ border:0px solid transparent;
+ margin:0;
+ padding:0;
+}
+.image.UP{
+opacity:1.0;
+ display:block;
+ position:absolute;z-index:100;
+ opacity:1.0;
+ transition-duration: 0.99s;
+ -webkit-transition-duration: 0.99s;
+ -moz-transition-duration: 0.99s;
+ -o-transition-duration: 0.99s;
+}
+.image.UP:hover {
+opacity:0.00;
+ position:absolute;z-index:100; 
+ transition-duration: 0.99s;
+ -webkit-transition-duration: 0.99s;
+ -moz-transition-duration: 0.99s;
+ -o-transition-duration: 0.99s;
+}
+
+div.ImgWrap{
+display:inline-block;
+padding:0;margin:0;
+background-position:center center;
+background-repeat:no-repeat;
+}
+
+#imagecolorchange2
+
+.tmage.UE,
+.tmage.Dowe {
+ 
+ border:0px solid transparent;
+ margin:0;
+ padding:0;
+}
+.tmage.UE{
+opacity:1.0;
+ display:block;
+ position:absolute;z-index:100;
+ opacity:1.0;
+ transition-duration: 10.99s;
+ -webkit-transition-duration: 10.99s;
+ -moz-transition-duration: 10.99s;
+ -o-transition-duration: 10.99s;
+}
+.tmage.UE:hover {
+opacity:0.00;
+ position:absolute;z-index:100; 
+ transition-duration: 3.99s;
+ -webkit-transition-duration: 3.99s;
+ -moz-transition-duration: 3.99s;
+ -o-transition-duration: 3.99s;
+}
+
+div.tmgWrae{
+display:inline-block;
+padding:0;margin:0;
+background-position:center center;
+background-repeat:no-repeat;
+}

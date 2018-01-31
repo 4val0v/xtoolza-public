@@ -1,0 +1,42 @@
+div#wrapper
+{width: 600px;
+margin: 0 auto;}
+
+div.background
+{width: 500px;
+height: 500px;
+position: relative;}
+
+a.background-image
+{display: block;
+background: url(images/samurai.jpg) no-repeat top left;
+width: 500px;
+height: 500px;
+text-indent: -9999px;}
+
+
+
+div.info
+{background: black;
+opacity: 0.8;
+width: 500px;
+position: absolute;
+bottom: 0px;
+right:0px;
+}
+
+div.info h3, div.info p
+{color: white;
+}
+
+div.info h3
+{margin: 10px 20px 5px 20px;}
+
+div.info p.date 
+{font-size: 12px;
+margin: 0 20px 5px 20px;}
+
+div.info p.info-text
+{font-size: 14px;
+margin: 0 20px 20px 20px;	
+}

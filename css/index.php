@@ -1,0 +1,3 @@
+<?
+header('http://xtoolza.info');
+?>

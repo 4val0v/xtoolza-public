@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^(.*\.html)/$ $1 [R=301,L]
+
+#or
+RewriteRule ^(.*)/$ /$1 [R=301,L]

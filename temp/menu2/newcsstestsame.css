@@ -1,0 +1,138 @@
+.transition-scale {
+	position: relative;
+	z-index: 2;
+	background: #808991;
+	color: #FFF;
+	margin: 0 auto;
+	padding: 10px;
+	text-align: center;
+	max-width: 100px;
+	font-size: 20px;
+	border: 4px ridge black;
+	cursor: pointer;
+	box-shadow:0 0 90px 0 #555555;
+	-webkit-box-shadow:0 0 90px 0 #555555;
+	-moz-box-shadow:0 0 90px 0 #555555;
+}
+
+.textblock {
+	display: table;
+	width: 100%;
+	height: 7em; 
+	text-align: center;
+	background: transparent;
+	position: relative;
+	z-index:1;
+}
+
+.splus {
+	position:fixed; 
+	right:5px; 
+	bottom:50%; 
+	border: 0px; 
+	border-top-width: 0px;
+	padding: 0px; 
+	background: none;
+	width: auto;
+	z-index: 2;
+}
+
+#footer {
+	position: fixed;
+	left: 0; bottom: 0;
+	padding: 10px;
+	color: #fff;
+	width: 100%;
+	font-size: 10px;
+	text-decoration: none;
+	border: 0px;
+	background: none;
+}
+#logo {
+  position: fixed !important;
+  right: 0 !important;
+  bottom: 0 !important;
+	padding: 10px !important;
+	color: #fff;
+	font-size: 10px;
+	text-decoration: none;
+	border: 0px;
+	background: none;
+	z-index: -2;
+}
+
+#update {
+	position: fixed;
+	left: 0; top: 0;
+	padding: 10px;
+	color: #fff;
+	width: 100%;
+	font-size: 12px;
+	text-decoration: none;
+	border: 0px;
+	background: none;
+}
+
+#feedback {
+	position: fixed;
+	right: 30px; 
+	top: 100px;
+	/*padding: 10px;*/
+	color: #fff;
+	font-size: 12px;
+	text-decoration: none;
+	border: 0px;
+	background: none;
+}
+
+body {
+position: relative;
+  color: #f6efe9;
+  margin: 0 auto;
+  height: 100%;
+}
+
+
+#update {
+    position: fixed;
+    left: 0; top: 0;
+    padding: 10px;
+    color: #fff;
+    width: 100%;
+    font-size: 12px;
+    text-decoration: none;
+	border: 0px;
+	background: none;
+}
+
+
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+	font-weight: bold;
+   }
+   
+a:visited {
+    color: #FFFFFF;
+	font-weight: bold;
+   } 
+
+a:hover {
+    color: #FFFF73;
+    text-decoration: none;
+	font-weight: bold;
+}
+
+table {
+	border:0;
+    width: 300px;
+    margin: auto; 
+	border-collapse: collapse;
+   }
+   
+td { 
+    padding: 10px;
+}   
+
+   

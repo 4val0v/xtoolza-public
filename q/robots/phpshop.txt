@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /java/
+Disallow: /opros/
+Sitemap: http://site.ru/sitemap.xml
+Host: site.ru

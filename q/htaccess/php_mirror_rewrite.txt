@@ -1,0 +1,13 @@
+<?php
+$host="www.domain.com";//must to be main mirror (with www)
+if(strpos($_SERVER['HTTP_HOST'],'www')===FALSE) // if NO 'www'
+{header('HTTP/1.1 301 Moved Permanently'); // 301 redirect to 'www'
+header('Location: http://'.$host.$_SERVER['REQUEST_URI']);}
+?>
+
+<?php
+$host="domain.com";//must to be main mirror (without www)
+if(strpos($_SERVER['HTTP_HOST'],'www')!==FALSE) // if 'www'
+{header('HTTP/1.1 301 Moved Permanently'); // 301 redirect to NO 'www'
+header('Location: http://'.$host.$_SERVER['REQUEST_URI']);}
+?>

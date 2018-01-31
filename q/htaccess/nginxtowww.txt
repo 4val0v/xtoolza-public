@@ -1,0 +1,13 @@
+server {
+     listen  80;
+     server_name  host.ru;
+     rewrite ^ http://www.host.ru$request_uri? permanent; #301 redirect
+}
+
+server {
+     listen  80;
+     server_name www.host.ru;
+.....
+#all other rules
+.....
+}

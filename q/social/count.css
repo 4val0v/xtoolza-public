@@ -1,0 +1,30 @@
+#bar
+{
+background-color:#D90000;
+width:0px;
+height:16px;
+}
+#bar_new
+{
+background-color:#00CC00;
+width:0px;
+height:16px;
+}
+#barbox
+{
+float:right;
+height:16px;
+background-color:#FFFFFF;
+width:100px;
+border:solid 2px #000;
+margin-right:3px;
+-webkit-border-radius:5px;-moz-border-radius:5px;
+}
+#count
+{
+float:right; margin-right:50%;
+font-family:'Georgia', Times New Roman, Times, serif;
+font-size:16px;
+font-weight:bold;
+color:#666666
+}

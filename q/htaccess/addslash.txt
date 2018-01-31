@@ -1,0 +1,16 @@
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteRule ^(.*[^/])$ $1/ [L,R=301]
+
+#or
+RewriteCond %{REQUEST_URI} (.*/[^/.]+)($|\?)
+RewriteRule .* %1/ [R=301,L]
+
+
+#php version:
+ 		if($temp == "index.html" or $temp == "index.php" or $temp == "index.htm" OR $temp == "index" OR $temp == "index".EXT) {
+ 			header("HTTP/1.1 301 Moved Permanently");
+ 			header("Location:http://".$_SERVER['HTTP_HOST']."/");
+ 			exit();
+ 		}

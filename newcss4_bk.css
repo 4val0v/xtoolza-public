@@ -1,0 +1,92 @@
+#imagecolorchange2
+
+.image.UE,
+.image.Dowe {
+ 
+ border:0px solid transparent;
+ margin:0;
+ padding:0;
+}
+.image.UE{
+opacity:1.0;
+ display:block;
+ position:absolute;z-index:100;
+ opacity:1.0;
+ transition-duration: 10.99s;
+ -webkit-transition-duration: 10.99s;
+ -moz-transition-duration: 10.99s;
+ -o-transition-duration: 10.99s;
+}
+.image.UE:hover {
+opacity:0.00;
+ position:absolute;z-index:100; 
+ transition-duration: 3.99s;
+ -webkit-transition-duration: 3.99s;
+ -moz-transition-duration: 3.99s;
+ -o-transition-duration: 3.99s;
+}
+
+div.tmgWrae{
+display:inline-block;
+padding:0;margin:0;
+background-position:center center;
+background-repeat:no-repeat;
+}
+
+
+
+#linearBg1 {
+	/* fallback */
+	/* chrome 2+, safari 4+;*/
+	background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0.32,#D9ECFF),color-stop(0.66,#AFAFAF), color-stop(0.83,#D9ECFF));
+	/* chrome 10+, safari 5.1+ */
+	background-image:-webkit-linear-gradient(#D9ECFF,#AFAFAF,#D9ECFF);
+	/* firefox;*/
+	background-image:-moz-linear-gradient(top,#D9ECFF,#AFAFAF,#D9ECFF);
+	/* ie 6+ */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#D9ECFF', endColorstr='#D9ECFF');
+	/* ie8 + */
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#D9ECFF', endColorstr='#D9ECFF')";
+	/* ie10 */
+	background-image: -ms-linear-gradient(#D9ECFF,#AFAFAF,#D9ECFF);
+	/* opera 11.1 */
+	background-image: -o-linear-gradient(#D9ECFF,#AFAFAF,#D9ECFF);
+	/* "стандарт" */
+	background-image: linear-gradient(#D9ECFF,#AFAFAF,#D9ECFF);
+  -moz-background-size: cover; /* Firefox 3.6+ */
+  -webkit-background-size: cover; /* Safari 3.1+ и Chrome 4.0+ */
+  -o-background-size: cover; /* Opera 9.6+ */
+  background-size: cover;
+  width: 100vw;
+height: 100vh;
+}
+
+@media screen and (max-width: 100%) { /* Specific to this particular image */
+        #linearBg1 {
+                left: 50%;
+                margin-left: -50%;   /* 50% */
+        }
+}
+
+
+
+td { 
+    padding: 5px;
+}
+
+#tablespecial {
+	width: 100%;
+}
+
+table.cmstable {
+	width: 100%;
+	border: 10px;
+	border-color: green;
+	border-collapse: collapse; 
+	display: none;
+}
+
+#one td{
+    border: 2px solid lightblue;  
+    border-color:lightblue;
+	}

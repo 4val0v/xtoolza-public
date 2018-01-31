@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: *.txt$
+Disallow: */proxy2/*
+Crawl-delay: 5
+Sitemap: http://xtoolza.info/sitemap.xml
+Host: xtoolza.info

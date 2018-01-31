@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/Neon Color Scheme/Neon.tmTheme",
+	"draw_white_space": "all",
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"word_wrap": true,
+	"ensure_newline_at_eof_on_save": true,
+	"trim_trailing_white_space_on_save": true,
+	"rulers": [80,100,120]
+}

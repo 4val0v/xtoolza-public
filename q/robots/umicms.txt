@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /?
+Disallow: /emarket/addToCompare
+Disallow: /emarket/basket
+Disallow: /go_out.php
+Disallow: /images
+Disallow: /images/lizing
+Disallow: /images/ntc
+Disallow: /files
+Disallow: /users
+Disallow: /admin
+Disallow: /search
+Disallow: /install-temp
+Disallow: /install-static
+Disallow: /install-libs
+Sitemap: http://site.ru/sitemap.xml
+Host: site.ru

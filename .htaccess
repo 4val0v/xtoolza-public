@@ -1,0 +1,94 @@
+# <IfModule mod_speling.c>
+#     CheckCaseOnly on
+#     CheckSpelling on
+# </IfModule>
+
+#Запрет доступа к сайту с IP 298.169.132.24
+Order allow,deny
+Allow from all
+Deny from 109.111.
+
+# Order allow,deny
+# allow from all
+# Deny from 93.75.73.240
+
+# RewriteEngine On
+# RewriteCond %{HTTPS} on
+# RewriteRule (.*) http://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+php_value short_open_tag 1
+
+RewriteEngine On
+#kick spammers from error log apache
+RewriteRule wp-login.php$ http://xtoolza.info [R=301,L]
+RewriteRule wp-admin.php$ http://xtoolza.info [R=301,L]
+RewriteRule admin.php$ http://xtoolza.info [R=301,L]
+RewriteRule manager$ http://xtoolza.info [R=301,L]
+RewriteRule administrator$ http://xtoolza.info [R=301,L]
+
+RewriteRule q/tags/tagscheck.php$ http://xtoolza.info/q/tags/ [R=301,L]
+RewriteRule q/checkheaders.php$ http://xtoolza.info/q/checkstatus/ [R=301,L]
+RewriteRule q/checkheaders/$ http://xtoolza.info/q/checkstatus/ [R=301,L]
+RewriteRule q/tags/index.php$ http://xtoolza.info/q/tags/ [R=301,L]
+RewriteRule q/fav/favicon.php$ http://xtoolza.info/q/fav/ [R=301,L]
+RewriteRule q/fav/index.php$ http://xtoolza.info/q/fav/ [R=301,L]
+RewriteRule q/htaccess/select_rule.php$ http://xtoolza.info/q/htaccess/ [R=301,L]
+RewriteRule q/htaccess/index.php$ http://xtoolza.info/q/htaccess/ [R=301,L]
+RewriteRule q/robots/index.php$ http://xtoolza.info/q/robots/ [R=301,L]
+RewriteRule q/robots/select_cms.php$ http://xtoolza.info/q/robots/ [R=301,L]
+RewriteRule q/cms/index.php$ http://xtoolza.info/q/cms/ [R=301,L]
+RewriteRule q/checkjivo.php$ http://xtoolza.info/q/callback/ [R=301,L]
+RewriteRule q/callback/p$ http://xtoolza.info/q/callback/ [R=301,L]
+RewriteRule q/broken/index.php$ http://xtoolza.info/q/broken/ [R=301,L]
+RewriteRule q/traffic/index.php$ http://xtoolza.info/q/traffic/ [R=301,L]
+RewriteRule q/metagenerator/index.php$ http://xtoolza.info/q/metagenerator/ [R=301,L]
+RewriteRule q/analytics/index.php$ http://xtoolza.info/q/analytics/ [R=301,L]
+RewriteRule q/metrika/index.php$ http://xtoolza.info/q/metrika/ [R=301,L]
+RewriteRule q/htmlconverter/index.php$ http://xtoolza.info/q/htmlconverter/ [R=301,L]
+RewriteRule q/logs/index.php$ http://xtoolza.info/q/logs/ [R=301,L]
+RewriteRule q/htmlconverter/symbols/index.php$ http://xtoolza.info/q/htmlconverter/symbols/ [R=301,L]
+#RewriteRule proxy3/index.php$ http://xtoolza.info/bot/ [R=301,L]
+#RewriteRule proxy3/$ http://xtoolza.info/bot/ [R=301,L]
+RewriteRule bot/index.php$ http://xtoolza.info/bot/ [R=301,L]
+RewriteRule q/canonical/index.php$ http://xtoolza.info/q/canonical/ [R=301,L]
+RewriteRule dublicates/index.php$ http://xtoolza.info/dublicates/ [R=301,L]
+RewriteRule pumba-manual/new_csv.html$ http://xtoolza.info/pumba-manual2/ [R=301,L]
+RewriteRule pumba-manual2/algorythms/conversions.html$ http://xtoolza.info/pumba-manual2/algorythms/conversions2.html [R=301,L]
+RewriteRule q/map_sait/feed/$ http://xtoolza.info/pumba-manual2/feeds_check/ [R=301,L]
+RewriteRule pumba-manual2/algorythms/statistics.html$ http://xtoolza.info//pumba-manual2/algorythms/statistics2.html [R=301,L]
+RewriteRule pumba-manual2/campaign/moderation.html$ http://xtoolza.info//pumba-manual2/campaign/moderation2.html [R=301,L]
+
+# RewriteRule q/map_sait/feed/available.php$ http://reentermanual.local/feed/available.php [R=301,L]
+RewriteCond %{REQUEST_URI} !(upload|feedunite|unitedfeed|owl-carousel|css|js|strapdown|reenterlogo|interiona|newfeeds)
+# RedirectMatch 301 ^/pumba-manual2/(.*) /pumba-manual2/$1
+# RedirectMatch 301 ^/pumba-manual2/(.*) http://reentermanual.local/$1
+
+# RewriteRule ^pumba-manual2/(.*) http://reentermanual.local/$1 [L,R=301]
+
+php_value error_reporting 0
+php_value display_errors 0
+php_value max_execution_time 500
+php_value max_input_time 500
+php_value upload_max_filesize 50M
+php_value post_max_size 60M
+# exec php in html
+AddHandler application/x-httpd-php .php .php3 .php4 .php5 .phtml .html .htm
+
+#mirrors
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.(.*) [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+# <IfModule mod_headers.c>
+# Header append Cache-Control "no-store, no-cache, must-revalidate"
+# Header append Pragma "no-cache"
+# </IfModule>
+
+# <IfModule mod_expires.c>
+# ExpiresActive On
+# ExpiresDefault "now"
+# </IfModule>
+
+# ErrorDocument 404 http://xtoolza.info/404.php
+ErrorDocument 403 http://xtoolza.info
+
+AddDefaultCharset UTF-8

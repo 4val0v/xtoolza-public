@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin
+Disallow: /catalog
+Disallow: /download
+Disallow: /export
+Disallow: /system
+Disallow: /wishlist
+Disallow: /login
+Sitemap: http://site.ru/sitemap.xml
+Host: site.ru

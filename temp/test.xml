@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="windows-1251"?>
+	<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+		<yml_catalog date="2015-08-17 09:53">
+			<shop>
+				<name>ShopMyBaby</name>
+				<company>ShopMyBaby</company>
+				<url>http://shopmybaby.ru/</url>
+				<currencies>
+					<currency id="RUR" rate="1"/>
+ 					<currency id="USD" rate="CBRF"/>
+ 					<currency id="EUR" rate="CBRF"/>
+ 					<currency id="UAH" rate="CBRF"/>
+				</currencies>
+				<categories>
+					<category id="630" parentId="577">Куклы</category>
+					<category id="637" parentId="559">Мягкие конструкторы</category>
+					<category id="638" parentId="559">Конструкторы аналоги LEGO</category>
+					<category id="641" parentId="559">Конструкторы из пластика</category>
+					<category id="645">Новогодний ассортимент</category>
+					<category id="653" parentId="577">Игрушки Tiny Love</category>
+					<category id="661" parentId="577">Товары и наборы для мальчиков</category>
+					<category id="559" parentId="577">Конструкторы</category>
+				</categories>
+				<offers>
+					<offer available="true" id="1138">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-anglijskij-alfavit/</url>
+						<price>1270.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/_MG_7913.JPG</picture>
+						<name>Детский коврик-пазл «Английский Алфавит»</name>
+						<description> Детский коврик-пазл «Английский  Алфавит» изготовлен из 
+экологически безопасного полимера. Крупные яркие детали выкладываются на
+ полу, развивая у ребенка память, логическое мышление и моторику рук, 
+знакомя его с основами азбуки.
+
+     Набор состоит из   плиток размером 25см*25см, буква в каждой плитке вынимается.
+ </description>
+					</offer>
+					<offer available="true" id="928">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-tolshina-10mm-1kvm/</url>
+						<price>690.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC05051.JPG</picture>
+						<name>Мягкий пол, толщина 10мм, 1кв.м</name>
+						<description> 
+Мягкий пол станет незаменимым для тех, кто ценит комфорт, надежность и безопасность. Его можно использовать как напольное покрытие в игровой комнате, дома и на даче.
+ 
+
+Размеры одной детали (см): 100x100
+Размеры в собранном виде (м2): 1
+
+Производитель ООО «Тойс Лэнд», Россия
+ </description>
+					</offer>
+					<offer available="false" id="1151">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-cvet-derevo-30h30h1sm/</url>
+						<price>130.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/full_255.JPG</picture>
+						<name>Мягкий пол цвет &quot;Дерево&quot; (30х30х1см)</name>
+						<description>Цена указана за 1 плитку.
+ Это покрытие идеально подходит для детских комнат в домах и в 
+различных детских учреждениях, т.к. является теплым, мягким и 
+экологически чистым. Покрытие представляет собой плитки на основе EVA с 
+зацепами &quot;ласточкин хвост&quot; различных размеров, толщин и внешнего 
+оформления.
+
+       Этиленвинилацетат (ЭВА, EVA) - вспененный микропористый полимер, высоко упругий эластичный легкий материал.</description>
+					</offer>
+					<offer available="true" id="1152">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-russkij-alfavit-2020/</url>
+						<price>1090.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/9VLpJIfnm0Q.jpg</picture>
+						<name>Детский коврик-пазл «Русский Алфавит 20*20»</name>
+						<description> Детский коврик-пазл «Русский Алфавит» изготовлен из 
+экологически безопасного полимера. Крупные яркие детали выкладываются на
+ полу, развивая у ребенка память, логическое мышление и моторику рук, 
+знакомя его с основами азбуки.</description>
+					</offer>
+					<offer available="true" id="1153">
+						<url>http://shopmybaby.ru/product/detskij-kovrik-pazl-matematika-2020-/</url>
+						<price>640.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/Hxv_Km3_XHU.jpg</picture>
+						<name>Детский коврик-пазл «Математика 20*20» </name>
+						<description>Детский коврик-пазл «Математика 20*20» изготовлен из 
+экологически безопасного полимера. Яркие детали выкладываются на полу, 
+развивая у ребенка память, логическое мышление и моторику рук, знакомя 
+его с основами арифметики</description>
+					</offer>
+					<offer available="true" id="1154">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-universalnyj-morskie-zhivotnye/</url>
+						<price>650.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/I2pD02X5rVg.jpg</picture>
+						<name>Мягкий пол универсальный &quot;Морские животные&quot;</name>
+						<description> Мягкий пол универсальный &quot;Морские животные&quot; изготовлен из экологически безопасного полимера.
+
+   Коврик-пазл состоит из 9 деталей, животные внутри каждой детали вынимаются.</description>
+					</offer>
+					<offer available="true" id="1163">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-universalnyj-babochki/</url>
+						<price>650.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>567</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kovrikm0_enl.JPG</picture>
+						<name>Мягкий пол универсальный &quot;Бабочки&quot;</name>
+						<description>Мягкий пол универсальный &quot;Бабочки&quot; изготовлен из экологически безопасного полимера.
+
+   Коврик-пазл состоит из 9 деталей, бабочки и цветы внутри каждой детали вынимаются.
+
+
+   Мягкий пол универсальный &quot;Бабочки&quot;  стыкуется с мягким полом &quot;33*33&quot;, ковриками &quot;Листья&quot;, &quot;Животные&quot; и &quot;Морские животные&quot;.
+
+   Предназначен для детей от 3-х лет.
+   Размер каждой детали (мм): 330х330
+   Размеры в собранном виде (м2): 1
+
+   Производитель ООО «Экополимеры», Россия</description>
+					</offer>
+					<offer available="true" id="1174">
+						<url>http://shopmybaby.ru/product/kukla-kristi-v-sine-belom-plate-v-goroshek-art04622322-32-sm-paola-reina/</url>
+						<price>2320.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_322_enl.jpg</picture>
+						<name>Кукла Кристи, в сине-белом платье в горошек (арт.04622/322), 32 см Paola Reina</name>
+						<description>Изготовлена из винила, имеет приятный ванильный аромат,
+
+
+
+ Рост куклы - 32 см, глазки не закрываются.
+
+ 
+
+*Одежда может иметь незначительные отличия от представленной на промо-фотографии.
+
+К этой кукле вы можете приобрести замечательную кроватку для куклы из натурального дерева</description>
+					</offer>
+					<offer available="true" id="1230">
+						<url>http://shopmybaby.ru/product/ortopedicheskij-kovrik-kamni-tverdye/</url>
+						<price>120.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>663</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC0379343.jpg</picture>
+						<name>Ортопедический коврик Камни (твердые)</name>
+						<description>
+Орто коврик изготовлен из ПВХ, пр-во Россия Размер 1 модуля : 25 х 25 х 1,8 см.  Цвета в ассортименте (розовый, синий, зеленый, оранжевый, фиолетовый).  Массажные коврики Орто являются эффективным средством для профилактики и лечения плоскостопия у детей, а так же для снижения утомляемости, повышения иммунитета как у детей так и у взрослых.  Стыкуется с орто-ковриками  камни мягкие, трава, шипы
+</description>
+					</offer>
+					<offer available="true" id="1213">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-60x60-afrika/</url>
+						<price>1030.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/afrika_myagkiypol_enl.jpg</picture>
+						<name>Мягкий пол «60x60» Африка</name>
+						<description>Универсальный коврик-пазл Африка станет незаменимым для тех, кто ценит комфорт, надежность и безопасность. Его можно использовать как напольное покрытие в игровой комнате, дома и на даче.    Универсальный коврик-пазл легко собирается, обладает теплоизоляционными свойствами, устойчив к погодным явлениям, а его компактность и легкость позволяют брать коврик с собой в любые путешествия.   Набор состоит из 4 плиток.   Для каждой плитки - две закрывающие кромки.Размеры каждой детали (мм): 600x600Размеры в собранном виде (м2): 1,44Производитель ООО «Экополимеры», Россия</description>
+					</offer>
+					<offer available="true" id="1214">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-60x60-okean/</url>
+						<price>1030.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/pazl_okean_enl.jpg</picture>
+						<name>Мягкий пол «60x60» Океан</name>
+						<description>Универсальный коврик-пазл Океан станет незаменимым для тех, кто ценит комфорт, надежность и безопасность. Его можно использовать как напольное покрытие в игровой комнате, дома и на даче.    Универсальный коврик-пазл легко собирается, обладает теплоизоляционными свойствами, устойчив к погодным явлениям, а его компактность и легкость позволяют брать коврик с собой в любые путешествия.   Набор состоит из 4 плиток.   Для каждой плитки - две закрывающие кромки.Размеры каждой детали (мм): 600x600Размеры в собранном виде (м2): 1,44Производитель ООО «Экополимеры», Росся</description>
+					</offer>
+					<offer available="true" id="1215">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-60x60-elfy/</url>
+						<price>1030.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/pazl_elfi_enl.jpg</picture>
+						<name>Мягкий пол «60x60» Эльфы</name>
+						<description>Универсальный коврик-пазл Эльфы станет незаменимым для тех, кто ценит комфорт, надежность и безопасность. Его можно использовать как напольное покрытие в игровой комнате, дома и на даче.    Универсальный коврик-пазл легко собирается, обладает теплоизоляционными свойствами, устойчив к погодным явлениям, а его компактность и легкость позволяют брать коврик с собой в любые путешествия.   Набор состоит из 4 плиток.   Для каждой плитки - две закрывающие кромки.Размеры каждой детали (мм): 600x600Размеры в собранном виде (м2): 1,44Производитель ООО «Экополимеры», Россия</description>
+					</offer>
+					<offer available="true" id="1225">
+						<url>http://shopmybaby.ru/product/mjagkij-pol-zvezdochki-30h30h1sm/</url>
+						<price>130.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>568</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/30_30_blue_enl.jpg</picture>
+						<name>Мягкий пол &quot;Звездочки&quot; (30х30х1см)</name>
+						<description>Детский модульный мягкий пол &quot;Звездочки&quot; можно заказать в цветах: 
+
+
+желтый
+ синий
+ зеленый
+коричневый
+ красный. 
+
+
+
+       Размер плитки  30х30х1 см, материал - вспененный ЭВА.
+      К каждой плитке прилагается кромка.</description>
+					</offer>
+					<offer available="true" id="1228">
+						<url>http://shopmybaby.ru/product/kukla-karla-v-belom-plate-s-klubnichkami-32-sm-04630/</url>
+						<price>2310.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kikla_paola_reina_04630_enl.jpg</picture>
+						<name>Кукла Карла в белом платье с клубничками, 32 см (04630)</name>
+						<description>Кукла Карла в белом платье с клубничками, 32 см (04630)
+
+ Изготовлена из винила, имеет приятный ванильный аромат. Кукла Карла станет лучшей подружкой вашему ребенку.
+  Рост куклы - 32 см, глазки не закрываются.
+ 
+*Одежда может иметь незначительные отличия от представленной на промо-фотографии.</description>
+					</offer>
+					<offer available="true" id="1229">
+						<url>http://shopmybaby.ru/product/ortopedicheskij-kovrik-kamni-mjagkie/</url>
+						<price>120.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>663</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC03793.jpg</picture>
+						<name>Ортопедический коврик Камни (мягкие)</name>
+						<description> 
+Орто коврик изготовлен из ПВХ, пр-во Россия.
+Размер 1 модуля : 25 х 25 х 1,8 см.   Цвета в ассортименте 
+(синий, розовый, зеленый, оранжевый, фиолетовый).
+  Массажные коврики Орто являются эффективным средством для профилактики и лечения плоскостопия у детей, а так же для снижения утомляемости, повышения иммунитета как у детей так и у взрослых.  Стыкуется с орто-ковриками  камни твердые, трава, шипы.
+ </description>
+					</offer>
+					<offer available="true" id="1231">
+						<url>http://shopmybaby.ru/product/ortopedicheskij-kovrik-trava/</url>
+						<price>120.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>663</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC03801-1.jpg</picture>
+						<name>Ортопедический коврик Трава</name>
+						<description>
+Орто коврик изготовлен из ПВХ, пр-во Россия Размер 1 модуля : 25 х 25 х 1,8 см.  Массажные коврики Орто являются эффективным средством для профилактики и лечения плоскостопия у детей, а так же для снижения утомляемости, повышения иммунитета как у детей так и у взрослых.  Стыкуется с орто-ковриками  камни мягкие, камни твердые, шипы  Цвета в ассортименте 
+(темно-зеленый, светло-зеленый, оранжевый, желтый).
+</description>
+					</offer>
+					<offer available="true" id="1232">
+						<url>http://shopmybaby.ru/product/ortopedicheskij-kovrik-shipy/</url>
+						<price>120.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>663</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/DSC03799.jpg</picture>
+						<name>Ортопедический коврик Шипы</name>
+						<description>Орто коврик изготовлен из ПВХ, пр-во Россия Размер 1 модуля : 25 х 25 х 1,8 см.  Массажные коврики Орто являются эффективным средством для профилактики и лечения плоскостопия у детей, а так же для снижения утомляемости, повышения иммунитета как у детей так и у взрослых.  Стыкуется с орто-ковриками  камни мягкие, камни твердые, трава.  Цвета в ассортименте 
+(красный, синий, голубой, желтый).
+</description>
+					</offer>
+					<offer available="true" id="1233">
+						<url>http://shopmybaby.ru/product/ortopedicheskij-kovrik-eko-shishki/</url>
+						<price>170.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>663</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kovrik--orto--yeko-shishki_2_original.jpg</picture>
+						<name>Ортопедический коврик Эко Шишки</name>
+						<description> Орто коврик, пр-во Россия Экологически чистый материал: древесно-полимерный  Размер 1 модуля :30 х 30 см   НОВОЕ напольное покрытие ОРТО &quot;ЭКО-ШИШКИ&quot; – изготавливается из экологически чистого материала – древесно-полимерного композита. В состав которого входит мука из рисовой шелухи и составляет до 70% по весу, в качестве связывающего полимера - полиэилен. Древесно полимерный композит создавался как заменитель древесным материалам, поэтому его преимуществами являются следующие свойства:Не гниётНе разбухает в водеНе рассыхается на солнцеУстойчив к климатическим и атмосферным факторам.Натуральный, природный цвет материала без красителейУникальный и естественный природный запах (древесно-рисовый, напоминающий запах подгорелого дерева). Осторожно - материал хрупок (при сгибании ломается) что подтверждает натуральность его происхождения.Модули скрепляются между собой по принципу пазлов, что позволяет менять площадь покрытия.Регулярное использование данного коврика укрепляет и тренирует мышцы стопы способствует профилактике и лечению плоскостопия у детей, способствует снижению утомляемости, оказывает общеоздоровительный эффект всего организма как у детей так и у взрослых.</description>
+					</offer>
+					<offer available="true" id="881">
+						<url>http://shopmybaby.ru/product/kukla-kristi-shkolnica-32-sm-art-306-paola-reina/</url>
+						<price>2180.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_paola_reina_306_enl.jpg</picture>
+						<name>Кукла Кристи, школьница, 32 см (арт 306) Paola Reina</name>
+						<description> 
+Одета Кристи в школьную форму (юбочка, белая блузка и жилет), озорные хвостики на голове, а серьезности придают очки.
+  Изготовлена из винила, имеет приятный ванильный аромат.
+  Волосы куклы можно расчесывать, глазки не закрываются.
+  Рост куклы - 32 см.
+ </description>
+					</offer>
+					<offer available="true" id="894">
+						<url>http://shopmybaby.ru/product/kukla-gimnastka-v-krasnom-plate-32-sm-art-466-paola-reina/</url>
+						<price>1970.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_paola_reina_466_enl.jpg</picture>
+						<name>Кукла гимнастка в красном платье, 32 см (арт 466) Paola Reina</name>
+						<description> 
+В 2011 году Paola Reina выпустила для своих поклонников серию кукол-гимнасток. Это классические виниловые ароматизированные куклы 32 см.  Кроме всех и без того известных достоинств кукол Paola Reina, у новинок сделаны поворачивающиеся запястья. В комплекте с каждой куклой представлены и гимнастические снаряды: булавы, обруч, лента, мяч.  
+  В 2011 - 2012 годах куклы-гимнастки от Paola Reina будут поставляться только в Россию.
+ </description>
+					</offer>
+					<offer available="true" id="895">
+						<url>http://shopmybaby.ru/product/kukla-gimnastka-v-oranzhevom-plate-32-sm-art-465-paola-reina/</url>
+						<price>1970.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla465_enl.jpg</picture>
+						<name>Кукла гимнастка в оранжевом платье, 32 см (арт 465) Paola Reina</name>
+						<description> 
+В 2011 году Paola Reina выпустила для своих поклонников серию кукол-гимнасток. Это классические виниловые ароматизированные куклы 32 см.  Кроме всех и без того известных достоинств кукол Paola Reina, у новинок сделаны поворачивающиеся запястья. В комплекте с каждой куклой представлены и гимнастические снаряды: булавы, обруч, лента, мяч.  В 2011 - 2012 годах куклы-гимнастки от Paola Reina будут поставляться только в Россию.
+ 
+  Глазки у неё светло-карие с ресничками, не закрываются. Волосы каштанового цвета, собраны в пучок и их можно расчёсывать!  Она одета в яркое оранжевое платье и балетки.
+ </description>
+					</offer>
+					<offer available="true" id="896">
+						<url>http://shopmybaby.ru/product/kukla-gimnastka-v-rozovom-plate-32-sm-art-469-paola-reina/</url>
+						<price>1970.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>610</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_469_enl.jpg</picture>
+						<name>Кукла гимнастка в розовом платье , 32 см (арт 469) Paola Reina</name>
+						<description> 
+В 2011 году Paola Reina выпустила для своих поклонников серию кукол-гимнасток. Это классические виниловые ароматизированные куклы 32 см.  Кроме всех и без того известных достоинств кукол Paola Reina, у новинок сделаны поворачивающиеся запястья. В комплекте с каждой куклой представлены и гимнастические снаряды: булавы, обруч, лента, мяч.  В 2011 - 2012 годах куклы-гимнастки от Paola Reina будут поставляться только в Россию.
+ 
+  Глазки у неё светло-карие с ресничками, не закрываются. Волосы каштанового цвета, собраны в пучок и их можно расчёсывать!  Она одета в нарядное розо-фиолетовое платье, а на ногах у неё розовые балетки.
+ </description>
+					</offer>
+					<offer available="true" id="905">
+						<url>http://shopmybaby.ru/product/elf-v-zheltom-malchik-24sm-art654/</url>
+						<price>940.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>618</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/elf_paola_reina_654_enl.jpg</picture>
+						<name>Эльф в желтом, мальчик, 24см (арт.654)</name>
+						<description></description>
+					</offer>
+					<offer available="true" id="975">
+						<url>http://shopmybaby.ru/product/kukla-soy-tu-brjunetka-new-40-sm-art-381-paola-reina/</url>
+						<price>2680.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>643</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_paola_reina_381_enl.jpg</picture>
+						<name>Кукла Soy Tu, брюнетка, New 40 см (арт 06081-381), Paola Reina</name>
+						<description>Кукла Soy Tu, брюнетка, New 40 см (арт 381), Paola Reina Материал: туловище, ножки, ручки и голова – винил; волосы – высококачественный нейлон; глаза – прозрачный твердый пластик; одежда - текстиль.</description>
+					</offer>
+					<offer available="true" id="976">
+						<url>http://shopmybaby.ru/product/kukla-soy-tu-aziatka-40-sm-art-368-paola-reina/</url>
+						<price>2245.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>643</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla368_enl.jpg</picture>
+						<name>Кукла Soy Tu, азиатка, 40 см (арт 06068/368), Paola Reina</name>
+						<description>Кукла Soy Tu, азиатка, 40 см (арт 368), Paola ReinaКукла Sot Tu настоящая красавица брюнетка, у нее карие глаза и длинные черные волосы.На ней красивое платье в розовый цветочек и пышная вторая юбка розового цвета.Так же у этой модницы есть вязанный малиновый кардиган, который завязывается на красивый бант.В тон кардигану есть и вязанная шапочка с бантом.на ногах у нее желтые носочки и красивые сиреневые балетки с розочкой. У нее закрываются глазки. Тело куклы из винила. Длина куклы 40 см.Упакована в коробку.</description>
+					</offer>
+					<offer available="true" id="977">
+						<url>http://shopmybaby.ru/product/977/</url>
+						<price>2070.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>643</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla_paola_reina_377_enl.jpg</picture>
+						<name>Кукла Soy Tu, блондинка,New, 40 см (арт 06077-377), Paola Reina</name>
+						<description>Кукла Soy Tu, блондинка,New, 40 см (арт 377), Paola Reina  Куклы испанской компании Паола Рейна с симпатичными открытыми лицами красиво одеты и имеют нежный ванильный аромат. Каждая кукла уникальна и неповторима, т.к. декорирование (роспись) производится вручную мастерами фирмы Паола Рейна. Ручки и ножки куклы подвижны, глазки не закрываются, а волосы можно расчесывать. Игрушка изготовлена нетоксичных материалов, безопасных для игры Вашего ребенка. Коллекционная кукла Паола Рейна — прекрасный подарок как детям, так и взрослым.</description>
+					</offer>
+					<offer available="true" id="979">
+						<url>http://shopmybaby.ru/product/kukla-soy-tu-blondinka-40-sm-art-371-paola-reina/</url>
+						<price>2470.00</price>
+						<currencyId>RUR</currencyId>
+						<categoryId>643</categoryId>
+						<picture>http://shopmybaby.ru//published/publicdata/MYBABYMYBABY/attachments/SC/products_pictures/kukla371_enl.jpg</picture>
+						<name>Кукла Soy Tu, блондинка, 40 см (арт 371), Paola Reina</name>
+						<description>Кукла Soy Tu, блондинка, 40 см (арт 371), Paola ReinaУ куклы Сой Ту прекрасно проработан дизайн лица - сделанные вручную ресницы, щечки, губы, прическа - делают куклу настолько натуральной, что ее лицо выглядит совсем как живое.Кукла упакована в красиую подарочную коробку.Особый шарм куклам Paola Reina придает приятный и легкий ванильный или фруктовый аромат.</description>
+					</offer>
+				</offers>
+			</shop>
+		</yml_catalog>

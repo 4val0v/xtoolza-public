@@ -1,0 +1,2324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2016-06-16 09:24:10">
+<shop>
+<name>ReEnter United Feed</name>
+<url>http://shop.okraina.ru</url>
+<currencies>
+<currency id="RUB" rate="1.0000"/>
+</currencies>
+<categories>
+<category id="582">Колбаски для жарки</category>
+<category id="565">Колбасы</category>
+<category id="566" parentId="565">Варено-копченые колбасы</category>
+<category id="567" parentId="565">Вареные колбасы</category>
+<category id="569" parentId="565">Ливерные колбасы</category>
+<category id="570" parentId="565">Полукопченые колбасы</category>
+<category id="571" parentId="565">Сырокопченые  колбасы</category>
+<category id="572" parentId="565">Твердокопченые  колбасы</category>
+<category id="563">Деликатесы</category>
+<category id="562">Ветчины</category>
+<category id="564">Замороженные полуфабрикаты</category>
+<category id="578">Сосиски</category>
+<category id="577">Сардельки</category>
+<category id="573">Натуральные полуфабрикаты</category>
+<category id="574">Паштеты</category>
+<category id="583">Шашлыки</category>
+<category id="581">Сопутствующие товары для шашлыка</category>
+<category id="575">Продукты в желе</category>
+<category id="585">Хлеба мясные</category>
+<category id="576">Продукты из мяса птицы</category>
+<category id="588">Подарочные карты</category>
+<category id="591">HoReCa</category>
+                            <category id="1">Р”РµС‚СЃРєРёРµ РєРѕР»СЏСЃРєРё-Р»СЋР»СЊРєРё</category>
+                            <category id="2">РљРћР›РЇРЎРљР 2 РІ 1 (Р°СЂС…РёРІ)</category>
+                            <category id="3">РџСЂРѕРіСѓР»РѕС‡РЅС‹Рµ РєРѕР»СЏСЃРєРё</category>
+                            <category id="4">РђРєСЃРµСЃСЃСѓР°СЂС‹ Рє РєРѕР»СЏСЃРєР°Рј</category>
+                            <category id="5">РќРµ РїРѕСЃС‚Р°РІР»СЏСЋС‚СЃСЏ РІ Р РѕСЃСЃРёСЋ</category>
+                            <category id="6">РљРћР›РЇРЎРљР 3 Р’ 1 (Р°СЂС…РёРІ)</category>
+                            <category id="7">Р”РµС‚СЃРєРёРµ РєРѕР»СЏСЃРєРё 2 РІ 1</category>
+                            <category id="8">Р”РµС‚СЃРєРёРµ РєРѕР»СЏСЃРєРё 3 РІ 1</category>
+                            <category id="9">РђРІС‚РѕРєСЂРµСЃР»Р°</category>
+                            <category id="10">Р”РµС‚СЃРєРёРµ РєРѕР»СЏСЃРєРё-Р»СЋР»СЊРєРё (Р°СЂС…РёРІ)</category>
+                            <category id="11">Р”РµС‚СЃРєРёРµ РєРѕР»СЏСЃРєРё Lonex 2 РІ 1 РЅР° СЃРїРѕСЂС‚РёРІРЅРѕР№ СЂР°РјРµ</category>
+                            <category id="12">Р”РµС‚СЃРєРёРµ РєРѕР»СЏСЃРєРё Lonex 2 РІ 1 РЅР° РєР»Р°СЃСЃРёС‡РµСЃРєРѕР№ СЂР°РјРµ</category>
+                            <category id="13">Р”РµС‚СЃРєРёРµ РєРѕР»СЏСЃРєРё Lonex РІ СЂРµС‚СЂРѕ-СЃС‚РёР»Рµ</category>
+                            <category id="14">Р”РµС‚СЃРєРёРµ РєРѕР»СЏСЃРєРё-С‚СЂР°РЅСЃС„РѕСЂРјРµСЂС‹</category>
+                            <category id="15">Easywalker</category>
+                            <category id="16">РЎС‚СѓР»СЊС‡РёРєРё РґР»СЏ РєРѕСЂРјР»РµРЅРёСЏ, С€РµР·Р»РѕРЅРіРё</category>
+                            <category id="17">РњР°РЅРµР¶Рё, РѕРіСЂР°Р¶РґРµРЅРёСЏ</category>
+                            <category id="18">РљРѕР»СЏСЃРєРё РґР»СЏ РґРІРѕРµРЅ Рё РїРѕРіРѕРґРѕРє</category>
+                            <category id="19">Patron</category>
+                            <category id="20">РЎРЅСЏС‚С‹ СЃ РїСЂРѕРёР·РІРѕРґСЃС‚РІР°</category>
+                            <category id="21">Lindam</category>
+</categories>
+<offers>
+                        <offer id="183" type="vendor.model" available="true">
+                <url>http://anex-shop.ru/product/vetrovik-chehol-ot-dozhdja-i-snega</url>
+                <price>900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>4</categoryId>
+                <picture>http://anex-shop.ru/media/cache/view/uploads/products/images/product/5617c95fd625b.png</picture>
+                <delivery>true</delivery>
+                <vendor></vendor>
+                <model>Р’РµС‚СЂРѕРІРёРє (С‡РµС…РѕР» РѕС‚ РґРѕР¶РґСЏ Рё СЃРЅРµРіР°)</model>
+                <sales_notes></sales_notes>
+            </offer>
+                        <offer id="184" type="vendor.model" available="true">
+                <url>http://anex-shop.ru/product/mehovoj-konvert-mansita-mini</url>
+                <price>8950</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>4</categoryId>
+                <picture>http://anex-shop.ru/media/cache/view/uploads/products/images/product/5618dcbb76181.png</picture>
+                <delivery>true</delivery>
+                <vendor></vendor>
+                <model>РњРµС…РѕРІРѕР№ РєРѕРЅРІРµСЂС‚ Mansita Mini</model>
+                <sales_notes></sales_notes>
+            </offer>
+                        <offer id="186" type="vendor.model" available="true">
+                <url>http://anex-shop.ru/product/detskaya-kolyaska-anex-classic-3-v-1</url>
+                <price>38200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>8</categoryId>
+                <picture>http://anex-shop.ru/media/cache/view/uploads/products/images/product/56ffc758af56b.png</picture>
+                <delivery>true</delivery>
+                <vendor>Anex</vendor>
+                <model>Р”РµС‚СЃРєР°СЏ РєРѕР»СЏСЃРєР° Anex Classic 3 РІ 1</model>
+                <sales_notes></sales_notes>
+            </offer>
+                        <offer id="187" type="vendor.model" available="true">
+                <url>http://anex-shop.ru/product/detskaya-kolyaska-anex-sport-3-v-1</url>
+                <price>43200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>8</categoryId>
+                <picture>http://anex-shop.ru/media/cache/view/uploads/products/images/product/56ffadbc9b49b.png</picture>
+                <delivery>true</delivery>
+                <vendor>Anex</vendor>
+                <model>Р”РµС‚СЃРєР°СЏ РєРѕР»СЏСЃРєР° Anex Sport 3 РІ 1</model>
+                <sales_notes></sales_notes>
+            </offer>
+                        <offer id="188" type="vendor.model" available="true">
+                <url>http://anex-shop.ru/product/detskaya-kolyaska-anex-classic-2-v-1</url>
+                <price>32700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>7</categoryId>
+                <picture>http://anex-shop.ru/media/cache/view/uploads/products/images/product/56ffafbd5811b.png</picture>
+                <delivery>true</delivery>
+                <vendor>Anex</vendor>
+                <model>Р”РµС‚СЃРєР°СЏ РєРѕР»СЏСЃРєР° Anex Classic 2 РІ 1</model>
+                <sales_notes></sales_notes>
+            </offer>
+                        <offer id="189" type="vendor.model" available="true">
+                <url>http://anex-shop.ru/product/detskaya-kolyaska-anex-sport-2-v-1</url>
+                <price>38700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>7</categoryId>
+                <picture>http://anex-shop.ru/media/cache/view/uploads/products/images/product/564df6e64e0b6.png</picture>
+                <delivery>true</delivery>
+                <vendor></vendor>
+                <model>Р”РµС‚СЃРєР°СЏ РєРѕР»СЏСЃРєР° Anex Sport 2 РІ 1</model>
+                <sales_notes></sales_notes>
+            </offer>
+                        <offer id="259" type="vendor.model" available="true">
+                <url>http://anex-shop.ru/product/detskaya-kolyaska-anex-cross-3-v-1</url>
+                <price>45737</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>8</categoryId>
+                <picture>http://anex-shop.ru/media/cache/view/uploads/products/images/product/5749754f17685.png</picture>
+                <delivery>true</delivery>
+                <vendor>Anex</vendor>
+                <model>Р”РµС‚СЃРєР°СЏ РєРѕР»СЏСЃРєР° Anex Cross 3 РІ 1</model>
+                <sales_notes></sales_notes>
+            </offer>
+                        <offer id="261" type="vendor.model" available="true">
+                <url>http://anex-shop.ru/product/detskaya-kolyaska-anex-cross-2-v-1</url>
+                <price>41237</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>7</categoryId>
+                <picture>http://anex-shop.ru/media/cache/view/uploads/products/images/product/56d4392981bdd_23399.png</picture>
+                <delivery>true</delivery>
+                <vendor>Anex</vendor>
+                <model>Р”РµС‚СЃРєР°СЏ РєРѕР»СЏСЃРєР° Anex Cross 2 РІ 1</model>
+                <sales_notes></sales_notes>
+            </offer>
+<offer id="4991" available="true">
+<url>http://shop.okraina.ru/catalog/vetchiny/282-vetchina-v-obolochke-poliamid-05-kg-new11/?r1=yandext&amp;r2=</url>
+<price>198</price>
+<currencyId>RUB</currencyId>
+<categoryId>562</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/754/7548a1cfff4ca92506773e016c2b77ae.jpg</picture>
+<name>Ветчина в полиамиде 500г</name>
+<description></description>
+</offer>
+<offer id="5004" available="true">
+<url>http://shop.okraina.ru/catalog/vetchiny/vetchina-v-obolochke-sinyuga/?r1=yandext&amp;r2=</url>
+<price>266.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>562</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/4f9/4f91ddd19835c533017ce50e82515b4b.jpg</picture>
+<name>Ветчина в оболочке синюга в вакууме 280-480г</name>
+<description></description>
+</offer>
+<offer id="5126" available="true">
+<url>http://shop.okraina.ru/catalog/vetchiny/vetchina-v-obolochke-sinuga/?r1=yandext&amp;r2=</url>
+<price>1221</price>
+<currencyId>RUB</currencyId>
+<categoryId>562</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/c6a/c6a169360645389d710fa26354268fef.jpg</picture>
+<name>Ветчина в синюге 1,5-2,2кг</name>
+<description></description>
+</offer>
+<offer id="4903" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/grudinka-pikantnaya-02kg/?r1=yandext&amp;r2=</url>
+<price>204</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/438/4382f61edde195db8782198ef08f3025.jpg</picture>
+<name>Грудинка Пикантная сырокопченая нарезка 200г</name>
+<description></description>
+</offer>
+<offer id="4910" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/bekon-vengerskiy-02kg/?r1=yandext&amp;r2=</url>
+<price>151</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/e72/e7271e140c90ad6dd89312423c46e57b.jpg</picture>
+<name>Бекон Венгерский копчено-вареный нарезка 200г</name>
+<description></description>
+</offer>
+<offer id="4919" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/rebryshki-k-pivu-250g/?r1=yandext&amp;r2=</url>
+<price>126.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/702/702b6fd8f1c07d8d299bb11261bcc5b8.jpg</picture>
+<name>Ребрышки к пиву копчено-вареные 250г</name>
+<description></description>
+</offer>
+<offer id="4925" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/shpik-s-vasabi-0%2C25kg/?r1=yandext&amp;r2=</url>
+<price>239.45</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/ee3/ee39a91d68078296ab933c0b10c6d4ac.jpg</picture>
+<name>Шпик с васаби 200-500г</name>
+<description></description>
+</offer>
+<offer id="4926" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/assorti-myasnoe-pikantnoe-v-vakuume-03kg/?r1=yandext&amp;r2=</url>
+<price>168.75</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/80f/80fe5e55e58b4dcce14913c622898957.jpg</picture>
+<name>Ассорти мясное Пикантное 300-750г</name>
+<description></description>
+</offer>
+<offer id="4928" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/bugenina-okraina-zapechennaya-4kg/?r1=yandext&amp;r2=</url>
+<price>2486.12</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/ada/ada390db6929228c5439d04456007597.jpg</picture>
+<name>Буженина запеченная 1,4-2,8кг</name>
+<description></description>
+</offer>
+<offer id="4933" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/grudinka-pikantnaya-syrokopchenaya-v-vakuume-03kg/?r1=yandext&amp;r2=</url>
+<price>426.28</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/c78/c7811de0a83ade401d105fe514d03131.jpg</picture>
+<name>Грудинка Пикантная сырокопченая 220-540г</name>
+<description></description>
+</offer>
+<offer id="4941" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/karbonad-yubileynyy/?r1=yandext&amp;r2=</url>
+<price>331.65</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/4ed/4ede0ab7da98660f08dda19895b12930.jpg</picture>
+<name>Карбонад Юбилейный варено-копченый 280-450г</name>
+<description></description>
+</offer>
+<offer id="4972" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/sheyka-podmoskovnaya/?r1=yandext&amp;r2=</url>
+<price>339.21</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/ac4/ac45edad34dda125de88868e97621c16.jpg</picture>
+<name>Шейка Подмосковная копчено-вареная в вакууме 280-450г</name>
+<description></description>
+</offer>
+<offer id="5016" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/rulka-svinaya-traditsionnaya-zapechennaya/?r1=yandext&amp;r2=</url>
+<price>333.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/2bc/2bc81eb83136f32f30a9f54c61aea0c4.jpg</picture>
+<name>Рулька свиная запеченная в коробке 500г</name>
+<description></description>
+</offer>
+<offer id="5022" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/Okorok-po-tambovski-0%2C55kg/?r1=yandext&amp;r2=</url>
+<price>466.96</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/f90/f902b01f683225f6f22211559f102d76.jpg</picture>
+<name>Окорок по-Тамбовски копчено-вареный 500-650г</name>
+<description></description>
+</offer>
+<offer id="5023" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/bugenina-okraina-zapechennaya-0%2C4kg/?r1=yandext&amp;r2=</url>
+<price>577.14</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/325/3250d618f9d033f8d7d4517fa75c336e.jpg</picture>
+<name>Буженина запеченная 500-650г</name>
+<description></description>
+</offer>
+<offer id="5036" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/Okorok-po-tambovski/?r1=yandext&amp;r2=</url>
+<price>1939.68</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/21c/21c2b4f384bc0d465281ab44b53baed3.jpg</picture>
+<name>Окорок по-Тамбовски копчено-вареный 1,0-2,7кг</name>
+<description></description>
+</offer>
+<offer id="5080" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/koreika-negnaya-Okraina-0.5kg/?r1=yandext&amp;r2=</url>
+<price>445.25</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/5dd/5ddc95bd1c32039fa9f84880fd1cfd99.jpg</picture>
+<name>Корейка Нежная копчено-вареная 500-650г</name>
+<description></description>
+</offer>
+<offer id="5087" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/Golyashki-i-rulki-v-gele-v-vakuume-400g/?r1=yandext&amp;r2=</url>
+<price>295.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/3f0/3f047ed97d1f6a152d8dc08386817ab9.jpg</picture>
+<name>Голяшки и Рульки в желе 250-700г</name>
+<description></description>
+</offer>
+<offer id="5176" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/grudinka-negnaya-420g/?r1=yandext&amp;r2=</url>
+<price>306.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/7b1/7b1e61426d1a3e1972ad49c707446221.jpg</picture>
+<name>Грудинка Нежная Окраина копчено-вареная 420г в/у</name>
+<description></description>
+</offer>
+<offer id="5193" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/rulka-svinaya-traditsionnaya-zapechennaya-500g/?r1=yandext&amp;r2=</url>
+<price>303.1</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/501/5010e15ced08ae78d52db8d1a97ec9b2.jpg</picture>
+<name>Рулька свиная запеченная 280-710г</name>
+<description></description>
+</offer>
+<offer id="5204" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/sheyka-stolichnaya-370g/?r1=yandext&amp;r2=</url>
+<price>275</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/adb/adb6dee596fe16a9a9ad4ade87eca515.jpg</picture>
+<name>Шейка Столичная копчено-вареная 370г в/у</name>
+<description></description>
+</offer>
+<offer id="5774" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/grudinka-negnaya-okraina/?r1=yandext&amp;r2=</url>
+<price>1122.85</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/375/375ff66bf764149920bd80c541c0a573.jpg</picture>
+<name>Грудинка Нежная копчено-вареная 0,7-1,7кг</name>
+<description></description>
+</offer>
+<offer id="5776" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/karbonat-ubileiniy/?r1=yandext&amp;r2=</url>
+<price>884.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/734/734e2492c2f6a7a2816b0fa017f5ef6b.jpg</picture>
+<name>Карбонад Юбилейный варено-копченый 0,5-1,2кг</name>
+<description></description>
+</offer>
+<offer id="5779" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/rulka-svinaya-Okraina/?r1=yandext&amp;r2=</url>
+<price>656.2</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/49d/49d6d85d93ba7d39a39fc6a493cbbb55.jpg</picture>
+<name>Рулька Свиная копчено-вареная 1,2-2кг</name>
+<description></description>
+</offer>
+<offer id="5785" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/rebryshki-svinye-kopcheno-varenye/?r1=yandext&amp;r2=</url>
+<price>286.22</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/409/409ce4fcb08f4e146222592b367bad08.jpg</picture>
+<name>Ребрышки Cвиные копчено-вареные 400-1100г</name>
+<description></description>
+</offer>
+<offer id="9880" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/salo-s-chesnokom-i-percem/?r1=yandext&amp;r2=</url>
+<price>346.73</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/b6e/b6ebe02a6391237faf080076fe8cf149.jpg</picture>
+<name>Сало с чесноком и перцем Окраина соленое 220-690г</name>
+<description></description>
+</offer>
+<offer id="9881" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/salo-po-domashnemy/?r1=yandext&amp;r2=</url>
+<price>267.01</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/0ee/0eef5c4ca4a2fab01ab436fcc011209c.jpg</picture>
+<name>Сало по-домашнему Окраина соленое 220-560г</name>
+<description></description>
+</offer>
+<offer id="9980" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/sudguk/?r1=yandext&amp;r2=</url>
+<price>210</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/71e/71e2db60a056a5dc52436d473636215d.jpg</picture>
+<name>Суджук сыровяленый нарезка 80г</name>
+<description></description>
+</offer>
+<offer id="9981" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/basturma/?r1=yandext&amp;r2=</url>
+<price>210</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/554/554239dbaf192a062e6824c4011e7e84.jpg</picture>
+<name>Бастурма сыровяленая нарезка 80г</name>
+<description></description>
+</offer>
+<offer id="10164" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/sudguk-iz-myasa-ciplenka/?r1=yandext&amp;r2=</url>
+<price>142</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/6a2/6a2cf17a1032b1bc71c7f2af8b1e1162.jpg</picture>
+<name>Суджух из мяса цыпленка 80г</name>
+<description></description>
+</offer>
+<offer id="11222" available="true">
+<url>http://shop.okraina.ru/catalog/delikatesy/shpik-sloyeniy/?r1=yandext&amp;r2=</url>
+<price>221.26</price>
+<currencyId>RUB</currencyId>
+<categoryId>563</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/ec1/ec173035986cde0edac1bedd6a3f818e.jpg</picture>
+<name>Шпик слоеный 220-520г</name>
+<description></description>
+</offer>
+<offer id="4897" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/pelmeni-sibirskie-750g/?r1=yandext&amp;r2=</url>
+<price>262.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/4d7/4d73137fa5def62cea920463353748d1.jpg</picture>
+<name>Пельмени Сибирские 750г</name>
+<description></description>
+</offer>
+<offer id="4898" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/pelmeni-russkie-500g/?r1=yandext&amp;r2=</url>
+<price>168.7</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/b8f/b8f76ac3957ece4768f18450bc545fdc.jpg</picture>
+<name>Пельмени Русские 500г</name>
+<description></description>
+</offer>
+<offer id="4901" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/vareniki-s-chernikoj-500g/?r1=yandext&amp;r2=</url>
+<price>133.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/e57/e57ca89611011d0f67d1911207051f08.jpg</picture>
+<name>Вареники с черникой 500г</name>
+<description></description>
+</offer>
+<offer id="5026" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/vareniki-s-kartofelem-i-zharenym-lukom-500g/?r1=yandext&amp;r2=</url>
+<price>111.9</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/2f9/2f9322399462f03b5d67189f50fa5750.jpg</picture>
+<name>Вареники с картофелем и жареным луком 500г</name>
+<description></description>
+</offer>
+<offer id="5027" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/vareniki-s-kartofelem-i-gribami-500g/?r1=yandext&amp;r2=</url>
+<price>111.9</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/af8/af89b4883e972f554a435ae27e40134d.jpg</picture>
+<name>Вареники с картофелем и грибами 500г</name>
+<description></description>
+</offer>
+<offer id="5029" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/pelmeni-russkie-1kg/?r1=yandext&amp;r2=</url>
+<price>328.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/635/6355d5bb514796fdad6c4cafac423cc2.jpg</picture>
+<name>Пельмени Русские 1кг</name>
+<description></description>
+</offer>
+<offer id="5030" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/pelmeni-flotskie-1kg/?r1=yandext&amp;r2=</url>
+<price>293.3</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/e03/e0376248711ad687ee57e1d290f76d70.jpg</picture>
+<name>Пельмени Флотские 1кг</name>
+<description></description>
+</offer>
+<offer id="5031" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/vareniki-s-tvorogom-500g/?r1=yandext&amp;r2=</url>
+<price>140.1</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/cf4/cf4e00eb6aeec56e10febd6d2a56cdae.jpg</picture>
+<name>Вареники с творогом 500г</name>
+<description></description>
+</offer>
+<offer id="5033" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/vareniki-s-vishnej-500g/?r1=yandext&amp;r2=</url>
+<price>146.7</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/501/5011d247fb4055aab37e7a88bb707332.jpg</picture>
+<name>Вареники с вишней 500г</name>
+<description></description>
+</offer>
+<offer id="5151" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/manty-ugnye/?r1=yandext&amp;r2=</url>
+<price>313.1</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/094/094d57c59c61d1e47aab69232df8a449.jpg</picture>
+<name>Манты Южные 900г</name>
+<description></description>
+</offer>
+<offer id="5152" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/hinkali-cochinskye/?r1=yandext&amp;r2=</url>
+<price>351.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/257/257aaa546866998f8a3ad5021bcb4a79.jpg</picture>
+<name>Хинкали Сочинские 900г</name>
+<description></description>
+</offer>
+<offer id="5153" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/blinchiki-s-myasom/?r1=yandext&amp;r2=</url>
+<price>138.9</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/50d/50dcefa3014897e0f14bd80d54fb6442.jpg</picture>
+<name>Блинчики с мясом 450г</name>
+<description></description>
+</offer>
+<offer id="5154" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/blinchiki-s-tvorogom/?r1=yandext&amp;r2=</url>
+<price>162.1</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/80d/80d102a4683ea9a1d54da6f4d6bbf01f.jpg</picture>
+<name>Блинчики с творогом 450г</name>
+<description></description>
+</offer>
+<offer id="5155" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/blinchiki-s-vishnei/?r1=yandext&amp;r2=</url>
+<price>140.1</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/2d6/2d6f520571730a86b7e020b85e413afe.jpg</picture>
+<name>Блинчики с вишней 450г</name>
+<description></description>
+</offer>
+<offer id="5189" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/pelmeni-kurinye/?r1=yandext&amp;r2=</url>
+<price>224.925</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/b9c/b9c189c71e2b8de9a778a940fb1d45ba.jpg</picture>
+<name>Пельмени Куриные 1 кг</name>
+<description></description>
+</offer>
+<offer id="5194" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/pirog-osetinskiy-s-kartofelem-i-syrom-500g/?r1=yandext&amp;r2=</url>
+<price>190.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/aa1/aa13878b9ca93fc7407998f33c63d039.jpg</picture>
+<name>Пирог Осетинский с картофелем и сыром 500г</name>
+<description></description>
+</offer>
+<offer id="5195" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/pirog-osetinskiy-s-kapustoi-i-myasom-500g/?r1=yandext&amp;r2=</url>
+<price>243.7</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/cf9/cf91c399a4166387a913e53e6e73dc37.jpg</picture>
+<name>Пирог Осетинский с капустой и мясом 500г</name>
+<description></description>
+</offer>
+<offer id="5196" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/pirog-osetinskiy-s-myasom-500g/?r1=yandext&amp;r2=</url>
+<price>309.9</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/de1/de19e7dd07d32f8b93f15313fbd3b46f.jpg</picture>
+<name>Пирог Осетинский с мясом 500г</name>
+<description></description>
+</offer>
+<offer id="9819" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/pelmeni-po-finski-0%2C75kg/?r1=yandext&amp;r2=</url>
+<price>268.3</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/cc0/cc07f40921bbc27a904c430065fbe727.jpg</picture>
+<name>Пельмени по-Фински 750г</name>
+<description></description>
+</offer>
+<offer id="9820" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/pelmeni-donashnie-900g/?r1=yandext&amp;r2=</url>
+<price>376.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/e99/e99ebd7d3018ff362e881c9a3033a917.jpg</picture>
+<name>Пельмени Домашние (По-Кольски) Окраина 900г</name>
+<description></description>
+</offer>
+<offer id="9858" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/blinchiki-s-vetchinoi-i-surom-450g/?r1=yandext&amp;r2=</url>
+<price>207.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/499/4991d24fa5c15a1224501cda0caea153.jpg</picture>
+<name>Блинчики с ветчиной и сыром 450г</name>
+<description></description>
+</offer>
+<offer id="9864" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/cheburek-okraina-300g/?r1=yandext&amp;r2=</url>
+<price>123.7</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/9bb/9bb7f4c85473dc2fffead6e52d7df00e.jpg</picture>
+<name>Чебуреки Окраина 300г уп/2шт</name>
+<description></description>
+</offer>
+<offer id="9892" available="true">
+<url>http://shop.okraina.ru/catalog/zamorozhennye-polufabrikaty/blinchiki-s-kuricei/?r1=yandext&amp;r2=</url>
+<price>168</price>
+<currencyId>RUB</currencyId>
+<categoryId>564</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/e1f/e1fa841da9cb2d50141027452a50e278.jpg</picture>
+<name>Блинчики с курицей 450г</name>
+<description></description>
+</offer>
+<offer id="4904" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/Servelat-Finskiy-032/?r1=yandext&amp;r2=</url>
+<price>197.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/d99/d995c821f3810dbbc4135f41fdabc153.jpg</picture>
+<name>Сервелат Финский варено-копченый 320г</name>
+<description></description>
+</offer>
+<offer id="4907" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/venskaya-salyami-okraina-032/?r1=yandext&amp;r2=</url>
+<price>182.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/0cc/0cc1855f270a24c3d59ee746d44dace2.jpg</picture>
+<name>Салями Венская варено-копченая 320г</name>
+<description></description>
+</offer>
+<offer id="4908" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/Moskovskaya-vareno-kopchenaya-032/?r1=yandext&amp;r2=</url>
+<price>269.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/206/206b3195e4b249e81fb763848eb77ef5.jpg</picture>
+<name>Московская ГОСТ колбаса варено-копченая 320г</name>
+<description></description>
+</offer>
+<offer id="4929" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/Salyami+-Venskaya-08/?r1=yandext&amp;r2=</url>
+<price>355.32</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/5f0/5f0cfda41997df4abe4fa6b8a7e63c58.jpg</picture>
+<name>Салями Венская варено-копченая 600-700г</name>
+<description></description>
+</offer>
+<offer id="4948" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/Moskovskaya-vareno-kopchenaya-08/?r1=yandext&amp;r2=</url>
+<price>571.67</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/6b1/6b1b954d61344e0d38a442fd7a2329da.jpg</picture>
+<name>Московская ГОСТ колбаса варено-копченая 640-760г</name>
+<description></description>
+</offer>
+<offer id="4955" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/rublevskaya-kolbasa-okraina-vareno-kopchenaya-01kg/?r1=yandext&amp;r2=</url>
+<price>562.94</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/fae/fae34abe2bad38f09592ed0dbdaa81cc.jpg</picture>
+<name>Рублевская колбаса варено-копченая 0,85-1,02кг</name>
+<description></description>
+</offer>
+<offer id="4960" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/Servelat-var-kopch-08/?r1=yandext&amp;r2=</url>
+<price>462.35</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/aaa/aaaf2cd917166e424acc809200710bb5.jpg</picture>
+<name>Сервелат ГОСТ варено-копченый 600-700г</name>
+<description></description>
+</offer>
+<offer id="4962" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/Europeyskiy-servelat-08kg/?r1=yandext&amp;r2=</url>
+<price>512.94</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/29f/29fcdb643b94f77791761b08ccd3d20f.jpg</picture>
+<name>Сервелат Европейский варено-копченый 0,9-1,03кг</name>
+<description></description>
+</offer>
+<offer id="4963" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/Servelat-Muskatniy-Okraina/?r1=yandext&amp;r2=</url>
+<price>368.35</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/646/64600f31952c896a653f3717dd2770c8.jpg</picture>
+<name>Сервелат Мускатный варено-копченый 570-710г</name>
+<description></description>
+</offer>
+<offer id="4999" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/ispanskaya-kolbasa-okraina-vareno-kopchenaya-08kg/?r1=yandext&amp;r2=</url>
+<price>537</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/724/724aee9d548cf08bbc64c911e6667969.jpg</picture>
+<name>Испанская колбаса варено-копченая 0,7-1,0кг</name>
+<description></description>
+</offer>
+<offer id="5007" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/Servelat-Finskiy-08/?r1=yandext&amp;r2=</url>
+<price>374.62</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/4fa/4fa17b4ab3fca55b23c75f23d9ca83dd.jpg</picture>
+<name>Сервелат Финский варено-копченый 600-720г</name>
+<description></description>
+</offer>
+<offer id="5044" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/servelat-evropeyskiy-okraina/?r1=yandext&amp;r2=</url>
+<price>251.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/3c2/3c219814d9c9e901cbd8f5dd11534620.jpg</picture>
+<name>Сервелат Европейский варено-копченый 470г</name>
+<description></description>
+</offer>
+<offer id="5045" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/Rublevskaya-vareno-kopchenaya-04/?r1=yandext&amp;r2=</url>
+<price>276.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/38a/38ad1658100225264a41e79e39dbb3ea.jpg</picture>
+<name>Рублевская колбаса варено-копченая 470г</name>
+<description></description>
+</offer>
+<offer id="5121" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/Servelat-kremlevskiy-Okraina/?r1=yandext&amp;r2=</url>
+<price>301.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/b8f/b8fd39303b3d54001202cf09032cf3af.jpg</picture>
+<name>Сервелат Кремлевский варено-копченый 600-710г</name>
+<description></description>
+</offer>
+<offer id="5142" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/ispanskaya-Okraina-sinuga/?r1=yandext&amp;r2=</url>
+<price>268.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/90a/90ad32efb09892f1717e69ea670b7914.jpg</picture>
+<name>Испанская колбаса варено-копченая 350-500г</name>
+<description></description>
+</offer>
+<offer id="5209" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/Servelat-kremlevskiy-Okraina-320g/?r1=yandext&amp;r2=</url>
+<price>150.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/f94/f94d2c4e10951ae152fda310c0d73391.jpg</picture>
+<name>Сервелат Кремлевский варено-копченый 320г</name>
+<description></description>
+</offer>
+<offer id="5743" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/Staromoskovskaya-370g/?r1=yandext&amp;r2=</url>
+<price>222.86</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/014/014e987185b3ffdda85fb3ba2d4bbb41.jpg</picture>
+<name>Старомосковская колбаса варёно-копчёная 280-480г</name>
+<description></description>
+</offer>
+<offer id="9910" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/podmoskovnaya-vareno-kopchenaya/?r1=yandext&amp;r2=</url>
+<price>398.54</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/268/2684f58cf497a48e65dfcead873bc711.jpg</picture>
+<name>Подмосковная Окраина варено-копченая 640-760г</name>
+<description></description>
+</offer>
+<offer id="10007" available="true">
+<url>http://shop.okraina.ru/catalog/vareno-kopchenye-kolbasy/balykovaya/?r1=yandext&amp;r2=</url>
+<price>537.7</price>
+<currencyId>RUB</currencyId>
+<categoryId>566</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/479/479bd462a330696a9e7189f541266f5b.jpg</picture>
+<name>Балыковая Окраина варено-копченая 0,9-1,0кг</name>
+<description></description>
+</offer>
+<offer id="4886" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/doktorskaya-v-obolochke-belkozin-1kg/?r1=yandext&amp;r2=</url>
+<price>550.33</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/c5d/c5dd7e3597d7765d95f38d9a5a283f1a.jpg</picture>
+<name>Докторская ГОСТ колбаса вареная в белковой оболочке 0,9-1,1кг</name>
+<description></description>
+</offer>
+<offer id="4887" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/molochnaya-varenaya-kolbasa-v-belkovoi-obolochke-1kg/?r1=yandext&amp;r2=</url>
+<price>471.53</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/392/3925e3c102ad8b4036f0d801c794e0c4.jpg</picture>
+<name>Молочная ГОСТ колбаса вареная в белковой оболочке 0,9-1,03кг</name>
+<description></description>
+</offer>
+<offer id="4921" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/doktorskaya-varenaya-kolbasa-ruchnoj-vyazki-v-vakuume-045kg/?r1=yandext&amp;r2=</url>
+<price>273.02</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/7c2/7c23e558bb7cce0b45e35c36b6fc3440.jpg</picture>
+<name>Докторская ГОСТ колбаса вареная ручной вязки 450-540г</name>
+<description></description>
+</offer>
+<offer id="4923" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/molochnaya-varenaya-kolbasa-ruchnoj-vyazki-v-vakuume-05kg/?r1=yandext&amp;r2=</url>
+<price>263.11</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/9a6/9a68bc7da6f7cdc0c5bb15be2eff24da.jpg</picture>
+<name>Молочная ГОСТ колбаса вареная ручной вязки 450-570г</name>
+<description></description>
+</offer>
+<offer id="4934" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/doktorskaya-v-obolochke-poliomid/?r1=yandext&amp;r2=</url>
+<price>237.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/310/31009b7cce46652499e86cebb3721fdb.jpg</picture>
+<name>Докторская ГОСТ колбаса вареная в полиамиде 500г</name>
+<description></description>
+</offer>
+<offer id="4936" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/doktorskaya-varenaya-kolbasa-mini-07kg/?r1=yandext&amp;r2=</url>
+<price>383.12</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/961/9611fb37e7aba81ee638d528df022503.jpg</picture>
+<name>Докторская ГОСТ колбаса вареная в векторе 600-800г</name>
+<description></description>
+</offer>
+<offer id="4937" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/doktorskaya-varenaya-kolbasa-v-obolochke-sinyuga-v-vakuume-035kg/?r1=yandext&amp;r2=</url>
+<price>236.46</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/ab7/ab77a0e872b152273fe2085233515779.jpg</picture>
+<name>Докторская ГОСТ колбаса вареная в синюге 250-420г</name>
+<description></description>
+</offer>
+<offer id="4938" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/doktorskaya-varenaya-kolbasa-v-obolochke-sinyuga/?r1=yandext&amp;r2=</url>
+<price>1182.3</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/b2c/b2c5837ae50d7dc231098383ee535ebd.jpg</picture>
+<name>Докторская ГОСТ колбаса вареная в синюге 1,5-2,1кг</name>
+<description></description>
+</offer>
+<offer id="4946" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/lyubitelskaya-varenaya-kolbasa-v-obolochke-sinyuga-035kg/?r1=yandext&amp;r2=</url>
+<price>320.65</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/bab/babd49d82fce884d127ed04e28b6e85f.jpg</picture>
+<name>Любительская ГОСТ колбаса вареная в оболочке синюга 400-550г</name>
+<description></description>
+</offer>
+<offer id="4957" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/russkaya-sinuga-420g/?r1=yandext&amp;r2=</url>
+<price>309.6</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/821/82197bf1416e6ae2a5dbf742cd9d74f9.jpg</picture>
+<name>Русская ГОСТ колбаса вареная в синюге 400-550г</name>
+<description></description>
+</offer>
+<offer id="4968" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/telyachya-varenaya-kolbasa-v-obolochke-sinyuga-v-vakuume-035kg/?r1=yandext&amp;r2=</url>
+<price>329.45</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/9ef/9ef463ef9ffafaf29948284b2e5f8a02.jpg</picture>
+<name>Телячья ГОСТ колбаса вареная в синюге 400-550г</name>
+<description></description>
+</offer>
+<offer id="4973" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/doktorskaya-v-obolochke-tsellofan-1kg/?r1=yandext&amp;r2=</url>
+<price>570.06</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/959/959a42f2bb5503018e34a5645c363b8a.jpg</picture>
+<name>Докторская ГОСТ колбаса вареная в целлофане 0,9-1,15кг</name>
+<description></description>
+</offer>
+<offer id="5005" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/doktorskaya-v-obolochke-tsellofan-0-5kg/?r1=yandext&amp;r2=</url>
+<price>272.64</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/146/14645af19b9163c4dde01e76610495a5.jpg</picture>
+<name>Докторская ГОСТ колбаса вареная в оболочке целлофан 400-550г</name>
+<description></description>
+</offer>
+<offer id="5006" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/lyubitelskaya-varenaya-kolbasa-v-obolochke-cellofan-v-vakuume-05kg/?r1=yandext&amp;r2=</url>
+<price>277.31</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/9cb/9cb59710b6c76f1b9ff5c51ec41ab93a.jpg</picture>
+<name>Любительская ГОСТ колбаса вареная в целлофане 400-550г</name>
+<description></description>
+</offer>
+<offer id="5069" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/doktorskaya-v-obolochke-belkozin-05kg/?r1=yandext&amp;r2=</url>
+<price>266.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/47a/47a397cbaa3a46ae7bd3becaa01cfdc7.jpg</picture>
+<name>Докторская ГОСТ колбаса вареная в белковой оболочке 500г</name>
+<description></description>
+</offer>
+<offer id="5079" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/kolbasa-doktorskaya-v-obolochke-polyamid/?r1=yandext&amp;r2=</url>
+<price>651.84</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/f2c/f2c326a40e453154ae478c2d908663e5.jpg</picture>
+<name>Докторская ГОСТ колбаса вареная в полиамиде 1,3-1,4кг</name>
+<description></description>
+</offer>
+<offer id="5106" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/doktorskaya-470g/?r1=yandext&amp;r2=</url>
+<price>241.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/d36/d364ddba79146248ae72b66d157fc658.jpg</picture>
+<name>Докторская ГОСТ колбаса вареная 470г</name>
+<description></description>
+</offer>
+<offer id="5120" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/kolbasa-iz-okoroka/?r1=yandext&amp;r2=</url>
+<price>509.32</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/004/0049433d5de03a4bccd36c5c1ac208ab.jpg</picture>
+<name>Колбаса из окорока в полиамиде 1,3-1,4кг</name>
+<description></description>
+</offer>
+<offer id="5127" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/lubitelskaya-sinuga/?r1=yandext&amp;r2=</url>
+<price>1224.3</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/6f7/6f7ab53e67d49e9d6dde62f8d1b5e231.jpg</picture>
+<name>Любительская ГОСТ колбаса вареная в синюге 1,35-2,1кг</name>
+<description></description>
+</offer>
+<offer id="5128" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/russkaya-sinuga-1800g/?r1=yandext&amp;r2=</url>
+<price>1182.09</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/f17/f170d96686083bdcfea1007ca429f79a.jpg</picture>
+<name>Русская ГОСТ колбаса вареная в синюге 1,5-2,1кг</name>
+<description></description>
+</offer>
+<offer id="5138" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/telyachya-sinuga/?r1=yandext&amp;r2=</url>
+<price>1497.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/0ee/0eeaafdf49759370634f5b2547d8f758.jpg</picture>
+<name>Телячья ГОСТ колбаса вареная в синюге 1,5-2,5кг</name>
+<description></description>
+</offer>
+<offer id="5174" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/Klassicheskaya-Okraina-1kg/?r1=yandext&amp;r2=</url>
+<price>243.82</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/193/19317b553ced422cf0f399cf18bafa1d.jpg</picture>
+<name>Классическая колбаса вареная в целлофане 400-550г</name>
+<description></description>
+</offer>
+<offer id="5222" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/Kolbasa-telyachya-470g/?r1=yandext&amp;r2=</url>
+<price>277.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/2f9/2f91e74354f9da6e739b247a8d4b8b4a.jpg</picture>
+<name>Телячья ГОСТ колбаса вареная 470г</name>
+<description></description>
+</offer>
+<offer id="5223" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/kolbasa-iz-okoroka-500g/?r1=yandext&amp;r2=</url>
+<price>189.6</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/1bb/1bb8d90c94a64b121136fa50ac3193d1.jpg</picture>
+<name>Колбаса из окорока в полиамиде 500г</name>
+<description></description>
+</offer>
+<offer id="5231" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/russkaya-gost-500g/?r1=yandext&amp;r2=</url>
+<price>224.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/fe8/fe8b98957dad8f3213d73770cab9b333.jpg</picture>
+<name>Русская ГОСТ колбаса вареная в полиамиде 500г</name>
+<description></description>
+</offer>
+<offer id="5775" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/doktorskaya/?r1=yandext&amp;r2=</url>
+<price>1140.11</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/012/012329ff49afb60c34b2ccf4a4a1581a.jpg</picture>
+<name>Докторская ГОСТ колбаса вареная в целлофане 1,8-2,3кг</name>
+<description></description>
+</offer>
+<offer id="5777" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/lubitelskaya/?r1=yandext&amp;r2=</url>
+<price>1109.24</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/cbb/cbbc3b9df0fd9538fefa4dd0adb04f2f.jpg</picture>
+<name>Любительская ГОСТ колбаса вареная в целлофане 1,8-2,2кг</name>
+<description></description>
+</offer>
+<offer id="5778" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/molochnaya/?r1=yandext&amp;r2=</url>
+<price>1063.7</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/83e/83ea90239ca9dac17c74c4dc8323f0f4.jpg</picture>
+<name>Молочная ГОСТ колбаса вареная в целлофане 1,9-2,2кг</name>
+<description></description>
+</offer>
+<offer id="5781" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/yazikovaya-okraina/?r1=yandext&amp;r2=</url>
+<price>1154.16</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/d90/d901b57cd523950bd77fa2a8ec5bc654.jpg</picture>
+<name>Языковая колбаса вареная в целлофане 1-2,1кг</name>
+<description></description>
+</offer>
+<offer id="5782" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/Klassicheskaya-okraina/?r1=yandext&amp;r2=</url>
+<price>997.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/27e/27efc39e7ec76e861ee9d6cf48465078.jpg</picture>
+<name>Классическая колбаса вареная в синюге 1,5-2,1кг</name>
+<description></description>
+</offer>
+<offer id="5784" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/klassicheskaya-okraina-2kg/?r1=yandext&amp;r2=</url>
+<price>975.26</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/a2c/a2cebbb90f21cc4d326ade51710da40a.jpg</picture>
+<name>Классическая колбаса вареная в целлофане 2-2,2кг</name>
+<description></description>
+</offer>
+<offer id="10042" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/Stolichnaya-puzyr/?r1=yandext&amp;r2=</url>
+<price>1406.75</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/8d2/8d2f47d275edb14fddcb502bdd873c7e.jpg</picture>
+<name>Столичная колбаса вареная в оболочке пузырь 1-2,5кг</name>
+<description></description>
+</offer>
+<offer id="11247" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/russkaya-v-oboloke-celofan-500g/?r1=yandext&amp;r2=</url>
+<price>286.55</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/797/797d25243f688c63ee42e515283ad611.jpg</picture>
+<name>Русская ГОСТ колбаса вареная в оболочке целлофан 400-550г</name>
+<description></description>
+</offer>
+<offer id="11249" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/Staromoskovskaya-500g/?r1=yandext&amp;r2=</url>
+<price>309.49</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/43f/43fd1dc85bbf2990263e900ce7d6b193.jpg</picture>
+<name>Столичная колбаса вареная в оболочке пузырь 400-550г</name>
+<description></description>
+</offer>
+<offer id="11250" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/yazikovaya-okraina-500g/?r1=yandext&amp;r2=</url>
+<price>318.77</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/884/884fac866ed59710a63a33c3323942c6.jpg</picture>
+<name>Языковая колбаса вареная в целлофане 250-580г</name>
+<description></description>
+</offer>
+<offer id="11251" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/Klassicheskaya-okraina-500g/?r1=yandext&amp;r2=</url>
+<price>261.25</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/b83/b83747c6eea0e1c768cc7988dbebdf92.jpg</picture>
+<name>Классическая колбаса вареная в синюге 400-550г</name>
+<description></description>
+</offer>
+<offer id="11262" available="true">
+<url>http://shop.okraina.ru/catalog/varenye-kolbasy/molochnaya-varenaya-kolbasa-v-obolochke-cellofan-500g/?r1=yandext&amp;r2=</url>
+<price>265.93</price>
+<currencyId>RUB</currencyId>
+<categoryId>567</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/76b/76b2f62d790844c6777287e51dc96e3a.jpg</picture>
+<name>Молочная ГОСТ колбаса вареная в целлофане 450-570г</name>
+<description></description>
+</offer>
+<offer id="4924" available="true">
+<url>http://shop.okraina.ru/catalog/livernye-kolbasy/livernaya-Slavyanskaya/?r1=yandext&amp;r2=</url>
+<price>80</price>
+<currencyId>RUB</currencyId>
+<categoryId>569</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/a26/a26dd4b31ea0fc43b9fe7014a9759f3a.jpg</picture>
+<name>Ливерная Славянская колбаса ГОСТ в полиамиде 250г</name>
+<description></description>
+</offer>
+<offer id="5074" available="true">
+<url>http://shop.okraina.ru/catalog/livernye-kolbasy/livernaya-yaichnaya-v-voske/?r1=yandext&amp;r2=</url>
+<price>234</price>
+<currencyId>RUB</currencyId>
+<categoryId>569</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/0b6/0b6ca2ec3efba5e564777ef6529ec52f.jpg</picture>
+<name>Ливерная Яичная ГОСТ колбаса в полиамиде 400г</name>
+<description></description>
+</offer>
+<offer id="4905" available="true">
+<url>http://shop.okraina.ru/catalog/polukopchenye-kolbasy/zernistaya-okraina-032kg/?r1=yandext&amp;r2=</url>
+<price>188.1</price>
+<currencyId>RUB</currencyId>
+<categoryId>570</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/ae8/ae85d48d5581cfcf3e96ccfd3404f7bd.jpg</picture>
+<name>Зернистая в оболочке фиброуз 320г</name>
+<description></description>
+</offer>
+<offer id="4939" available="true">
+<url>http://shop.okraina.ru/catalog/polukopchenye-kolbasy/zernistaya-okraina-08kg/?r1=yandext&amp;r2=</url>
+<price>366.94</price>
+<currencyId>RUB</currencyId>
+<categoryId>570</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/0bc/0bc14ad54d3e4fa94cf5a8088fb5d758.jpg</picture>
+<name>Зернистая в оболочке фиброуз 0,6-0,7кг</name>
+<description></description>
+</offer>
+<offer id="4942" available="true">
+<url>http://shop.okraina.ru/catalog/polukopchenye-kolbasy/kolbaski-prynye-s-syrom/?r1=yandext&amp;r2=</url>
+<price>841.1</price>
+<currencyId>RUB</currencyId>
+<categoryId>570</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/87f/87ff958112ed2ccf89d68c67eabf0d3e.jpg</picture>
+<name>Колбаски копченые с сыром в съедобной оболочке 0,8-1,3кг</name>
+<description></description>
+</offer>
+<offer id="4951" available="true">
+<url>http://shop.okraina.ru/catalog/polukopchenye-kolbasy/Sosiski-Ohotnithy-1kg/?r1=yandext&amp;r2=</url>
+<price>774.6</price>
+<currencyId>RUB</currencyId>
+<categoryId>570</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/b7d/b7d55aff9faaedb61ef1e8abbd04b33f.jpg</picture>
+<name>Охотничьи колбаски ГОСТ в съедобной оболочке 0,8-1,2кг</name>
+<description></description>
+</offer>
+<offer id="5024" available="true">
+<url>http://shop.okraina.ru/catalog/polukopchenye-kolbasy/kolbaski-pryanye-s-syrom-okraina-polukopchenye-330g/?r1=yandext&amp;r2=</url>
+<price>225.9</price>
+<currencyId>RUB</currencyId>
+<categoryId>570</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/215/2153db376a442e3e4b06a58f99e47737.jpg</picture>
+<name>Колбаски копченые с сыром в съедобной оболочке 330г</name>
+<description></description>
+</offer>
+<offer id="5025" available="true">
+<url>http://shop.okraina.ru/catalog/polukopchenye-kolbasy/kolbaski-ohotnichi-polukopchenye-320g/?r1=yandext&amp;r2=</url>
+<price>234</price>
+<currencyId>RUB</currencyId>
+<categoryId>570</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/1c0/1c06186610e6ad23457905bfe79042c8.jpg</picture>
+<name>Охотничьи колбаски ГОСТ в съедобной оболочке 320г</name>
+<description></description>
+</offer>
+<offer id="5059" available="true">
+<url>http://shop.okraina.ru/catalog/polukopchenye-kolbasy/shashlychnye-kolbaski-okraina/?r1=yandext&amp;r2=</url>
+<price>585.76</price>
+<currencyId>RUB</currencyId>
+<categoryId>570</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/067/067a1b07f3562a38d74b7b050b04f9dd.jpg</picture>
+<name>Шашлычные колбаски в натуральной оболочке 0,9-1,4кг</name>
+<description></description>
+</offer>
+<offer id="5771" available="true">
+<url>http://shop.okraina.ru/catalog/polukopchenye-kolbasy/krakovskaya-pk-450g/?r1=yandext&amp;r2=</url>
+<price>266.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>570</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/885/885b3814f2e7b72e471c29b9e0b7df54.jpg</picture>
+<name>Краковская ГОСТ полукопченая колбаса 450г</name>
+<description></description>
+</offer>
+<offer id="4882" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/stolichnaya-syrokopchenaya-kolbasa-05kg/?r1=yandext&amp;r2=</url>
+<price>614.06</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/5aa/5aaad38c1f0da373f50c2f62f26cf584.jpg</picture>
+<name>Сервелат Столичный колбаса сырокопченая 500-530г</name>
+<description></description>
+</offer>
+<offer id="4883" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/zernistaya/?r1=yandext&amp;r2=</url>
+<price>708.33</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/743/7434aeb67ce68d2f1d552765c45b3fda.jpg</picture>
+<name>Зернистая полусухая колбаса сырокопченая  510-700г</name>
+<description></description>
+</offer>
+<offer id="4884" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/syrokopchenaya-braunshveiskaya/?r1=yandext&amp;r2=</url>
+<price>660.22</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/ca0/ca0892fd98345cdee63230a84d214491.jpg</picture>
+<name>Брауншвейгская колбаса сырокопченая 480-530г</name>
+<description></description>
+</offer>
+<offer id="4896" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/milanskaya-syrokopchenaya-kolbasa-300g/?r1=yandext&amp;r2=</url>
+<price>396</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/6c8/6c837821853aacc990bc8ca063fc06a2.jpg</picture>
+<name>Миланская колбаса сырокопченая 300г</name>
+<description></description>
+</offer>
+<offer id="4981" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/salyami-bogatyr-syrokopchenaya-kolbasa-05kg/?r1=yandext&amp;r2=</url>
+<price>531.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/26a/26a432bd28feac982396fabc98b649e0.jpg</picture>
+<name>Салями Богатырь сырокопченая 450-500г</name>
+<description></description>
+</offer>
+<offer id="4982" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/salyami-bogatyr-syrokopchenaya-kolbasa-025/?r1=yandext&amp;r2=</url>
+<price>265.75</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/194/194e1df9a29afb31a6a6e2696ceeaddc.jpg</picture>
+<name>Салями Богатырь сырокопченая 200-250г</name>
+<description></description>
+</offer>
+<offer id="4983" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/salyami-nemeckaya-syrokopchenaya-kolbasa-05kg/?r1=yandext&amp;r2=</url>
+<price>552.76</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/e3e/e3e34ecc50bc0530d50085f637d468ea.jpg</picture>
+<name>Салями Немецкая сырокопченая  450-520г</name>
+<description></description>
+</offer>
+<offer id="4984" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/salyami-nemeckaya-syrokopchenaya-kolbasa-025/?r1=yandext&amp;r2=</url>
+<price>287.01</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/898/8988a946616356d9207d24564a74410b.jpg</picture>
+<name>Салями Немецкая сырокопченая 220-270г</name>
+<description></description>
+</offer>
+<offer id="4987" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/stolichnaya-syrokopchenaya-kolbasa-025/?r1=yandext&amp;r2=</url>
+<price>324.41</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/b01/b015f33ff670b7ddc5dc3884da20a6cf.jpg</picture>
+<name>Сервелат Столичный колбаса сырокопченая 240-280г</name>
+<description></description>
+</offer>
+<offer id="4989" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/braunshveiskaya-syrokopchenaya-025/?r1=yandext&amp;r2=</url>
+<price>336.34</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/e6d/e6d3c453c350ba04bbd6eb9ee93f8430.jpg</picture>
+<name>Брауншвейгская колбаса сырокопченая 230-270г в/у</name>
+<description></description>
+</offer>
+<offer id="5017" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/zernistaya-syrokopchenaya-025/?r1=yandext&amp;r2=</url>
+<price>293.45</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/206/206ae6591281fdecd8f5c744647d70c8.jpg</picture>
+<name>Зернистая полусухая колбаса сырокопченая 250-290г</name>
+<description></description>
+</offer>
+<offer id="5117" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/salyami-Nemeckaya-300g/?r1=yandext&amp;r2=</url>
+<price>314.3</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/aab/aab6fa9c6d1ff8bf5c44f292252f1b33.jpg</picture>
+<name>Салями Немецкая сырокопченая 300г</name>
+<description></description>
+</offer>
+<offer id="5742" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/Fiesta/?r1=yandext&amp;r2=</url>
+<price>567.59</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/f79/f79a8aee562b54ed871b9c264df5aff4.jpg</picture>
+<name>Колбаса Фиеста сырокопчёная 500-540г</name>
+<description></description>
+</offer>
+<offer id="5744" available="true">
+<url>http://shop.okraina.ru/catalog/syrokopchenye-kolbasy/Fiesta-250g/?r1=yandext&amp;r2=</url>
+<price>294.31</price>
+<currencyId>RUB</currencyId>
+<categoryId>571</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/d6d/d6dfe287db9545ef612c28c3463e4bfd.jpg</picture>
+<name>Колбаса Фиеста сырокопчёная 240-280г</name>
+<description></description>
+</offer>
+<offer id="4994" available="true">
+<url>http://shop.okraina.ru/catalog/tverdokopchenye-kolbasy/servelat-shvejcarskij-p-k-fibr-v-u-porc03kg/?r1=yandext&amp;r2=</url>
+<price>383.78</price>
+<currencyId>RUB</currencyId>
+<categoryId>572</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/4da/4da2cbee7ec88e4543a68f52f2996389.jpg</picture>
+<name>Швейцарская колбаса твёрдокопчёная 290-430г</name>
+<description></description>
+</offer>
+<offer id="4974" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/kotleta-naturalnaya-v-marinade-po-kavkazski/?r1=yandext&amp;r2=</url>
+<price>615.83</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/86e/86e1ff48b6b13ac3250b3af5a4b7b967.jpg</picture>
+<name>Котлета мясная на косточке в маринаде &quot;По-Кавказски&quot; 0,5-1,14кг</name>
+<description></description>
+</offer>
+<offer id="4977" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/sheyka-svinaya-lux-v-marinade-v-pakete-dlya-zapekaniya/?r1=yandext&amp;r2=</url>
+<price>918.34</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/329/329519fcb579e7584c13be841389b386.jpg</picture>
+<name>Шейка свиная в маринаде в пакете для запекания 1,2-1,7кг</name>
+<description></description>
+</offer>
+<offer id="5002" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/kotleta-naturalnaya-v-vinnom-marinade/?r1=yandext&amp;r2=</url>
+<price>702.26</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/eb8/eb8c9385e0e873319cf57006f6df4cc5.jpg</picture>
+<name>Котлета мясная на косточке в винном маринаде 0,6-1,3кг в/у</name>
+<description></description>
+</offer>
+<offer id="5020" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/1181-krylyshki-gril-new11/?r1=yandext&amp;r2=</url>
+<price>400.14</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/c27/c2775d8d6083637c3fd98de7cde2eee1.jpg</picture>
+<name>Крылышки гриль в маринаде &quot;Летний&quot;  0,77-1,3кг</name>
+<description></description>
+</offer>
+<offer id="5037" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/rebryshki-dlya-barbekyu-v-marinade-195/?r1=yandext&amp;r2=</url>
+<price>705.55</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/3a6/3a6de466cab5f8a3e37fa8fcd2c0b929.jpg</picture>
+<name>Ребрышки для барбекю в маринаде &quot;Барбекю&quot; 0,82-1,91кг</name>
+<description></description>
+</offer>
+<offer id="5073" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/kotleta-naturalnaya-v-krasnom-marinade/?r1=yandext&amp;r2=</url>
+<price>648.24</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/bc8/bc8798ae651a66259ba96da02d2c1b8b.jpg</picture>
+<name>Котлета мясная на косточке в красном маринаде 0,6-1,2кг в/у</name>
+<description></description>
+</offer>
+<offer id="5094" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/krylyshki-brusnika-new11/?r1=yandext&amp;r2=</url>
+<price>400.14</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/e1d/e1d0d0d39c70566aa318c1a3d08bf6d1.jpg</picture>
+<name>Крылышки гриль  в маринаде &quot;Брусничный&quot; 0,77-1,3кг</name>
+<description></description>
+</offer>
+<offer id="5095" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/rebryshki-dlya-barbekyu-v-marinade-18/?r1=yandext&amp;r2=</url>
+<price>738.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/9f7/9f7a760b197f73d325678ff03b7cb4e2.jpg</picture>
+<name>Ребрышки для барбекю в маринаде &quot;Классический&quot; 0,85-2кг</name>
+<description></description>
+</offer>
+<offer id="5097" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/svinina-okraina-polygirnaya/?r1=yandext&amp;r2=</url>
+<price>514.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/aa4/aa4abe3dbbf30a75580e2a895ad903a9.jpg</picture>
+<name>Свинина по-домашнему  (полужирная) 0,7-1,4кг</name>
+<description></description>
+</offer>
+<offer id="5166" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/befstroganov-iz-govyadiny-500g/?r1=yandext&amp;r2=</url>
+<price>379.6</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/0a5/0a51a4af274c4d432b2e789896607330.jpg</picture>
+<name>Бефстроганов из говядины 500г</name>
+<description></description>
+</offer>
+<offer id="5167" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/podgarka-iz-svininy-500g/?r1=yandext&amp;r2=</url>
+<price>296.6</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/a27/a27c5611420c2b918132916dafd74640.jpg</picture>
+<name>Поджарка из свинины 500г</name>
+<description></description>
+</offer>
+<offer id="5168" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/farsh-domashniy-500g-new20/?r1=yandext&amp;r2=</url>
+<price>251.1</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/d10/d104f13d81e49ffd99a2da9675e5a15e.jpg</picture>
+<name>Фарш Домашний  (свинина, говядина) 500г</name>
+<description></description>
+</offer>
+<offer id="5169" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/farsh-govyadina-500g/?r1=yandext&amp;r2=</url>
+<price>313</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/468/468b48fe18fb08accab78d821d6680cc.jpg</picture>
+<name>Фарш из говядины 500г</name>
+<description></description>
+</offer>
+<offer id="11176" available="true">
+<url>http://shop.okraina.ru/catalog/naturalnye-polufabrikaty/farsh-domashniy-zamorogenny-500g/?r1=yandext&amp;r2=</url>
+<price>192</price>
+<currencyId>RUB</currencyId>
+<categoryId>573</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/308/3080d7661b74ba8c5e5b502c874ff555.jpg</picture>
+<name>Фарш Домашний замороженный (свинина, говядина) 500г</name>
+<description></description>
+</offer>
+<offer id="4952" available="true">
+<url>http://shop.okraina.ru/catalog/pashtety/pashtet-gribnoy-3sht/?r1=yandext&amp;r2=</url>
+<price>152.7</price>
+<currencyId>RUB</currencyId>
+<categoryId>574</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/38d/38d7b72661438edee7ccbe1e1a061547.jpg</picture>
+<name>Паштет Грибной в оболочке 450г (3шт*150г)</name>
+<description></description>
+</offer>
+<offer id="4953" available="true">
+<url>http://shop.okraina.ru/catalog/pashtety/pashtet-delikatesnyy-3sht/?r1=yandext&amp;r2=</url>
+<price>152.7</price>
+<currencyId>RUB</currencyId>
+<categoryId>574</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/f7b/f7ba47bba7e96a34e4d176637c05e870.jpg</picture>
+<name>Паштет Деликатесный в оболочке 450г (3шт*150г)</name>
+<description></description>
+</offer>
+<offer id="4954" available="true">
+<url>http://shop.okraina.ru/catalog/pashtety/pashtet-slivochnyy-3sht/?r1=yandext&amp;r2=</url>
+<price>152.7</price>
+<currencyId>RUB</currencyId>
+<categoryId>574</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/aa5/aa52ec8422c48fabc087f8c7a9172d23.jpg</picture>
+<name>Паштет Сливочный в оболочке 450г (3шт*150г)</name>
+<description></description>
+</offer>
+<offer id="5000" available="true">
+<url>http://shop.okraina.ru/catalog/pashtety/pashtet-domashniy/?r1=yandext&amp;r2=</url>
+<price>106.7</price>
+<currencyId>RUB</currencyId>
+<categoryId>574</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/030/030e6e0b694b83cd118abcb8b92f55ee.jpg</picture>
+<name>Паштет Домашний 200г</name>
+<description></description>
+</offer>
+<offer id="5077" available="true">
+<url>http://shop.okraina.ru/catalog/pashtety/Pashtet-derevenskiy-s-maslom-400g/?r1=yandext&amp;r2=</url>
+<price>270.14</price>
+<currencyId>RUB</currencyId>
+<categoryId>574</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/ec6/ec6895ab65a91bd51a927c684b0bce3e.jpg</picture>
+<name>Паштет Деревенский с маслом 250-450г в/у</name>
+<description></description>
+</offer>
+<offer id="11241" available="true">
+<url>http://shop.okraina.ru/catalog/pashtety/pashtet-measnoi-domashniy-150g/?r1=yandext&amp;r2=</url>
+<price>78</price>
+<currencyId>RUB</currencyId>
+<categoryId>574</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/92c/92cae7a25223f141eea8c44f9c77a4c0.jpg</picture>
+<name>Паштет мясной с печенью 150г</name>
+<description></description>
+</offer>
+<offer id="4916" available="true">
+<url>http://shop.okraina.ru/catalog/produkty-v-zhele/yazyk-v-zhele-okraina-05kg/?r1=yandext&amp;r2=</url>
+<price>390.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>575</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/e24/e24122df6ad994ecff8bda2a4c117408.jpg</picture>
+<name>Язык в желе в полиамиде 500г</name>
+<description></description>
+</offer>
+<offer id="4922" available="true">
+<url>http://shop.okraina.ru/catalog/produkty-v-zhele/zelc-okraina-v-obolochke-poliamid-05kg/?r1=yandext&amp;r2=</url>
+<price>158.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>575</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/a66/a669fb8929366c9c291234dd75ab5c0a.jpg</picture>
+<name>Зельц Окраина в полиамиде 500г</name>
+<description></description>
+</offer>
+<offer id="4969" available="true">
+<url>http://shop.okraina.ru/catalog/produkty-v-zhele/kholodets-domashniy-okraina/?r1=yandext&amp;r2=</url>
+<price>146</price>
+<currencyId>RUB</currencyId>
+<categoryId>575</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/5d3/5d38ef6f34865d7f33b705e9342283f9.jpg</picture>
+<name>Холодец Домашний в лотке 400г</name>
+<description></description>
+</offer>
+<offer id="4970" available="true">
+<url>http://shop.okraina.ru/catalog/produkty-v-zhele/holodec-na-prazdnik-okraina-v-lotke-04-kg/?r1=yandext&amp;r2=</url>
+<price>161</price>
+<currencyId>RUB</currencyId>
+<categoryId>575</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/5e4/5e406d35079e961b511104a2a89e36d1.jpg</picture>
+<name>Холодец на праздник (из говядины) в лотке 400г</name>
+<description></description>
+</offer>
+<offer id="5011" available="true">
+<url>http://shop.okraina.ru/catalog/produkty-v-zhele/kholodets-kurinyy-okraina/?r1=yandext&amp;r2=</url>
+<price>134</price>
+<currencyId>RUB</currencyId>
+<categoryId>575</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/550/550533fc6e244c553cd466129f45bec9.jpg</picture>
+<name>Холодец Куриный в лотке 400г</name>
+<description></description>
+</offer>
+<offer id="4950" available="true">
+<url>http://shop.okraina.ru/catalog/produkty-iz-pticy/okorochok-vyazemskij-vareno-kopchenyj/?r1=yandext&amp;r2=</url>
+<price>269.28</price>
+<currencyId>RUB</currencyId>
+<categoryId>576</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/427/42736ea7a09b1dc533b75f66c982f2b5.jpg</picture>
+<name>Окорочок варено-копченый 0,6-0,8кг</name>
+<description></description>
+</offer>
+<offer id="4956" available="true">
+<url>http://shop.okraina.ru/catalog/produkty-iz-pticy/rulet-kurinnyj-v-folge/?r1=yandext&amp;r2=</url>
+<price>512.49</price>
+<currencyId>RUB</currencyId>
+<categoryId>576</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/c48/c48b4a2fbf5a30f9e5235c087b74f0b5.jpg</picture>
+<name>Рулет куриный в фольге 0,7-1,1кг</name>
+<description></description>
+</offer>
+<offer id="10031" available="true">
+<url>http://shop.okraina.ru/catalog/produkty-iz-pticy/bedryshko-vareno-kopchenoe/?r1=yandext&amp;r2=</url>
+<price>275.04</price>
+<currencyId>RUB</currencyId>
+<categoryId>576</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/8d5/8d5c85c7bed5d93ec444a674f3f2ea3f.jpg</picture>
+<name>Бедрышко варено-копченое 320-770г</name>
+<description></description>
+</offer>
+<offer id="10032" available="true">
+<url>http://shop.okraina.ru/catalog/produkty-iz-pticy/golen-okraina/?r1=yandext&amp;r2=</url>
+<price>293.76</price>
+<currencyId>RUB</currencyId>
+<categoryId>576</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/2a4/2a43bd47c5ee9aa0f076a82021734a7f.jpg</picture>
+<name>Голень варено-копченая 400-800г</name>
+<description></description>
+</offer>
+<offer id="10033" available="true">
+<url>http://shop.okraina.ru/catalog/produkty-iz-pticy/krylyshki-okraina/?r1=yandext&amp;r2=</url>
+<price>272.29</price>
+<currencyId>RUB</currencyId>
+<categoryId>576</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/c01/c0132e9afb8f115e98570e038f24b9b2.jpg</picture>
+<name>Крылышки варено-копченые 370-730г</name>
+<description></description>
+</offer>
+<offer id="11248" available="true">
+<url>http://shop.okraina.ru/catalog/produkty-iz-pticy/Rulet-Kurinniy-0%2C6kg/?r1=yandext&amp;r2=</url>
+<price>260.9</price>
+<currencyId>RUB</currencyId>
+<categoryId>576</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/fcf/fcfab065f6982ae42e4de5d973513cc9.jpg</picture>
+<name>Рулет куриный в фольге 400-560г</name>
+<description></description>
+</offer>
+<offer id="4918" available="true">
+<url>http://shop.okraina.ru/catalog/sardelki/sardelki-telyachi-v-zashitnoy-atmosfere-1kg/?r1=yandext&amp;r2=</url>
+<price>511.2</price>
+<currencyId>RUB</currencyId>
+<categoryId>577</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/f76/f76328f82bd67695b9ac9de3ffc6dc64.jpg</picture>
+<name>Сардельки Телячьи в натуральной оболочке 0,9-1,2кг</name>
+<description></description>
+</offer>
+<offer id="5092" available="true">
+<url>http://shop.okraina.ru/catalog/sardelki/cardelki-doktorskie-okraina-450g/?r1=yandext&amp;r2=</url>
+<price>209.9</price>
+<currencyId>RUB</currencyId>
+<categoryId>577</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/885/88527c791326881d9cd4095dce457df1.jpg</picture>
+<name>Сардельки Докторские 450г</name>
+<description></description>
+</offer>
+<offer id="5093" available="true">
+<url>http://shop.okraina.ru/catalog/sardelki/sardelki-svinye-450g/?r1=yandext&amp;r2=</url>
+<price>213.9</price>
+<currencyId>RUB</currencyId>
+<categoryId>577</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/54a/54ac80070fc54ea12eff26f55b79af32.jpg</picture>
+<name>Сардельки Свиные ГОСТ 450г</name>
+<description></description>
+</offer>
+<offer id="5105" available="true">
+<url>http://shop.okraina.ru/catalog/sardelki/sardelky-govyagi-450g/?r1=yandext&amp;r2=</url>
+<price>215.3</price>
+<currencyId>RUB</currencyId>
+<categoryId>577</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/3ae/3ae26885abc01b554559b58ee1ce2f82.jpg</picture>
+<name>Сардельки Говяжьи ГОСТ 450г</name>
+<description></description>
+</offer>
+<offer id="5118" available="true">
+<url>http://shop.okraina.ru/catalog/sardelki/sardelki-Molochnye/?r1=yandext&amp;r2=</url>
+<price>654.84</price>
+<currencyId>RUB</currencyId>
+<categoryId>577</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/92d/92d74423ed00a8c63b83373ef113f2f2.jpg</picture>
+<name>Сардельки Молочные в натуральной оболочке 1,4-1,8кг</name>
+<description></description>
+</offer>
+<offer id="5129" available="true">
+<url>http://shop.okraina.ru/catalog/sardelki/sardelki-Govyagi-v-naturalnoi-obolochke/?r1=yandext&amp;r2=</url>
+<price>782.1</price>
+<currencyId>RUB</currencyId>
+<categoryId>577</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/d9c/d9ca8c9b0e1ef331ed631ed9e40cf3a8.jpg</picture>
+<name>Сардельки Говяжьи ГОСТ в натуральной оболочке 1,3-1,8кг</name>
+<description></description>
+</offer>
+<offer id="5130" available="true">
+<url>http://shop.okraina.ru/catalog/sardelki/sardelki-Doktorskie-Okraina-v-naturalnoi-obolochke/?r1=yandext&amp;r2=</url>
+<price>816.05</price>
+<currencyId>RUB</currencyId>
+<categoryId>577</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/a4d/a4d94706f0c1bd8329672625188c2044.jpg</picture>
+<name>Сардельки Докторские в натуральной оболочке 1,3-1,9кг</name>
+<description></description>
+</offer>
+<offer id="5132" available="true">
+<url>http://shop.okraina.ru/catalog/sardelki/sardelki-Podmoskovnye-v-naturalnoi-obolochke/?r1=yandext&amp;r2=</url>
+<price>648.54</price>
+<currencyId>RUB</currencyId>
+<categoryId>577</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/31e/31ed753572d06a9e1fabc1a7e492396a.jpg</picture>
+<name>Сардельки Подмосковные в натуральной оболочке 1,3-1,8кг</name>
+<description></description>
+</offer>
+<offer id="5133" available="true">
+<url>http://shop.okraina.ru/catalog/sardelki/sardelki-Svinye-v-naturalnoi-obolochke/?r1=yandext&amp;r2=</url>
+<price>832.39</price>
+<currencyId>RUB</currencyId>
+<categoryId>577</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/c5b/c5b5aae91436ead583eccaeff4f43632.jpg</picture>
+<name>Сардельки Свиные ГОСТ в натуральной оболочке 1,4-1,9кг</name>
+<description></description>
+</offer>
+<offer id="5139" available="true">
+<url>http://shop.okraina.ru/catalog/sardelki/shpikachki-Okraina-v-natur-obolochke/?r1=yandext&amp;r2=</url>
+<price>764.32</price>
+<currencyId>RUB</currencyId>
+<categoryId>577</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/780/780d089969952f4bf88eb9a38c06c23d.jpg</picture>
+<name>Шпикачки в натуральной оболочке 1,3-1,7кг</name>
+<description></description>
+</offer>
+<offer id="4888" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/sosiski-kopchenye-okraina/?r1=yandext&amp;r2=</url>
+<price>567.81</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/279/279b3490b32e79ccedbf6332a305861b.jpg</picture>
+<name>Сосиски Копченые в оболочке целлофан 0,8-1,35кг</name>
+<description></description>
+</offer>
+<offer id="4890" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/sosiski-doktorskie-okraina-1kg/?r1=yandext&amp;r2=</url>
+<price>778.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/f22/f22aa00d24c0e6a7cf0098fcc5c859ee.jpg</picture>
+<name>Сосиски Докторские в оболочке амицел 0,9-1,75кг</name>
+<description></description>
+</offer>
+<offer id="4965" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/sosiski-krokha-okraina-1kg/?r1=yandext&amp;r2=</url>
+<price>787.61</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/9c3/9c3324d93250427ab18f5ea90bc1a582.jpg</picture>
+<name>Сосиски Кроха в оболочке амицел 0,9-1,7кг</name>
+<description></description>
+</offer>
+<offer id="4966" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/sosiski-molochnye-0-8-kg/?r1=yandext&amp;r2=</url>
+<price>598.1</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/e32/e3249dae5fa8bb5d9e2d65a23f1a51ca.jpg</picture>
+<name>Сосиски Молочные ГОСТ в натуральной оболочке 0,7-1кг</name>
+<description></description>
+</offer>
+<offer id="5013" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/sosiski-knekibol-s-syrom/?r1=yandext&amp;r2=</url>
+<price>126.1</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/004/004d5bdb0c8a71c7c835eb712ca3bbd9.jpg</picture>
+<name>Сосиски Кнэкибол с сыром в стакане 220г</name>
+<description></description>
+</offer>
+<offer id="5082" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/Sosiski-venskie-s-syrom-Okraina-450g/?r1=yandext&amp;r2=</url>
+<price>203.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/46c/46c9a9b7b26316e482586e51c86804ce.jpg</picture>
+<name>Сосиски Венские в съедобной оболочке 390г защ/атм</name>
+<description></description>
+</offer>
+<offer id="5084" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/Sosiski-kroxa-v-obolochke-amicel-420g/?r1=yandext&amp;r2=</url>
+<price>204.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/1a5/1a5e9689b869ccf0f71740b6c8c65b79.jpg</picture>
+<name>Сосиски Кроха в оболочке амицел 420г</name>
+<description></description>
+</offer>
+<offer id="5119" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/sosiski-s-naturalnym-molokom-1.5-1.7kg/?r1=yandext&amp;r2=</url>
+<price>432.13</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/8ae/8aee43ca3b1a51fec28896c973193ebd.jpg</picture>
+<name>Сосиски с натуральным молоком в оболочке амицел 0,8-1,25кг</name>
+<description></description>
+</offer>
+<offer id="5136" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/sosiski-Molochnye/?r1=yandext&amp;r2=</url>
+<price>925.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/7ca/7cae1d4b35efadec9c04a00bd24c2f2b.jpg</picture>
+<name>Сосиски Молочные ГОСТ в оболочке целлофан 0,9-2,0кг</name>
+<description></description>
+</offer>
+<offer id="5170" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/sosiski-Slivochnye-GOST-1%2C7kg/?r1=yandext&amp;r2=</url>
+<price>786.59</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/90f/90fbe260649d91eae5b6dfe4fdf80511.jpg</picture>
+<name>Сосиски Сливочные ГОСТ в оболочке целлофан 1,3-1,7кг</name>
+<description></description>
+</offer>
+<offer id="5173" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/sosiski-s-file-kurinoi-grudki-okraina-420g/?r1=yandext&amp;r2=</url>
+<price>180.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/4f6/4f6c9d0f0ec33549cca3838996a18216.jpg</picture>
+<name>Сосиски c филе куриной грудки в оболочке амицел 420г</name>
+<description></description>
+</offer>
+<offer id="9992" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/sosiski-venskie-s-syrom-1%2C8kg/?r1=yandext&amp;r2=</url>
+<price>801.54</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/04c/04c4bae9e980e6566270521d6d0919bb.jpg</picture>
+<name>Сосиски с сыром Окраина в оболочке амицел 1-1,8кг</name>
+<description></description>
+</offer>
+<offer id="10040" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/sosiski-doktorskie-okraina-420g/?r1=yandext&amp;r2=</url>
+<price>193</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/6e9/6e9e4df7037a1ed6b7a21038b8d2bc82.jpg</picture>
+<name>Сосиски Докторские в оболочке амицел 420г</name>
+<description></description>
+</offer>
+<offer id="10041" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/sosiski-s-naturalnym-molokom-ao-420g/?r1=yandext&amp;r2=</url>
+<price>167.6</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/d6e/d6e210e050626b6e89b319109ab954be.jpg</picture>
+<name>Сосиски с натуральным молоком в оболочке амицел 420г</name>
+<description></description>
+</offer>
+<offer id="10058" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/Sosiski-molochnye-co-420g/?r1=yandext&amp;r2=</url>
+<price>185.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/660/660e9f7fcceb7d21291d85b00e722cba.jpg</picture>
+<name>Сосиски Молочные в оболочке целлофан 420г</name>
+<description></description>
+</offer>
+<offer id="10059" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/Sosiski-slivochnye-co-420g/?r1=yandext&amp;r2=</url>
+<price>194.7</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/cec/cec2e4d8644db0841a12bb44bbcb6c9d.jpg</picture>
+<name>Сосиски Сливочные в оболочке целлофан 420г</name>
+<description></description>
+</offer>
+<offer id="10092" available="true">
+<url>http://shop.okraina.ru/catalog/sosiski/sosiski-s-syrom-420g/?r1=yandext&amp;r2=</url>
+<price>177.6</price>
+<currencyId>RUB</currencyId>
+<categoryId>578</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/ae8/ae806b7305a3e865ef43ed9fc984a6e5.jpg</picture>
+<name>Сосиски с сыром Окраина в оболочке амицел 420г шт</name>
+<description></description>
+</offer>
+<offer id="5050" available="true">
+<url>http://shop.okraina.ru/catalog/soputstvyushie_tovary_diya_shashlyka/reshetka-gril/?r1=yandext&amp;r2=</url>
+<price>435</price>
+<currencyId>RUB</currencyId>
+<categoryId>581</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/cee/cee2b87144b83bf898b6b808db9ef35e.jpg</picture>
+<name>Решетка-гриль BoyScout универсальная</name>
+<description></description>
+</offer>
+<offer id="5051" available="true">
+<url>http://shop.okraina.ru/catalog/soputstvyushie_tovary_diya_shashlyka/ygol-drevesniy-3kg/?r1=yandext&amp;r2=</url>
+<price>130</price>
+<currencyId>RUB</currencyId>
+<categoryId>581</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/61d/61db6bba23c4ea6917e3e5f5465b5026.jpg</picture>
+<name>Уголь древесный 3 кг</name>
+<description></description>
+</offer>
+<offer id="5052" available="true">
+<url>http://shop.okraina.ru/catalog/soputstvyushie_tovary_diya_shashlyka/mangal-6-shampurov/?r1=yandext&amp;r2=</url>
+<price>415</price>
+<currencyId>RUB</currencyId>
+<categoryId>581</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/ce5/ce5ae6f21381ea831ed220943edac4b5.jpg</picture>
+<name>Мангал BoyScout сборный + 6 шампуров</name>
+<description></description>
+</offer>
+<offer id="11172" available="true">
+<url>http://shop.okraina.ru/catalog/soputstvyushie_tovary_diya_shashlyka/salfetka1/?r1=yandext&amp;r2=</url>
+<price>57</price>
+<currencyId>RUB</currencyId>
+<categoryId>581</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/aa4/aa4cd618a756cff07dbf6d1aa1613a12.jpg</picture>
+<name>Салфетки упаковка 100шт</name>
+<description></description>
+</offer>
+<offer id="11173" available="true">
+<url>http://shop.okraina.ru/catalog/soputstvyushie_tovary_diya_shashlyka/ketchup+shashl1/?r1=yandext&amp;r2=</url>
+<price>88.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>581</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/8bd/8bda2655cf55425875081587db57fad4.jpg</picture>
+<name>Кетчуп Heinz Для Гриля и Шашлыка 350г</name>
+<description></description>
+</offer>
+<offer id="11174" available="true">
+<url>http://shop.okraina.ru/catalog/soputstvyushie_tovary_diya_shashlyka/ketchup+klass1/?r1=yandext&amp;r2=</url>
+<price>88.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>581</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/9c6/9c6e9657721e5155ee4e676b3456b59d.jpg</picture>
+<name>Кетчуп Heinz томатный 350г</name>
+<description></description>
+</offer>
+<offer id="11175" available="true">
+<url>http://shop.okraina.ru/catalog/soputstvyushie_tovary_diya_shashlyka/posuda1/?r1=yandext&amp;r2=</url>
+<price>57.9</price>
+<currencyId>RUB</currencyId>
+<categoryId>581</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/606/606555798ba5f438f2ea4ddf7a7875a3.jpg</picture>
+<name>Одноразовый набор посуды на 10 персон</name>
+<description></description>
+</offer>
+<offer id="5053" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/kolbaski-gril-1kg/?r1=yandext&amp;r2=</url>
+<price>617.04</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/6c2/6c2a6b525d4582f7f42c6072d76bb5e7.jpg</picture>
+<name>Колбаски Гриль 0,96-1,2кг защ/атм</name>
+<description></description>
+</offer>
+<offer id="5054" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/kolbaski-gril-s-syrom-1kg/?r1=yandext&amp;r2=</url>
+<price>625.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/62b/62bb31e4988076dca1aa28491fd1a3f2.jpg</picture>
+<name>Колбаски Гриль с сыром 0,9-1,2кг защ/атм</name>
+<description></description>
+</offer>
+<offer id="5060" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/kolbaski-uikend-0.9kg/?r1=yandext&amp;r2=</url>
+<price>543.49</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/6e0/6e0333a6abd4709f4e19f8dbfcd2a752.jpg</picture>
+<name>Колбаски Уикенд 0,8-1,15кг</name>
+<description></description>
+</offer>
+<offer id="5061" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/kolbaski-uikend-0.5kg/?r1=yandext&amp;r2=</url>
+<price>207.9</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/abb/abbb72db4dd99f29bd3ef68f4bac90b2.jpg</picture>
+<name>Колбаски Уикенд 400г</name>
+<description></description>
+</offer>
+<offer id="5063" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/kolbaski-barbekyu-1kg/?r1=yandext&amp;r2=</url>
+<price>579.48</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/778/778a45962bc7e2233795c4c8c224814f.jpg</picture>
+<name>Колбаски Барбекю 0,9-1,2кг защ/атм</name>
+<description></description>
+</offer>
+<offer id="5065" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/kolbaski-u-kostra-1kg/?r1=yandext&amp;r2=</url>
+<price>544.44</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/69e/69e1005b7051d0c28e5be46a7df9c363.jpg</picture>
+<name>Колбаски У костра 0,9-1,2кг защ/атм</name>
+<description></description>
+</offer>
+<offer id="5224" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/Kolbaski-dlya-garki-Chorizo-cvinina-390g/?r1=yandext&amp;r2=</url>
+<price>202.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/589/58973238a8f8210b7e18e8e9b3bca58d.jpg</picture>
+<name>Чоризо свиные колбаски для жарки 390г защ/атм</name>
+<description></description>
+</offer>
+<offer id="5225" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/Kolbaski-dlya-garki-s-kuritcei-maslom-390g/?r1=yandext&amp;r2=</url>
+<price>201.2</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/d91/d917954d0784b4a7d750876a60115e23.jpg</picture>
+<name>Колбаски для жарки с курицей и сливочным маслом 390г</name>
+<description></description>
+</offer>
+<offer id="5226" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/Kolbaski-dlya-garki-baranina-390g/?r1=yandext&amp;r2=</url>
+<price>292.2</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/6ba/6ba2deffbe22486a3a217156281a50ac.jpg</picture>
+<name>Из баранины колбаски для жарки 390г защ/атм</name>
+<description></description>
+</offer>
+<offer id="5227" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/Kolbaski-dlya-garki-indeika-prov-travy-390g/?r1=yandext&amp;r2=</url>
+<price>227.2</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/b85/b855a5b048252cfa33f99785087ce569.jpg</picture>
+<name>С индейкой и прованскими травами колбаски для жарки 390г защ/атм</name>
+<description></description>
+</offer>
+<offer id="5228" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/Kolbaski-dlya-garki-ylitki-gri-svinina/?r1=yandext&amp;r2=</url>
+<price>298.08</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/2cc/2cc100eedebd8494af756ca53383d2c8.jpg</picture>
+<name>Свиные улитки-гриль для жарки 130-450г в/у</name>
+<description></description>
+</offer>
+<offer id="5229" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/kolbaski-dlya-garki-govyagi-390g/?r1=yandext&amp;r2=</url>
+<price>213</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/a6f/a6f81c9b085f551adc90945881e5be69.jpg</picture>
+<name>Говяжьи колбаски для жарки 390г защ/атм</name>
+<description></description>
+</offer>
+<offer id="10043" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/kolbaski-alpiyskie-1kg/?r1=yandext&amp;r2=</url>
+<price>490.77</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/a0a/a0acf7385edc0d9e5ef6c22bf194bf29.jpg</picture>
+<name>Колбаски Альпийские 0,75-1,23кг</name>
+<description></description>
+</offer>
+<offer id="11253" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/kolbaski-dlya-shashlycnie-500g/?r1=yandext&amp;r2=</url>
+<price>273</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/de1/de1b79dd77ff6d98bab0cc1eae0231cc.jpg</picture>
+<name>Колбаски для гриля Шашлычные в натуральной оболочке охлажденные 500-650г</name>
+<description></description>
+</offer>
+<offer id="11254" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/kupaty-kurinye-500g/?r1=yandext&amp;r2=</url>
+<price>257.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/674/6740b7b493d2255665a176474edbbd36.jpg</picture>
+<name>Купаты Куриные в натуральной оболочке охлажденные 500-650г</name>
+<description></description>
+</offer>
+<offer id="11255" available="true">
+<url>http://shop.okraina.ru/catalog/kolbaski-dlja-zharki/kupaty-domashnii-500g/?r1=yandext&amp;r2=</url>
+<price>273</price>
+<currencyId>RUB</currencyId>
+<categoryId>582</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/add/add75c5fc394af21a2357006fa770995.jpg</picture>
+<name>Купаты Домашние в натуральной оболочке охлажденные 500-650г</name>
+<description></description>
+</offer>
+<offer id="4971" available="true">
+<url>http://shop.okraina.ru/catalog/Shaslyki/shashlyk-klassicheskiy/?r1=yandext&amp;r2=</url>
+<price>679.1</price>
+<currencyId>RUB</currencyId>
+<categoryId>583</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/ecc/eccd78860148c51317a2f63affe0a70c.jpg</picture>
+<name>Шашлык Классический свиной охл ведро 2кг</name>
+<description></description>
+</offer>
+<offer id="5066" available="true">
+<url>http://shop.okraina.ru/catalog/Shaslyki/shashlyk-kurinyy-firmenny/?r1=yandext&amp;r2=</url>
+<price>436.6</price>
+<currencyId>RUB</currencyId>
+<categoryId>583</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/fd5/fd55a31386136500fd43a274800e5f0c.jpg</picture>
+<name>Шашлык куриный в маринаде  охл ведро 2кг</name>
+<description></description>
+</offer>
+<offer id="5067" available="true">
+<url>http://shop.okraina.ru/catalog/Shaslyki/shashlyk-klassicheskiy-v-krasnom-marinade/?r1=yandext&amp;r2=</url>
+<price>703.4</price>
+<currencyId>RUB</currencyId>
+<categoryId>583</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/ed0/ed097637c46df227631f1c6825ab4359.jpg</picture>
+<name>Шашлык Классический свиной в красном маринаде охл ведро 2кг</name>
+<description></description>
+</offer>
+<offer id="5068" available="true">
+<url>http://shop.okraina.ru/catalog/Shaslyki/shashlyk-svinoy/?r1=yandext&amp;r2=</url>
+<price>715.6</price>
+<currencyId>RUB</currencyId>
+<categoryId>583</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/645/6458fb3ddd30701726e90cb5a59f1f41.jpg</picture>
+<name>Шашлык Свиной маринованный охл ведро 2кг</name>
+<description></description>
+</offer>
+<offer id="10150" available="true">
+<url>http://shop.okraina.ru/catalog/Shaslyki/shashlyk-iz-file-kurinoi-grudki/?r1=yandext&amp;r2=</url>
+<price>409.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>583</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/682/682ac24b7599fc9e21a419205d4ec508.jpg</picture>
+<name>Шашлык из мяса птицы в маринаде (филе грудки) 1,5кг</name>
+<description></description>
+</offer>
+<offer id="10151" available="true">
+<url>http://shop.okraina.ru/catalog/Shaslyki/shashlyk-svinoi-iz-okoroka/?r1=yandext&amp;r2=</url>
+<price>420</price>
+<currencyId>RUB</currencyId>
+<categoryId>583</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/579/5791ce6d1286af250f5c48d1fa89a370.jpg</picture>
+<name>Шашлык свиной из окорока 1,5кг</name>
+<description></description>
+</offer>
+<offer id="5188" available="true">
+<url>http://shop.okraina.ru/catalog/hleba-myasnye/hleb-myasnoi-chainiy-1.4kg/?r1=yandext&amp;r2=</url>
+<price>702.95</price>
+<currencyId>RUB</currencyId>
+<categoryId>585</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/c41/c415e1410415ea64b1399188eddd1633.jpg</picture>
+<name>Хлеб мясной Чайный 0,7-1,7кг</name>
+<description></description>
+</offer>
+<offer id="10046" available="true">
+<url>http://shop.okraina.ru/catalog/hleba-myasnye/hleb-myasnoi-Italyanskiyi-Okraina/?r1=yandext&amp;r2=</url>
+<price>297</price>
+<currencyId>RUB</currencyId>
+<categoryId>585</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/19c/19cf06cbfc6d421ea3b15cca97b55322.jpg</picture>
+<name>Хлеб мясной Итальянский Окраина 470-600г</name>
+<description></description>
+</offer>
+<offer id="10047" available="true">
+<url>http://shop.okraina.ru/catalog/hleba-myasnye/hleb-myasnoi-Leberkas-Okraina/?r1=yandext&amp;r2=</url>
+<price>303.84</price>
+<currencyId>RUB</currencyId>
+<categoryId>585</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/c05/c05822e4476bee3b8f959f7c06d002ca.jpg</picture>
+<name>Хлеб мясной Leberkas Окраина 470-600г</name>
+<description></description>
+</offer>
+<offer id="10048" available="true">
+<url>http://shop.okraina.ru/catalog/hleba-myasnye/hleb-myasnoi-Leberkas-s-syrom-Okraina/?r1=yandext&amp;r2=</url>
+<price>311.76</price>
+<currencyId>RUB</currencyId>
+<categoryId>585</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/5ac/5ac2e40b258a2cec261aacd030585ed7.jpg</picture>
+<name>Хлеб мясной Leberkas с сыром Окраина 470-600г</name>
+<description></description>
+</offer>
+<offer id="10049" available="true">
+<url>http://shop.okraina.ru/catalog/hleba-myasnye/hleb-myasnoi-Leberkas-s-paprikoi-Okraina/?r1=yandext&amp;r2=</url>
+<price>308.16</price>
+<currencyId>RUB</currencyId>
+<categoryId>585</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/b76/b760f154cce3ae4367f83a197d7635ac.jpg</picture>
+<name>Хлеб мясной Leberkas с паприкой Окраина 470-600г</name>
+<description></description>
+</offer>
+<offer id="11246" available="true">
+<url>http://shop.okraina.ru/catalog/hleba-myasnye/hleb-myasnoi-chainiy-500g/?r1=yandext&amp;r2=</url>
+<price>239.83</price>
+<currencyId>RUB</currencyId>
+<categoryId>585</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/eb6/eb62df9138f7e7495e6ab390beaecb7c.jpg</picture>
+<name>Хлеб мясной Чайный 200-580г</name>
+<description></description>
+</offer>
+<offer id="5770" available="true">
+<url>http://shop.okraina.ru/catalog/podarochnye-karty/podarochniy-sertifikat-5000/?r1=yandext&amp;r2=</url>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<categoryId>588</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/ddd/ddd8f8b52b6285f6c9bddd6b97eee13b.jpg</picture>
+<name>Подарочная карта 5000 руб.</name>
+<description></description>
+</offer>
+<offer id="5772" available="true">
+<url>http://shop.okraina.ru/catalog/podarochnye-karty/podarochniy-sertifikat-1000/?r1=yandext&amp;r2=</url>
+<price>1000</price>
+<currencyId>RUB</currencyId>
+<categoryId>588</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/2a6/2a607069696362a5e0171f4135348432.jpg</picture>
+<name>Подарочная карта1000 руб.</name>
+<description></description>
+</offer>
+<offer id="5773" available="true">
+<url>http://shop.okraina.ru/catalog/podarochnye-karty/podarochniy-sertifikat-3000/?r1=yandext&amp;r2=</url>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<categoryId>588</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/aa0/aa018b73be9666f6ecda570e5897cdab.jpg</picture>
+<name>Подарочная карта 3000 руб.</name>
+<description></description>
+</offer>
+<offer id="9899" available="true">
+<url>http://shop.okraina.ru/catalog/horeca/HoReCa-sardelki-barbeku-mini/?r1=yandext&amp;r2=</url>
+<price>789.57</price>
+<currencyId>RUB</currencyId>
+<categoryId>591</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/f77/f779247dcff0f3ad83ed77e0240553ce.jpg</picture>
+<name>HoReCa Сосиски Барбекю МИНИ Окраина без оболочки</name>
+<description></description>
+</offer>
+<offer id="9900" available="true">
+<url>http://shop.okraina.ru/catalog/horeca/HoReCa-govyadina-delikatesnaya/?r1=yandext&amp;r2=</url>
+<price>1512.5</price>
+<currencyId>RUB</currencyId>
+<categoryId>591</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/35f/35feaa636b00fdd55a42838f9a55d551.jpg</picture>
+<name>HoReCa Говядина Деликатесная  Окраина копчено-вареная</name>
+<description></description>
+</offer>
+<offer id="9901" available="true">
+<url>http://shop.okraina.ru/catalog/horeca/HoReCa-sosiski-s-natyralnym-molokom/?r1=yandext&amp;r2=</url>
+<price>658.35</price>
+<currencyId>RUB</currencyId>
+<categoryId>591</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/5c8/5c8f8cf3509afa5c0f3f2f82b4b12c3a.jpg</picture>
+<name>HoReCa Сосиски с натуральным молоком Окраина ~2кг</name>
+<description></description>
+</offer>
+<offer id="9902" available="true">
+<url>http://shop.okraina.ru/catalog/horeca/05968-Grudka-Okraina/?r1=yandext&amp;r2=</url>
+<price>1009.8</price>
+<currencyId>RUB</currencyId>
+<categoryId>591</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/726/72648ced784744f3fed37386cdb3b574.jpg</picture>
+<name>HoReCa Грудка Окраина варено-копченая</name>
+<description></description>
+</offer>
+<offer id="9903" available="true">
+<url>http://shop.okraina.ru/catalog/horeca/HoReCa-vetchina-tirolskaya/?r1=yandext&amp;r2=</url>
+<price>637.56</price>
+<currencyId>RUB</currencyId>
+<categoryId>591</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/cb4/cb4013909d040545829ccce08748a949.jpg</picture>
+<name>HoReCa Ветчина Тирольская в полиамиде</name>
+<description></description>
+</offer>
+<offer id="9904" available="true">
+<url>http://shop.okraina.ru/catalog/horeca/HoReCa-bekon-vengerskiy/?r1=yandext&amp;r2=</url>
+<price>146.3</price>
+<currencyId>RUB</currencyId>
+<categoryId>591</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/9b8/9b87f34efa816e8d22fa08040d7d6dd4.jpg</picture>
+<name>HoReCa Бекон Венгерский копчено-вареный нарезка 500 г/шт</name>
+<description></description>
+</offer>
+<offer id="9905" available="true">
+<url>http://shop.okraina.ru/catalog/horeca/HoReCa-vengerskaya-Okraina/?r1=yandext&amp;r2=</url>
+<price>312.66</price>
+<currencyId>RUB</currencyId>
+<categoryId>591</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/2d6/2d6419a7d0a9d80d76493bfc63fa9d32.jpg</picture>
+<name>HoReCa Венгерская Окраина полукопченая в оболочке фиброуз</name>
+<description></description>
+</offer>
+<offer id="9906" available="true">
+<url>http://shop.okraina.ru/catalog/horeca/HoReCa-vetchina-v-forme/?r1=yandext&amp;r2=</url>
+<price>1461.25</price>
+<currencyId>RUB</currencyId>
+<categoryId>591</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/162/1626cbb0f37fddb620fbd32f0f9c2c4c.jpg</picture>
+<name>HoReCa Ветчина в форме Окраина</name>
+<description></description>
+</offer>
+<offer id="9907" available="true">
+<url>http://shop.okraina.ru/catalog/horeca/HoReCa-sardelki-Domashnie/?r1=yandext&amp;r2=</url>
+<price>685.03</price>
+<currencyId>RUB</currencyId>
+<categoryId>591</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/1f4/1f4c8f1ca4483ff312851d134c28bec9.jpg</picture>
+<name>HoReCa Сардельки Домашние Окраина в натуральной оболочке ~2кг</name>
+<description></description>
+</offer>
+<offer id="9909" available="true">
+<url>http://shop.okraina.ru/catalog/horeca/HoReCa-koreyka-svinaya-na-kosti/?r1=yandext&amp;r2=</url>
+<price>1540.94</price>
+<currencyId>RUB</currencyId>
+<categoryId>591</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/39d/39d609ad3969cce804deaaf13ae2ab3e.jpg</picture>
+<name>HoReCa Корейка свиная  на кости Окраина замороженная</name>
+<description></description>
+</offer>
+<offer id="11195" available="true">
+<url>http://shop.okraina.ru/catalog/horeca/HoReCa-kolbaski-uikend-mini/?r1=yandext&amp;r2=</url>
+<price>574.56</price>
+<currencyId>RUB</currencyId>
+<categoryId>591</categoryId>
+<picture>http://shop.okraina.ru/upload/iblock/d35/d35a5b9d5f24a151817efa35093f37b0.jpg</picture>
+<name>HoReCa Колбаски для жарки мини Уикенд</name>
+<description></description>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

@@ -1,0 +1,11 @@
+
+(1) Unzip the file you downloaded onto your PC in a place you can find it.
+
+(2) FTP the entire unzipped folder named "keywords" and its content to your site.   For example, it could be uploaded to www.yourdomain.com/keywords
+
+(3) Go to that directory with any browser and you will see the script's homepage. 
+
+(4) Ensure that the the folder named "results" has write permission.  CHMOD 777 or 775.
+
+(5) You can now use the script to generate tons of buyer keywords!
+

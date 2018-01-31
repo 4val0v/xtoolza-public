@@ -1,0 +1,19 @@
+#primer 1
+#code:
+SetEnvIfNoCase User-Agent "^Baiduspider" bad_bot
+SetEnvIfNoCase User-Agent "^MSNBot" bad_bot
+SetEnvIfNoCase User-Agent "^Baiduspider" bad_bot
+SetEnvIfNoCase User-Agent "^Ezooms" bad_bot
+
+#primer 2
+#code:
+
+Order Allow,Deny
+Allow from all
+Deny from env=bad_bot
+
+###--- robots.txt will answer, but for everything else 404 (if user-agent - Baiduspider and Ezooms )
+code:
+RewriteCond %{HTTP_USER_AGENT} \b(Baiduspider|Ezooms)\b [NC]
+RewriteCond %{REQUEST_URI} !^/robots\.txt [NC]
+RewriteRule .* - [R=404]

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /404/
+Disallow: /403/
+Disallow: captcha.php
+Disallow: download_file.php
+Sitemap: http://site.ru/sitemap.xml
+Host: site.ru

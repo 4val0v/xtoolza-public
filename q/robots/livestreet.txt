@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /search/
+Disallow: /rss/
+Disallow: /yarss/
+Sitemap: http://site.ru/sitemap.xml
+Host: site.ru

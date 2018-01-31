@@ -1,0 +1,16 @@
+User-agent: * 
+Disallow: /admin/
+Disallow: /backups/
+Disallow: /backup/
+Disallow: /core/
+Disallow: /components/
+Disallow: /wysiwyg/
+Disallow: /includes/
+Disallow: /modules/
+Disallow: /filters/
+Disallow: /languages/
+Disallow: /install/
+Disallow: /users/
+Disallow: /core/
+Sitemap: http://site.ru/sitemap.xml
+Host: site.ru

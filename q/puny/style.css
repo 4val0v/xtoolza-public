@@ -1,0 +1,2 @@
+textarea{border:solid 1px #ddd;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;resize:none;padding:10px;box-shadow:inset 0 0 5px #eee;}textarea:active,textarea:focus{border-color:#ccc;box-shadow:0 0 10px #c0bba7,inset 0 0 5px #eee;}textarea.disabled{background:#ededed;color:#222;}textarea:active.disabled,textarea:focus.disabled{border:solid 1px #ddd !important;box-shadow:none !important;}
+label {font-family:Arial; font-size:16px;}

@@ -1,0 +1,7 @@
+$cat .gitignore
+/pumba-manual
+/pumba-manual2
+/q/logs
+/q/cms/logs
+*.log
+/feeds

@@ -1,0 +1,111 @@
+﻿# c domain.ru/index.php на domain.ru
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.(php|html|htm)\ HTTP/
+RewriteRule ^index.(php|html|htm)$ http://my-secret-love.me/ [R=301,L]
+
+# c domain.ru/page/index.php на domain.ru/page/
+RewriteRule ^(.*)/index\.(php|html|htm)$ http://my-secret-love.me/$1/ [R=301,L]
+
+# с без слеша на слеш
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !(.*\..*|.*/)$
+RewriteRule ^(.*)$ /$1/ [R=301,L]
+
+# со слеша на без слеша
+RewriteBase /
+RewriteCond %{HTTP_HOST} (.*)
+RewriteCond %{REQUEST_URI} /$ [NC]
+RewriteRule ^(.*)(/)$ $1 [L,R=301] 
+
+# Убрать слеш после **.html, внутри сайта.
+RewriteEngine On
+RewriteBase /
+RewriteRule ^(.*\.html)/$ $1 [R=301,L]
+
+# Добавить завершающий слэш
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteRule ^(.*[^/])$ $1/ [L,R=301]
+
+# с www на без www
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.domain.com$ [NC]
+RewriteRule ^(.*)$ http://domain.com/$1 [R=301,L]
+
+# (для киррилики:)
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.(.*) [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L] 
+
+# с без www на c www
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^domain.com$ [NC]
+RewriteRule ^(.*)$ http://www.domain.com/$1 [R=301,L]
+
+# (для киррилики:)
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^(?!www\.)(.*) [NC]
+RewriteRule ^(.*) http://www.%1/$1 [R=301,NE,L]
+
+# http://sv-igor.com/ru/htaccess/74-htaccess.html
+
+#Убрать дубли для всех страниц с /index.php для Битрикса
+RewriteCond %{REQUEST_URI} ^(.*)/$
+RewriteRule .* — [L]
+RewriteCond %{ENV:REDIRECT_STATUS} 200
+RewriteRule .* — [L]
+RewriteCond %{REQUEST_METHOD} =GET
+RewriteCond %{REQUEST_URI} ^(.*)/index.php$
+RewriteRule ^(.*)$ %1/ [R=301,L]
+
+Источник: http://p-style.by/cms/bitrix/redirekt-s-index-php-v-bitrix/
+
+
+
+# --uppercase to lowercase start--
+
+RewriteEngine On
+RewriteBase /
+ 
+# If there are caps, set HASCAPS to true and skip next rule
+RewriteRule [A-Z] - [E=HASCAPS:TRUE,S=1]
+ 
+# Skip this entire section if no uppercase letters in requested URL
+RewriteRule ![A-Z] - [S=28]
+ 
+# Replace single occurance of CAP with cap, then process next Rule.
+RewriteRule ^([^A]*)A(.*)$ $1a$2
+RewriteRule ^([^B]*)B(.*)$ $1b$2
+RewriteRule ^([^C]*)C(.*)$ $1c$2
+RewriteRule ^([^D]*)D(.*)$ $1d$2
+RewriteRule ^([^E]*)E(.*)$ $1e$2
+RewriteRule ^([^F]*)F(.*)$ $1f$2
+RewriteRule ^([^G]*)G(.*)$ $1g$2
+RewriteRule ^([^H]*)H(.*)$ $1h$2
+RewriteRule ^([^I]*)I(.*)$ $1i$2
+RewriteRule ^([^J]*)J(.*)$ $1j$2
+RewriteRule ^([^K]*)K(.*)$ $1k$2
+RewriteRule ^([^L]*)L(.*)$ $1l$2
+RewriteRule ^([^M]*)M(.*)$ $1m$2
+RewriteRule ^([^N]*)N(.*)$ $1n$2
+RewriteRule ^([^O]*)O(.*)$ $1o$2
+RewriteRule ^([^P]*)P(.*)$ $1p$2
+RewriteRule ^([^Q]*)Q(.*)$ $1q$2
+RewriteRule ^([^R]*)R(.*)$ $1r$2
+RewriteRule ^([^S]*)S(.*)$ $1s$2
+RewriteRule ^([^T]*)T(.*)$ $1t$2
+RewriteRule ^([^U]*)U(.*)$ $1u$2
+RewriteRule ^([^V]*)V(.*)$ $1v$2
+RewriteRule ^([^W]*)W(.*)$ $1w$2
+RewriteRule ^([^X]*)X(.*)$ $1x$2
+RewriteRule ^([^Y]*)Y(.*)$ $1y$2
+RewriteRule ^([^Z]*)Z(.*)$ $1z$2
+ 
+# If there are any uppercase letters, restart at very first RewriteRule in file.
+RewriteRule [A-Z] - [N]
+ 
+RewriteCond %{ENV:HASCAPS} TRUE
+RewriteRule ^/?(.*) /$1 [R=301,L]
+
+# --uppercase to lowercase stop --
+

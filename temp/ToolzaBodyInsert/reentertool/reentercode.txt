@@ -1,0 +1,52 @@
+<!-- BEGIN REENTER CODE  -->
+<script type="text/javascript" src="/google_tag_files/sha256.js"></script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+<script type="text/javascript">
+  function getGoogleTagsPath() {
+        var normal_url = feedUrlNormalize(window.location.href);
+        var hash = new jsSHA(normal_url, "TEXT").getHash("SHA-256", "HEX");
+        var partition_dir = hash.substring(0, 2);
+        return "\/google_tag_files\/" + partition_dir + "\/" + hash + ".js";
+  }
+
+  function feedUrlNormalize(url) {
+    return url
+      .replace(/utm_\w+=.*?(?:&|$)/g, '')
+      .replace(/(\?.*?)\?.*/g, '$1')
+      .replace(/amp;/g, '')
+      .replace(/[?\/&]+$/g, '')
+  }
+
+  function loadScript(url, callback) {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      if (script.readyState) {
+          script.onreadystatechange = function () {
+              if (script.readyState == "loaded" || script.readyState == "complete") {
+                  script.onreadystatechange = null;
+                  callback();
+              }
+          };
+      } else {
+          script.onload = script.onerror = function () {
+              callback();
+          };
+      }
+      script.src = url;
+      document.getElementsByTagName("head")[0].appendChild(script);
+  }
+
+  loadScript(getGoogleTagsPath(), function() {
+    window.google_trackConversion({
+      google_conversion_id: _СЮДА_ВСТАВИТЬ_ИДЕНТИФИКАТОР_, 
+      google_custom_params: window.google_tag_params,
+      google_remarketing_only: true
+    });
+  });
+</script>
+<noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/_СЮДА_ВСТАВИТЬ_ИДЕНТИФИКАТОР_/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+<!--  END REENTER CODE -->
